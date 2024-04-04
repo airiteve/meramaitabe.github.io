@@ -1027,18 +1027,17 @@ https://cors-proxy.elfsight.com/https://cip4-2048b75120.linear-novi.stvacdn.spec
 
 
 
-
-#EXTINF:-1 group-logo="" group-title="Matchday, 4 April✅" tvg-logo="https://pbs.twimg.com/media/GEUxhVgbUAAd66p.jpg",20:30 Borneo vs Madura ✅
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTINF:-1 group-logo="" group-title="Matchday, 4 April✅" tvg-logo="https://pbs.twimg.com/media/GEUxhVgbUAAd66p.jpg",23:45 Voledam vs Feyenoord ✅
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b81b1942c65f35547ced1bff074206a5:a07dc4d86f51db7195f4b7e2abe9d9e8
-https://nyanv-live-cdn.mncnow.id/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+#EXTVLCOPT:http-referer=https://widevine.licenses4.me/\u0026User-agent\u003dREDLINECLIENT
+https://dcf-ak-livedazn.akamaized.net/dashdrm/dazn-linear-022/stream.mpd
 
-#EXTINF:-1 group-logo="" group-title="Matchday, 4 April✅" tvg-logo="https://pbs.twimg.com/media/GEUxhVgbUAAd66p.jpg",20:30 Persija vs Persis Solo ✅
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjExZWU4OTctOTdiZS0zOTQ0LWE3Y2UtYTIxZWVmODBlNjEz
-#EXTVLCOPT:http-referrer=https://visionplus.id
-https://nyanv-live-cdn.mncnow.id/live/eds/MNCSports3-HD/sa_dash_vmx/MNCSports3-HD.mpd
+#EXTINF:-1 group-logo="" group-title="Matchday, 4 April✅" tvg-logo="https://pbs.twimg.com/media/GEUxhVgbUAAd66p.jpg",2:00 Ajax vs Go Ahead Eagles ✅
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+#EXTVLCOPT:http-referer=https://widevine.licenses4.me/\u0026User-agent\u003dREDLINECLIENT
+https://dcf-ak-livedazn.akamaized.net/dashdrm/dazn-linear-022/stream.mpd
 
 #EXTINF:-1 group-logo="" group-title="Matchday, 4 April✅" tvg-logo="https://pbs.twimg.com/media/GEUxhVgbUAAd66p.jpg",1:30 Liverpool vs Sheffield ✅
 #KODIPROP:inputstream.adaptive.license_type=clearkey
