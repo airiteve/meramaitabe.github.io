@@ -1657,28 +1657,28 @@ https://director.streaming.telia.com/tvm-packager-prod/group2/60ae45e51522bd66f4
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=00057e0dcf77cadc027a69b60e145660:8517f2a86b1bd267fc71a207c9ea3e7a
-https://linear006-ie-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_720_30/Live/channel(tntsport1)/manifest_720.mpd
+https://linear034-ie-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_720_30/Live/channel(tntsport1)/manifest_720.mpd
 
 #EXTINF:-1 group-title="|SPORTS| Premium 1⚽🚩" tvg-id="TNTSports2.uk" tvg-logo="https://dnl.tntsports.co.uk/sd/img/structured-data/tntsports.jpg", TNT Sports 2
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0005520dcd30036b77b924cc5363cad0:ebc86cd5962affaa29593b75d73551ba
-https://linear006-ie-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_720_30/Live/channel(tntsport2)/manifest_720.mpd
+https://linear033-ie-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_720_30/Live/channel(tntsport2)/manifest_720.mpd
 
 #EXTINF:-1 group-title="|SPORTS| Premium 1⚽🚩" tvg-id="TNTSports3.uk" tvg-logo="https://dnl.tntsports.co.uk/sd/img/structured-data/tntsports.jpg",TNT Sports 3
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=00051f0f971600aff940e2b5fddb6a60:816e7a26242bd0ab0c5323e55a97456c
-https://linear006-ie-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_720_30/Live/channel(tntsport3)/manifest_720.mpd
+https://linear034-ie-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_720_30/Live/channel(tntsport3)/manifest_720.mpd
 
 #EXTINF:-1 group-title="|SPORTS| Premium 1⚽🚩" tvg-id="TNTSports4.uk" tvg-logo="https://dnl.tntsports.co.uk/sd/img/structured-data/tntsports.jpg",TNT Sports 4
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=00055a412a3890d72fae79895095c792:63eb81d4f0e0b1c85f9592ab59c13b9a
-https://linear006-ie-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_720_30/Live/channel(tntsport4)/manifest_720.mpd
+https://linear033-ie-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_720_30/Live/channel(tntsport4)/manifest_720.mpd
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0a/TV3%2B_Norway.svg/revision/latest/scale-to-width-down/200?cb=20220831132802" group-title="|SPORTS| Premium 1⚽🚩", NO - TV3+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -2048,14 +2048,16 @@ https://dcf-ak-livedazn.akamaized.net/dashdrm/dazn-linear-051/stream.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=00052a8b8b89655fe5c72f61970fc45b:0aa687336a8329962a9affd5af46300c
-https://linear006-ie-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_720_30/Live/channel(premiersports1)/manifest_720.mpd
+https://linear034-ie-dash1-prd-ll.cdn.skycdp.com/016a/Content/DASH_003_720_120/Live/channel(premiersports1)/manifest_720.mpd
+#https://linear006-ie-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_720_30/Live/channel(premiersports1)/manifest_720.mpd
 
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/PremierSports.png", tvg-id="ksport1hd" group-title="|SPORTS| Premium 1⚽🚩", Premier Sports 2
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=0005dbaaefccfb7c21821e3853357a15:3cc87d22e10759c9e3f78e523218c067
-https://linear006-ie-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_720_30/Live/channel(premiersports2)/manifest_720.mpd
+https://linear033-ie-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_720_120/Live/channel(premiersports2)/manifest_720.mpd
+#https://linear006-ie-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_720_30/Live/channel(premiersports2)/manifest_720.mpd
 
 #EXTINF:-1 tvg-id="DiemaSport.bg" tvg-name="Diema Sport" tvg-logo="https://dl.dropboxusercontent.com/s/yn9gyp48b3t8mkm/diema.png" group-title="|SPORTS| Premium 2⚽🚩",Diema Sport
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
