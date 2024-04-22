@@ -881,161 +881,92 @@
 
 
 
-#EXTINF:-1 group-logo="" group-title="Matchday, 19 April✅" tvg-logo="https://pbs.twimg.com/media/GEUxhVgbUAAd66p.jpg",2:00 Granada vs Athletic Club
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://bkm.beetv.kz/btv/live/hls/000004499.m3u8
-
-#EXTINF:-1 group-logo="" group-title="Matchday, 19 April✅" tvg-logo="https://pbs.twimg.com/media/GEUxhVgbUAAd66p.jpg",23:30 Lazio vs Genoa
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3fd52d1e9ba4b180aec12c9295b62c0f:bb274e33da0c709e62c55d0cba911889
-https://49-231-34-107-rewriter.ais-vidnt.com/ais/play/origin/live/eds/S0001/DASH/S0001.mpd
-
-#EXTINF:-1 group-logo="" group-title="Matchday, 19 April✅" tvg-logo="https://pbs.twimg.com/media/GEUxhVgbUAAd66p.jpg",1:45 Juventus vs Cagliari
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3fd52d1e9ba4b180aec12c9295b62c0f:bb274e33da0c709e62c55d0cba911889
-https://49-231-34-107-rewriter.ais-vidnt.com/ais/play/origin/live/eds/S0001/DASH/S0001.mpd
-
-#EXTINF:-1 group-logo="" group-title="Matchday, 19 April✅" tvg-logo="https://pbs.twimg.com/media/GEUxhVgbUAAd66p.jpg",20:00 China U23 vs South Korea U23
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjExZWU4OTctOTdiZS0zOTQ0LWE3Y2UtYTIxZWVmODBlNjEz
-#EXTVLCOPT:http-referrer=https://visionplus.id
-https://melon-live-cdn.mncnow.id/live/eds/soccerchannel-test/sa_dash_vmx/soccerchannel-test.mpd
-
-#EXTINF:-1 group-logo="" group-title="Matchday, 19 April✅" tvg-logo="https://pbs.twimg.com/media/GEUxhVgbUAAd66p.jpg",22:30 Arab U23 vs Thailand U23
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjExZWU4OTctOTdiZS0zOTQ0LWE3Y2UtYTIxZWVmODBlNjEz
-#EXTVLCOPT:http-referrer=https://visionplus.id
-https://melon-live-cdn.mncnow.id/live/eds/soccerchannel-test/sa_dash_vmx/soccerchannel-test.mpd
-
-#EXTINF:-1 group-logo="" group-title="Matchday, 19 April✅" tvg-logo="https://pbs.twimg.com/media/GEUxhVgbUAAd66p.jpg",1:00 Tajikistan U23 vs Irak U23
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjExZWU4OTctOTdiZS0zOTQ0LWE3Y2UtYTIxZWVmODBlNjEz
-#EXTVLCOPT:http-referrer=https://visionplus.id
-https://melon-live-cdn.mncnow.id/live/eds/soccerchannel-test/sa_dash_vmx/soccerchannel-test.mpd
-
-#EXTINF:-1 group-logo="" group-title="Matchday, 19 April✅" tvg-logo="https://pbs.twimg.com/media/GEUxhVgbUAAd66p.jpg",22:00 Al Nassr vs Al Feiha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-#EXTVLCOPT:http-referer=https://widevine.licenses4.me/\u0026User-agent\u003dREDLINECLIENT
-https://dcf-ak-livedazn.akamaized.net/dashdrm/dazn-linear-022/stream.mpd
-
-#EXTINF:-1 group-logo="" group-title="Matchday, 19 April✅" tvg-logo="https://pbs.twimg.com/media/GEUxhVgbUAAd66p.jpg",1:00 Al Hilal vs Al Ahli
-https://dai.google.com/linear/hls/event/V9h-iyOxRiGp41ppQScDSQ/master.m3u8 
-
-
-
-
-
-#EXTINF:-1 group-logo="" group-title="Matchday, 20 April✅" tvg-logo="https://pbs.twimg.com/media/GEUxhVgbUAAd66p.jpg",21:00 Luton vs Brentford
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=882c9f5613b43b47adc70aa968a308ce:de534ef8914bfe62ba3cdd6bdb9e1c04
-https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-east)/master.mpd
-
-#EXTINF:-1 group-logo="" group-title="Matchday, 20 April✅" tvg-logo="https://pbs.twimg.com/media/GEUxhVgbUAAd66p.jpg",1:30 Wolves vs Arsenal
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=882c9f5613b43b47adc70aa968a308ce:de534ef8914bfe62ba3cdd6bdb9e1c04
-https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-east)/master.mpd
-
-#EXTINF:-1 group-logo="" group-title="Matchday, 20 April✅" tvg-logo="https://pbs.twimg.com/media/GEUxhVgbUAAd66p.jpg",23:15 Man City vs Chelsea
+#EXTINF:-1 group-logo="" group-title="Matchday, 22 April✅" tvg-logo="https://pbs.twimg.com/media/GEUxhVgbUAAd66p.jpg",2:00 Sevilla vs Mallorca
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=aa724943787320593f5563048c90032d:a039276254f53769b040199a4eca8c2c
 https://49-231-34-107-rewriter.ais-vidnt.com/ais/play/origin/live/eds/S0003/DASH/S0003.mpd
 
-#EXTINF:-1 group-logo="" group-title="Matchday, 20 April✅" tvg-logo="https://pbs.twimg.com/media/GEUxhVgbUAAd66p.jpg",23:00 Napoli vs Empoli
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3fd52d1e9ba4b180aec12c9295b62c0f:bb274e33da0c709e62c55d0cba911889
-https://49-231-34-107-rewriter.ais-vidnt.com/ais/play/origin/live/eds/S0001/DASH/S0001.mpd
-
-#EXTINF:-1 group-logo="" group-title="Matchday, 20 April✅" tvg-logo="https://pbs.twimg.com/media/GEUxhVgbUAAd66p.jpg",23:30 Munchen vs Berlin
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=00362452ed102000ccea64c311921dc2:02f27bd6caab7633d3083b94d3958b1c
-https://linear301-it-dash1-prd.selector.skycdn.it/016a/31023/FHD/skysportuno/master.mpd
-
-#EXTINF:-1 group-logo="" group-title="Matchday, 20 April✅" tvg-logo="https://pbs.twimg.com/media/GEUxhVgbUAAd66p.jpg",20:00 Malaysia U23 vs Vietnam U23
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjExZWU4OTctOTdiZS0zOTQ0LWE3Y2UtYTIxZWVmODBlNjEz
-#EXTVLCOPT:http-referrer=https://visionplus.id
-https://melon-live-cdn.mncnow.id/live/eds/soccerchannel-test/sa_dash_vmx/soccerchannel-test.mpd
-
-#EXTINF:-1 group-logo="" group-title="Matchday, 20 April✅" tvg-logo="https://pbs.twimg.com/media/GEUxhVgbUAAd66p.jpg",22:30 Kuwait U23 vs Uzbekistan U23
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjExZWU4OTctOTdiZS0zOTQ0LWE3Y2UtYTIxZWVmODBlNjEz
-#EXTVLCOPT:http-referrer=https://visionplus.id
-https://melon-live-cdn.mncnow.id/live/eds/soccerchannel-test/sa_dash_vmx/soccerchannel-test.mpd
-
-#EXTINF:-1 group-logo="" group-title="Matchday, 20 April✅" tvg-logo="https://pbs.twimg.com/media/GEUxhVgbUAAd66p.jpg",21:15 Venezia vs Lecco
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=00368000eaecbeeafd84c05b3b8243af:8f84185910e18ae0ca8a45004625a000
-https://linear311-it-dash1-prd-akp2.cdn13.skycdp.com/016a/31917/FHD/skysport251/master.mpd
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 group-logo="" group-title="Matchday, 21 April✅" tvg-logo="https://pbs.twimg.com/media/GEUxhVgbUAAd66p.jpg",19:30 Everton vs Forest
+#EXTINF:-1 group-logo="" group-title="Matchday, 22 April✅" tvg-logo="https://pbs.twimg.com/media/GEUxhVgbUAAd66p.jpg",23:30 Roma vs Bologna
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=882c9f5613b43b47adc70aa968a308ce:de534ef8914bfe62ba3cdd6bdb9e1c04
-https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-east)/master.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8e5c88c1ad411ce4aa1fcd3e63fa9448:fb4e6d3c2a444c3711477438bcc0b5fc
+https://pop5clustera00de07172379a62d6189.hypp.tv/PLTV/88888888/224/3221227927/3221227927.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=U0v281lovZMLWzqtXjPtYuOXwQCoIQRk449J%2BBUCcawgQY43Tg5eLk6%2BKHkOBbkVIq%2FzwD5xYAe8dI3PltEQ%2BUrcymHBIhx5oJP4jv2fPK0%3D%3A20230206101746%3AUTC%2C1003663983%2C115.164.187.20%2C20230206101746%2Curn:Huawei:liveTV:XTV55456338%2C1003663983%2C-1%2C0%2C1%2C%2C%2C2%2C593%2C%2C%2C2%2C1343117%2C0%2C248412%2C47562943%2C%2C%2C2%2C1%2CEND&GuardEncType=2&it=H4sIAAAAAAAAADWOQY_CIBSE_w1HApSqPXByY2Jiqol1r-YBD2xKi0I18d_brt25vZn5XmZMYHD_o4oNc9pVVsvSSF45raWoDCvEdBQlSpLxUUcliIEQ2sHX0c7Y73l75YwyKgSnXJBmfrcL4Jdm_ew1JlX8Y2dMr9agstnRF2QK3if0MLZxoKcA70sKS4Vgs0zjq3W5qpicJNZknN0Gcjcl5AZ5G_s7JLSH6P8A5SBkJHcwHXisoUc1PEP4csdkpzUfwVvnv_QAAAA&tenantId=6001
 
-#EXTINF:-1 group-logo="" group-title="Matchday, 21 April✅" tvg-logo="https://pbs.twimg.com/media/GEUxhVgbUAAd66p.jpg",21:00 Aston Villa vs Bournemouth
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-https://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-057/stream.mpd?p=web
-
-#EXTINF:-1 group-logo="" group-title="Matchday, 21 April✅" tvg-logo="https://pbs.twimg.com/media/GEUxhVgbUAAd66p.jpg",21:00 Palace vs Westham Utd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-https://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-056/stream.mpd?p=web
-
-#EXTINF:-1 group-logo="" group-title="Matchday, 21 April✅" tvg-logo="https://pbs.twimg.com/media/GEUxhVgbUAAd66p.jpg",22:30 Liverpool vs Fulham
+#EXTINF:-1 group-logo="" group-title="Matchday, 22 April✅" tvg-logo="https://pbs.twimg.com/media/GEUxhVgbUAAd66p.jpg",1:45 Milan vs Internazionale
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=882c9f5613b43b47adc70aa968a308ce:de534ef8914bfe62ba3cdd6bdb9e1c04
-https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-east)/master.mpd
-
-#EXTINF:-1 group-logo="" group-title="Matchday, 21 April✅" tvg-logo="https://pbs.twimg.com/media/GEUxhVgbUAAd66p.jpg",23:30 Alaves vs ATM
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3fd52d1e9ba4b180aec12c9295b62c0f:bb274e33da0c709e62c55d0cba911889
-https://49-231-34-107-rewriter.ais-vidnt.com/ais/play/origin/live/eds/S0001/DASH/S0001.mpd
+#KODIPROP:inputstream.adaptive.license_key=8e5c88c1ad411ce4aa1fcd3e63fa9448:fb4e6d3c2a444c3711477438bcc0b5fc
+https://pop5clustera00de07172379a62d6189.hypp.tv/PLTV/88888888/224/3221227927/3221227927.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=U0v281lovZMLWzqtXjPtYuOXwQCoIQRk449J%2BBUCcawgQY43Tg5eLk6%2BKHkOBbkVIq%2FzwD5xYAe8dI3PltEQ%2BUrcymHBIhx5oJP4jv2fPK0%3D%3A20230206101746%3AUTC%2C1003663983%2C115.164.187.20%2C20230206101746%2Curn:Huawei:liveTV:XTV55456338%2C1003663983%2C-1%2C0%2C1%2C%2C%2C2%2C593%2C%2C%2C2%2C1343117%2C0%2C248412%2C47562943%2C%2C%2C2%2C1%2CEND&GuardEncType=2&it=H4sIAAAAAAAAADWOQY_CIBSE_w1HApSqPXByY2Jiqol1r-YBD2xKi0I18d_brt25vZn5XmZMYHD_o4oNc9pVVsvSSF45raWoDCvEdBQlSpLxUUcliIEQ2sHX0c7Y73l75YwyKgSnXJBmfrcL4Jdm_ew1JlX8Y2dMr9agstnRF2QK3if0MLZxoKcA70sKS4Vgs0zjq3W5qpicJNZknN0Gcjcl5AZ5G_s7JLSH6P8A5SBkJHcwHXisoUc1PEP4csdkpzUfwVvnv_QAAAA&tenantId=6001
 
-#EXTINF:-1 group-logo="" group-title="Matchday, 21 April✅" tvg-logo="https://pbs.twimg.com/media/GEUxhVgbUAAd66p.jpg",2:00 Barcelona vs Real Madrid
+#EXTINF:-1 group-logo="" group-title="Matchday, 22 April✅" tvg-logo="https://pbs.twimg.com/media/GEUxhVgbUAAd66p.jpg",20:00 Jepang U23 vs Korea U23
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=aa724943787320593f5563048c90032d:a039276254f53769b040199a4eca8c2c
-https://49-231-34-107-rewriter.ais-vidnt.com/ais/play/origin/live/eds/S0003/DASH/S0003.mpd
+#KODIPROP:inputstream.adaptive.license_key=d84c325f36814f39bbe59080272b10c3:550727de4c96ef1ecff874905493580f
+https://ssc1-ak.akamaized.net/out/v1/c696e4819b55414388a1a487e8a45ca1/index.mpd
 
-#EXTINF:-1 group-logo="" group-title="Matchday, 21 April✅" tvg-logo="https://pbs.twimg.com/media/GEUxhVgbUAAd66p.jpg",22:30 Leverkusen vs Dortmund
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=aa724943787320593f5563048c90032d:a039276254f53769b040199a4eca8c2c
-https://49-231-34-107-rewriter.ais-vidnt.com/ais/play/origin/live/eds/S0003/DASH/S0003.mpd
-
-#EXTINF:-1 group-logo="" group-title="Matchday, 21 April✅" tvg-logo="https://pbs.twimg.com/media/GEUxhVgbUAAd66p.jpg",21:30 Man United vs Coventry City
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3fd52d1e9ba4b180aec12c9295b62c0f:bb274e33da0c709e62c55d0cba911889
-https://49-231-34-107-rewriter.ais-vidnt.com/ais/play/origin/live/eds/S0001/DASH/S0001.mpd
-
-#EXTINF:-1 group-logo="" group-title="Matchday, 21 April✅" tvg-logo="https://pbs.twimg.com/media/GEUxhVgbUAAd66p.jpg",22:30 Qatar U23 vs Australia U23
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjExZWU4OTctOTdiZS0zOTQ0LWE3Y2UtYTIxZWVmODBlNjEz
-#EXTVLCOPT:http-referrer=https://visionplus.id
-https://melon-live-cdn.mncnow.id/live/eds/soccerchannel-test/sa_dash_vmx/soccerchannel-test.mpd
-
-#EXTINF:-1 group-logo="" group-title="Matchday, 21 April✅" tvg-logo="https://pbs.twimg.com/media/GEUxhVgbUAAd66p.jpg",22:30 Indonesia U23 vs Jordan U23
+#EXTINF:-1 group-logo="" group-title="Matchday, 22 April✅" tvg-logo="https://pbs.twimg.com/media/GEUxhVgbUAAd66p.jpg",20:00 Uae U23 vs China U23
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4d89249bd4ca4ebc9e70443265f9507d:cf074ffd2646c9c2f8513b47fa57bc30
+#KODIPROP:inputstream.adaptive.license_key=ecbc9e6fe6b145efb6658fb5cf7427f8:03c17e28911f71221acbc0b11f900401
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-https://ssc-extra2-ak.akamaized.net/out/v1/8b70de2b70d447ba8a7450ba90926a2d/index.mpd
+https://ssc-extra1-ak.akamaized.net/out/v1/647c58693f1d46af92bd7e69f17912cb/index.mpd
+
+#EXTINF:-1 group-logo="" group-title="Matchday, 22 April✅" tvg-logo="https://pbs.twimg.com/media/GEUxhVgbUAAd66p.jpg",22:30 Thailand U23 vs Tajikistan U23
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ecbc9e6fe6b145efb6658fb5cf7427f8:03c17e28911f71221acbc0b11f900401
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+https://ssc-extra1-ak.akamaized.net/out/v1/647c58693f1d46af92bd7e69f17912cb/index.mpd
+
+#EXTINF:-1 group-logo="" group-title="Matchday, 22 April✅" tvg-logo="https://pbs.twimg.com/media/GEUxhVgbUAAd66p.jpg",22:30 Arab U23 vs Iraq U23
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d84c325f36814f39bbe59080272b10c3:550727de4c96ef1ecff874905493580f
+https://ssc1-ak.akamaized.net/out/v1/c696e4819b55414388a1a487e8a45ca1/index.mpd
+
+
+
+
+
+
+#EXTINF:-1 group-logo="" group-title="Matchday, 23 April✅" tvg-logo="https://pbs.twimg.com/media/GEUxhVgbUAAd66p.jpg",2:00 Arsenal vs Chelsea
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=882c9f5613b43b47adc70aa968a308ce:de534ef8914bfe62ba3cdd6bdb9e1c04
+https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-east)/master.mpd
+
+#EXTINF:-1 group-logo="" group-title="Matchday, 23 April✅" tvg-logo="https://pbs.twimg.com/media/GEUxhVgbUAAd66p.jpg",2:00 Juventus vs Lazio
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-017/stream.mpd?p=web
+
+#EXTINF:-1 group-logo="" group-title="Matchday, 23 April✅" tvg-logo="https://pbs.twimg.com/media/GEUxhVgbUAAd66p.jpg",22:30 Uzbekistan U23 vs Vietnam U23
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d84c325f36814f39bbe59080272b10c3:550727de4c96ef1ecff874905493580f
+https://ssc1-ak.akamaized.net/out/v1/c696e4819b55414388a1a487e8a45ca1/index.mpd
+
+#EXTINF:-1 group-logo="" group-title="Matchday, 23 April✅" tvg-logo="https://pbs.twimg.com/media/GEUxhVgbUAAd66p.jpg",22:30 Kuwait U23 vs Malaysia U23
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ecbc9e6fe6b145efb6658fb5cf7427f8:03c17e28911f71221acbc0b11f900401
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+https://ssc-extra1-ak.akamaized.net/out/v1/647c58693f1d46af92bd7e69f17912cb/index.mpd
 
 
 
@@ -1367,13 +1298,25 @@ https://melon-live-cdn.mncnow.id/live/eds/soccerchannel-test/sa_dash_vmx/soccerc
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjExZWU4OTctOTdiZS0zOTQ0LWE3Y2UtYTIxZWVmODBlNjEz
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 tvg-name="SPO TV 1" tvg-logo="https://i.ibb.co/60xH5KT/Spotv-1-hometv.jpg" group-title="|SPORTS| Badminton&Tennis🏸🎾",SPO TV 1 (V+)
+#EXTINF:-1 tvg-name="SPO TV 1" tvg-logo="https://i.ibb.co/60xH5KT/Spotv-1-hometv.jpg" group-title="|SPORTS| Asia Indonesia🚩",SPO TV 1
 https://nyanv-live-cdn.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjExZWU4OTctOTdiZS0zOTQ0LWE3Y2UtYTIxZWVmODBlNjEz
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 tvg-name="SPO TV 2" tvg-logo="https://i.ibb.co/85XFV75/Spotv-2-hometv.jpg" group-title="|SPORTS| Badminton&Tennis🏸🎾",SPO TV 2 (V+)
+#EXTINF:-1 tvg-name="SPO TV 2" tvg-logo="https://i.ibb.co/85XFV75/Spotv-2-hometv.jpg" group-title="|SPORTS| Asia Indonesia🚩",SPO TV 2
+https://nyanv-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjExZWU4OTctOTdiZS0zOTQ0LWE3Y2UtYTIxZWVmODBlNjEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 tvg-name="SPO TV 1" tvg-logo="https://i.ibb.co/60xH5KT/Spotv-1-hometv.jpg" group-title="|SPORTS| Badminton&Tennis🏸🎾",SPO TV 1
+https://nyanv-live-cdn.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjExZWU4OTctOTdiZS0zOTQ0LWE3Y2UtYTIxZWVmODBlNjEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 tvg-name="SPO TV 2" tvg-logo="https://i.ibb.co/85XFV75/Spotv-2-hometv.jpg" group-title="|SPORTS| Badminton&Tennis🏸🎾",SPO TV 2
 https://nyanv-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1782,11 +1725,6 @@ https://dce-ac-live.cdn.indazn.com:443/dash/dazn-linear-033/stream.mpd?p=web
 
 #EXTINF:-1 tvg-id="RealMadridTV.es" tvg-logo="https://i.imgur.com/5pMo7dL.png" group-title="|SPORTS| Fotbal⚽",Real Madrid TV
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1545
-
-#EXTINF:-1 tvg-id="SuperSport MáXimo 1" tvg-name="SuperSport MáXimo 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/Football_club_barcelona_television.png" group-title="|SPORTS| Fotbal⚽",Barca TV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.43
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddylivehd.php 
-https://webhdrus.onlinehdhls.ru/lb/premium522/index.m3u8|Origin=https://weblivehdplay.ru
 
 #EXTINF:-1 tvg-chno="" tvg-id="LFCTV.uk" tvg-name="LFC TV" tvg-logo="https://i.imgur.com/hWdxcRX.png" group-title="|SPORTS| Fotbal⚽",LFC TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
