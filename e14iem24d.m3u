@@ -919,19 +919,19 @@ http://171.238.181.52:18080/194.m3u8
 
 
 
-#EXTINF:-1 group-logo="" group-title="Matchday, 29 April✅" tvg-logo="https://pbs.twimg.com/media/GEUxhVgbUAAd66p.jpg",2:00 Barcelona vs Valencia - Laliga
+#EXTINF:-1 group-logo="" group-title="Matchday, 29 April✅" tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/010/139/380/small/live-streaming-online-sign-symbol-design-free-png.png",2:00 Barcelona vs Valencia - Laliga
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=43d1c3b25207ff38b22ccfe17d302367:7b1f85f6e81059473b114c16a25c829a
 https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/wjgklbtvhh/out/v1/659736a1e24c40e4865a80ffd75e7de7/cenc.mpd
 
-#EXTINF:-1 group-logo="" group-title="Matchday, 29 April✅" tvg-logo="https://pbs.twimg.com/media/GEUxhVgbUAAd66p.jpg",21:00 Indonesia vs Uzbekistan - AFC U23
+#EXTINF:-1 group-logo="" group-title="Matchday, 29 April✅" tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/010/139/380/small/live-streaming-online-sign-symbol-design-free-png.png",21:00 Indonesia vs Uzbekistan - AFC U23
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=98cfd6fd4812497fb24dc75f7545f2ee:d3006ee69e77b25939728ebf30d3180a
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 https://ssc-extra3-ak.akamaized.net/out/v1/8f1c6c3f05ef4284a64b342891bd85ae/index.mpd
 
-#EXTINF:-1 group-logo="" group-title="Matchday, 29 April✅" tvg-logo="https://pbs.twimg.com/media/GEUxhVgbUAAd66p.jpg",0:30 Jepang vs Irak - AFC U23
+#EXTINF:-1 group-logo="" group-title="Matchday, 29 April✅" tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/010/139/380/small/live-streaming-online-sign-symbol-design-free-png.png",0:30 Jepang vs Irak - AFC U23
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=98cfd6fd4812497fb24dc75f7545f2ee:d3006ee69e77b25939728ebf30d3180a
@@ -943,12 +943,12 @@ https://ssc-extra3-ak.akamaized.net/out/v1/8f1c6c3f05ef4284a64b342891bd85ae/inde
 
 
 
-#EXTINF:-1 group-logo="" group-title="Matchday, 30 April✅" tvg-logo="https://pbs.twimg.com/media/GEUxhVgbUAAd66p.jpg",2:00 Bayern Munchen vs Real Madrid - UCL
+#EXTINF:-1 group-logo="" group-title="Matchday, 30 April✅" tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/010/139/380/small/live-streaming-online-sign-symbol-design-free-png.png",2:00 Bayern Munchen vs Real Madrid - UCL
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=00362452ed102000ccea64c311921dc2:02f27bd6caab7633d3083b94d3958b1c
 https://linear301-it-dash1-prd.selector.skycdn.it/016a/31023/FHD/skysportuno/master.mpd
 
-#EXTINF:-1 group-logo="" group-title="Matchday, 30 April✅" tvg-logo="https://pbs.twimg.com/media/GEUxhVgbUAAd66p.jpg",1:00 Al Ittihad vs Al Hilal - Saudi Cup
+#EXTINF:-1 group-logo="" group-title="Matchday, 30 April✅" tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/010/139/380/small/live-streaming-online-sign-symbol-design-free-png.png",1:00 Al Ittihad vs Al Hilal - Saudi Cup
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
