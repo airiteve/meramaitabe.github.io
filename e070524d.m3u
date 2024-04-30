@@ -977,7 +977,6 @@ https://pop5clustera00de07172379a62d6189.hypp.tv/PLTV/88888888/224/3221227927/32
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjExZWU4OTctOTdiZS0zOTQ0LWE3Y2UtYTIxZWVmODBlNjEz
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 tvg-name="SOCCER CHANNEL" tvg-logo="https://hometv.pw/logo/sports/soccer_channel.jpg" group-title="|SPORTS| Asia Indonesia🚩",SOCCER CHANNEL (V+)
 https://melon-live-cdn.mncnow.id/live/eds/soccerchannel-test/sa_dash_vmx/soccerchannel-test.mpd
 
 #EXTINF:-1 group-logo="" group-title="Matchday, 2 Mei✅" tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/010/139/380/small/live-streaming-online-sign-symbol-design-free-png.png",22:30 Indonesia vs Irak - AFC U23 🇸🇦
@@ -1008,7 +1007,7 @@ https://raw.githubusercontent.com/mimipipi22/lalajo/main/indosiar.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/P1KZ7vx/bri.jpg" group-title="|EVENT| BRI Liga 1🏆",LIVE 1 (BRI)
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDQzYTRlODMtMGE2Mi0zNTNlLWFlMzctZjUxNDk4NDliYjM5
-https://cempedak-live-cdn.mncnow.id/live/eds/eds/Soccer-2/sa_dash_vmx/Soccer-2.mpd
+https://cempedak-live-cdn.mncnow.id/live/eds/Soccer-2/sa_dash_vmx/Soccer-2.mpd
 
 ===============================================================================
 
