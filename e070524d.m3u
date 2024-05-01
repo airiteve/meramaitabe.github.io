@@ -919,25 +919,6 @@ http://171.238.181.52:18080/194.m3u8
 
 
 
-#EXTINF:-1 group-logo="" group-title="Matchday, 30 April✅" tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/010/139/380/small/live-streaming-online-sign-symbol-design-free-png.png",2:00 Bayern Munchen vs Real Madrid - UCL
-https://dai.google.com/linear/hls/event/ltsCG7TBSCSDmyq0rQtvSA/master.m3u8
-
-
-#EXTINF:-1 group-logo="" group-title="Matchday, 30 April✅" tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/010/139/380/small/live-streaming-online-sign-symbol-design-free-png.png",1:00 Al Ittihad vs Al Hilal - Saudi Cup
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent="FireFox"
-#EXTVLCOPT--http-reconnect=true
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d84c325f36814f39bbe59080272b10c3:550727de4c96ef1ecff874905493580f
-https://ssc1-ak.akamaized.net/out/v1/c696e4819b55414388a1a487e8a45ca1/index.mpd
-
-
-
-
-
-
 
 #EXTINF:-1 group-logo="" group-title="Matchday, 1 Mei✅" tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/010/139/380/small/live-streaming-online-sign-symbol-design-free-png.png",2:00 Borussia Dortmund vs PSG - UCL
 https://dai.google.com/linear/hls/event/ltsCG7TBSCSDmyq0rQtvSA/master.m3u8
@@ -988,6 +969,61 @@ https://melon-live-cdn.mncnow.id/live/eds/soccerchannel-test/sa_dash_vmx/soccerc
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d84c325f36814f39bbe59080272b10c3:550727de4c96ef1ecff874905493580f
 https://ssc1-ak.akamaized.net/out/v1/c696e4819b55414388a1a487e8a45ca1/index.mpd
+
+
+
+
+
+
+#EXTINF:-1 group-logo="" group-title="Matchday, 3 Mei✅" tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/010/139/380/small/live-streaming-online-sign-symbol-design-free-png.png",2:00 Luton Town vs Everton - EPL
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+#EXTVLCOPT:http-referer=https://widevine.licenses4.me/\u0026User-agent\u003dREDLINECLIENT
+https://dcf-ak-livedazn.akamaized.net/dashdrm/dazn-linear-052/stream.mpd
+
+#EXTINF:-1 group-logo="" group-title="Matchday, 3 Mei✅" tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/010/139/380/small/live-streaming-online-sign-symbol-design-free-png.png",2:00 Getafe vs Athletic Club - Laliga
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=43d1c3b25207ff38b22ccfe17d302367:7b1f85f6e81059473b114c16a25c829a
+https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/wjgklbtvhh/out/v1/659736a1e24c40e4865a80ffd75e7de7/cenc.mpd
+
+#EXTINF:-1 group-logo="" group-title="Matchday, 3 Mei✅" tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/010/139/380/small/live-streaming-online-sign-symbol-design-free-png.png",1:30 RB Leipzig vs Hoffenheim
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0d2418cc6a29a3516d1854ab2973f25f:4979b73603b430465aa4e7bbdefbc4cc
+https://pop5clustera00de07172379a62d6189.hypp.tv/PLTV/88888888/224/3221227892/3221227892.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=U0v281lovZMLWzqtXjPtYuOXwQCoIQRk449J%2BBUCcawRjfkMvdAX9TZ5I%2BbsmfrUDhVRD65aYf%2BjyDsSSHpLfkrcymHBIhx5oJP4jv2fPK0%3D%3A20230206102855%3AUTC%2C1003663983%2C115.164.187.20%2C20230206102855%2Curn:Huawei:liveTV:XTV55456355%2C1003663983%2C-1%2C0%2C1%2C%2C%2C2%2C593%2C%2C%2C2%2C1343117%2C0%2C248412%2C47562943%2C%2C%2C2%2C1%2CEND&GuardEncType=2&it=H4sIAAAAAAAAADWOwQ6CMBBE_6bHhpYCeuhJY2Ji0AT0atbtUomFagsm_r2ieJ2ZN3lDAKTtWjeXQmUyRcpypVCYJaIiVAmmgFlDgkV6lF5LhuBc29vSmwk7VauzSHjCpRRcSFZPdxsHdl6WY3ehoNM_VlF4tkjaxIY_IXKwNpCFofU9Pzh4HYObJ4zqWU3kRZYvE1VIpRZsmNIa4u3TsCvEle_uEMjsvP0CugEXid0Bb2CphI50Pzr34_bBfGzeA19EPPQAAAA&tenantId=6001
+
+#EXTINF:-1 group-logo="" group-title="Matchday, 3 Mei✅" tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/010/139/380/small/live-streaming-online-sign-symbol-design-free-png.png",22:30 Jepang vs Uzbekistan - AFC U23 🇮🇩
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjExZWU4OTctOTdiZS0zOTQ0LWE3Y2UtYTIxZWVmODBlNjEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+https://melon-live-cdn.mncnow.id/live/eds/soccerchannel-test/sa_dash_vmx/soccerchannel-test.mpd
+
+#EXTINF:-1 group-logo="" group-title="Matchday, 3 Mei✅" tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/010/139/380/small/live-streaming-online-sign-symbol-design-free-png.png",22:30 Jepang vs Uzbekistan - AFC U23 🇸🇦
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d84c325f36814f39bbe59080272b10c3:550727de4c96ef1ecff874905493580f
+https://ssc1-ak.akamaized.net/out/v1/c696e4819b55414388a1a487e8a45ca1/index.mpd
+
+#EXTINF:-1 group-logo="" group-title="Matchday, 3 Mei✅" tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/010/139/380/small/live-streaming-online-sign-symbol-design-free-png.png",22:00 Al Hilal vs Al Taawon - Pro League
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+#EXTVLCOPT:http-referer=https://widevine.licenses4.me/\u0026User-agent\u003dREDLINECLIENT
+https://dcf-ak-livedazn.akamaized.net/dashdrm/dazn-linear-022/stream.mpd
+
+#EXTINF:-1 group-logo="" group-title="Matchday, 3 Mei✅" tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/010/139/380/small/live-streaming-online-sign-symbol-design-free-png.png",1:00 Abha vs Al Ittihad - Pro League
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDQzYTRlODMtMGE2Mi0zNTNlLWFlMzctZjUxNDk4NDliYjM5
+https://cempedak-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
+
+#EXTINF:-1 group-logo="" group-title="Matchday, 3 Mei✅" tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/010/139/380/small/live-streaming-online-sign-symbol-design-free-png.png",1:00 Heerenveen vs Almere City - Endervise
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddylivehd.php 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
+https://webhdrus.onlinehdhls.ru/lb/premium386/index.m3u8|Origin=https://weblivehdplay.ru
 
 
 
@@ -2742,7 +2778,7 @@ https://webhdrus.onlinehdhls.ru/lb/premium784/index.m3u8|Origin=https://webliveh
 http://185.243.7.141:80/play/live.php?mac=00:1a:79:55:43:2c&stream=591587&extension=ts&play_token=svTvpFXaZc
 
 
-#EXTINF:-1 group-title="|SPORTS| Arabic🚩" tvg-logo="https://shahid.mbc.net/mediaObject/2021/MARCH/amjad/untitled/untitled1/Logo_SSC1HD/original/Logo_SSC1HD.png?height=auto&width=288&croppingPoint=&version=1&type=png" ,SSC 1
+#EXTINF:-1 group-title="|SPORTS| Arabic🚩" tvg-logo="https://shahid.mbc.net/mediaObject/2021/MARCH/amjad/untitled/untitled1/Logo_SSC1HD/original/Logo_SSC1HD.png?height=auto&width=288&croppingPoint=&version=1&type=png" ,SSC 1 HD
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
