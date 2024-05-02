@@ -1309,28 +1309,6 @@ https://webtvstream.bhtelecom.ba/hls6/as_premium3.mpd
 
 =========================================== SPORTS ID ===========================================
 
-#EXTINF:-1 tvg-name="USEE Sports 1" tvg-logo="https://i.ibb.co/WVD132W/Usee-sports-1-hometv.jpg" group-title="|SPORTS| Asia Indonesia🚩",USEE Sports 1 (Max)
-https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(d724a7d5-0773-43a6-bf5b-06da1883d520)/manifest.mpd
-#EXTINF:-1 tvg-name="USEE Sports 2" tvg-logo="https://i.ibb.co/sKtQGGW/Usee-sports-2-hometv.jpg" group-title="|SPORTS| Asia Indonesia🚩",USEE Sports 2 (Max)
-https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(0002f5b4-bcc0-4b51-93c8-0de407cf7e19)/manifest.mpd
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#KODIPROP:inputstream.adaptive.manifest_type=dash 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
-#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-#EXTINF:-1 tvg-name="USEE Sports 1" tvg-logo="https://i.ibb.co/WVD132W/Usee-sports-1-hometv.jpg" group-title="|SPORTS| Asia Indonesia🚩",USEE Sports 1 (Indi)
-https://cdn08jtedge.indihometv.com/dassdvr/133/useesport/manifest.mpd
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#KODIPROP:inputstream.adaptive.manifest_type=dash 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
-#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-#EXTINF:-1 tvg-name="USEE Sports 2" tvg-logo="https://i.ibb.co/sKtQGGW/Usee-sports-2-hometv.jpg" group-title="|SPORTS| Asia Indonesia🚩",USEE Sports 2 (Indi)
-https://cdn08jtedge.indihometv.com/dassdvr/133/useesports2/manifest.mpd
-
-#EXTINF:-1 tvg-name="MOJI" tvg-logo="https://i.ibb.co/SyXzvhs/Moji-hometv.jpg" group-title="|SPORTS| Asia Indonesia🚩",MOJI
-https://cdn08jtedge.indihometv.com/dassdvr/134/ochannel/manifest.mpd
-
 #EXTINF:-1 tvg-name="SPORTSTARS 1" tvg-logo="https://raw.githubusercontent.com/Acil2125/ciaelah/main/idn/sportstars1.png" group-title="|SPORTS| Badminton&Tennis🏸🎾",SPORTSTARS 1 (V+)
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDQzYTRlODMtMGE2Mi0zNTNlLWFlMzctZjUxNDk4NDliYjM5
@@ -1409,31 +1387,23 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/beib2/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 group-title="|SPORTS| Asia Indonesia🚩" tvg-logo="https://www.mncvision.id/userfiles/image/channel/150x150fightsport.jpg",Fight Sports
+#EXTINF:-1 group-title="|SPORTS| Asia Indonesia🚩" tvg-logo="https://raw.githubusercontent.com/Acil2125/ciaelah/main/idn/fightsports.png",Fight Sports
 https://nyanv-live-cdn.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports.mpd
 
-#EXTINF:-1 group-title="|SPORTS| Asia Indonesia🚩" tvg-logo="http://linear-poster.astro.com.my/prod/logo/PremierSports.png",Premier Sport (F*)
+#EXTINF:-1 group-title="|SPORTS| Asia Indonesia🚩" tvg-logo="https://raw.githubusercontent.com/Acil2125/ciaelah/main/idn/premiersports.png",Premier Sport (F*)
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch320%29/index.m3u8
 
-#EXTINF:-1 group-title="|SPORTS| Asia Indonesia🚩" tvg-logo="https://dnl.eurosport.com/sd/img/structured-data/eurosport.jpg",Eurosport (F*)
+#EXTINF:-1 group-title="|SPORTS| Asia Indonesia🚩" tvg-logo="https://raw.githubusercontent.com/Acil2125/ciaelah/main/idn/eurosports.png",Eurosport (F*)
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch21%29/index.m3u8
 
 
-#EXTINF:-1 tvg-name="WWE" tvg-logo="https://i.ibb.co/hgQ2h4v/Wwe-hometv.jpg" group-title="|SPORTS| Asia Indonesia🚩",WWE (*)
-https://d2p372oxiwmcn1.cloudfront.net/hls/1080p/playlist.m3u8
-
-#EXTINF:-1 tvg-name="GOLF CHANNEL" tvg-logo="https://i.ibb.co/7Xrtdz4/Nbc-golf-hometv.jpg" group-title="|SPORTS| Asia Indonesia🚩",GOLF CHANNEL
+#EXTINF:-1 tvg-name="GOLF CHANNEL" tvg-logo="https://raw.githubusercontent.com/Acil2125/ciaelah/main/idn/golfchannel.png" group-title="|SPORTS| Asia Indonesia🚩",GOLF CHANNEL
 http://muka03.wanicelife.com:8880/3ca7283n03/asdf23e423/71107
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-#EXTINF:-1 tvg-name="NBA TV" tvg-logo="https://i.ibb.co/jzZvcmP/Nba-hometv.jpg" group-title="|SPORTS| Asia Indonesia🚩",NBA TV (Indi)
+#EXTINF:-1 tvg-name="NBA TV" tvg-logo="https://raw.githubusercontent.com/Acil2125/ciaelah/main/idn/nbatv.png" group-title="|SPORTS| Asia Indonesia🚩",NBA TV ID
 https://cdn08jtedge.indihometv.com/dassdvr/133/nba/manifest.mpd
-
-#EXTINF:-1 tvg-name="TVRI SPORT" tvg-logo="https://i.ibb.co/42dwcpw/Tvri-sport-hometv.jpg" group-title="|SPORTS| Asia Indonesia🚩",TVRI SPORT
-http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/stream3/streamPlaylist.m3u8
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRI4)/index.m3u8
-https://epg.pw/stream/1e0fcfc4f18549722a9231c62a97daeb28dc0347372af159f9aa06cf1cbdee64.m3u8
 
 
 =========================================== BeIN Sport ===========================================
@@ -3399,67 +3369,67 @@ https://edge.taghtia.com/sa/17.m3u8
 
 
 
-#EXTINF:-1 group-title="|SPORTS| Asia Indonesia🚩" tvg-logo="https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD1.png",TRUE SPORTS PREMIER 1
+#EXTINF:-1 group-title="|SPORTS| Asia Indonesia🚩" tvg-logo="https://raw.githubusercontent.com/Acil2125/ciaelah/main/idn/truepremier.png",TRUE SPORTS PREMIER 1
 https://edge1.laotv.la/live/TSport1/index.m3u8
-#EXTINF:-1 group-title="|SPORTS| Asia Indonesia🚩" tvg-logo="https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD2.png",True Sports Premier 2
+#EXTINF:-1 group-title="|SPORTS| Asia Indonesia🚩" tvg-logo="https://raw.githubusercontent.com/Acil2125/ciaelah/main/idn/truepremier.png",True Sports Premier 2
 https://edge1.laotv.la/live/TSport2/index.m3u8
 
-#EXTINF:-1 group-title="|SPORTS| Asia Indonesia🚩" tvg-id="truepremierfootball1.th" tvg-logo="https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD1.png",True Premier 1
+#EXTINF:-1 group-title="|SPORTS| Asia Indonesia🚩" tvg-id="truepremierfootball1.th" tvg-logo="https://raw.githubusercontent.com/Acil2125/ciaelah/main/idn/truepremier.png",True Premier 1
 #EXTVLCOPT:http-referrer=https://www.youdooball.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
 https://sport.livedoomovies.com:4432/02_PremierHD1_720p/chunklist.m3u8
 
-#EXTINF:-1 group-title="|SPORTS| Asia Indonesia🚩" tvg-id="truepremierfootball2.th" tvg-logo="https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD2.png",True Premier 2
+#EXTINF:-1 group-title="|SPORTS| Asia Indonesia🚩" tvg-id="truepremierfootball2.th" tvg-logo="https://raw.githubusercontent.com/Acil2125/ciaelah/main/idn/truepremier.png",True Premier 2
 #EXTVLCOPT:http-referrer=https://www.youdooball.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
 https://sport.livedoomovies.com:4432/02_PremierHD2_720p/chunklist.m3u8
 
-#EXTINF:-1 group-title="|SPORTS| Asia Indonesia🚩" tvg-id="truepremierfootball3.th" tvg-logo="https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD3.png",True Premier 3
+#EXTINF:-1 group-title="|SPORTS| Asia Indonesia🚩" tvg-id="truepremierfootball3.th" tvg-logo="https://raw.githubusercontent.com/Acil2125/ciaelah/main/idn/truepremier.png",True Premier 3
 #EXTVLCOPT:http-referrer=https://www.youdooball.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
 https://sport.livedoomovies.com:4432/02_PremierHD3_720p/chunklist.m3u8
 
-#EXTINF:-1 group-title="|SPORTS| Asia Indonesia🚩" tvg-id="truepremierfootball4.th" tvg-logo="https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD4.png",True Premier 4
+#EXTINF:-1 group-title="|SPORTS| Asia Indonesia🚩" tvg-id="truepremierfootball4.th" tvg-logo="https://raw.githubusercontent.com/Acil2125/ciaelah/main/idn/truepremier.png",True Premier 4
 #EXTVLCOPT:http-referrer=https://www.youdooball.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
 https://sport.livedoomovies.com:4432/02_PremierHD4_720p/chunklist.m3u8
 
-#EXTINF:-1 group-title="|SPORTS| Asia Indonesia🚩" tvg-id="truepremierfootball5.th" tvg-logo="https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD5.png",True Premier 5
+#EXTINF:-1 group-title="|SPORTS| Asia Indonesia🚩" tvg-id="truepremierfootball5.th" tvg-logo="https://raw.githubusercontent.com/Acil2125/ciaelah/main/idn/truepremier.png",True Premier 5
 #EXTVLCOPT:http-referrer=https://www.youdooball.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
 https://sport.livedoomovies.com:4432/02_PremierHD5_720p/chunklist.m3u8
 
-#EXTINF:-1 group-title="|SPORTS| Asia Indonesia🚩" tvg-id="truesports1.th" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/27f34e20-7374-11ec-b576-afbb0a1303ef_webp_320.png",True Sports 1
+#EXTINF:-1 group-title="|SPORTS| Asia Indonesia🚩" tvg-id="truesports1.th" tvg-logo="https://raw.githubusercontent.com/Acil2125/ciaelah/main/idn/truesports.png",True Sports 1
 #EXTVLCOPT:http-referrer=https://www.doomovie-hd.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
 https://sport.livedoomovies.com:4432/02_2sporthd1_720p/chunklist.m3u8
 
-#EXTINF:-1 group-title="|SPORTS| Asia Indonesia🚩" tvg-id="truesports2.th" tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/8c23b890-f972-11e9-9d60-a7e46cdf4330_320.png",True Sports 2
+#EXTINF:-1 group-title="|SPORTS| Asia Indonesia🚩" tvg-id="truesports2.th" tvg-logo="https://raw.githubusercontent.com/Acil2125/ciaelah/main/idn/truesports.png",True Sports 2
 #EXTVLCOPT:http-referrer=https://www.doomovie-hd.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
 https://sport.livedoomovies.com:4432/02_2sporthd2_720p/chunklist.m3u8
 
-#EXTINF:-1 group-title="|SPORTS| Asia Indonesia🚩" tvg-id="truesports3.th" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/28a5ae30-7374-11ec-91d2-797a50c5a656_webp_320.webp",True Sports 3
+#EXTINF:-1 group-title="|SPORTS| Asia Indonesia🚩" tvg-id="truesports3.th" tvg-logo="https://raw.githubusercontent.com/Acil2125/ciaelah/main/idn/truesports.png",True Sports 3
 #EXTVLCOPT:http-referrer=https://www.doomovie-hd.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
 https://sport.livedoomovies.com:4432/02_2sporthd3_720p/chunklist.m3u8
 
-#EXTINF:-1 group-title="|SPORTS| Badminton&Tennis🏸🎾" tvg-id="truesports3.th" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/28a5ae30-7374-11ec-91d2-797a50c5a656_webp_320.webp",True Sports 3
+#EXTINF:-1 group-title="|SPORTS| Badminton&Tennis🏸🎾" tvg-id="truesports3.th" tvg-logo="https://raw.githubusercontent.com/Acil2125/ciaelah/main/idn/truesports.png",True Sports 3
 #EXTVLCOPT:http-referrer=https://www.doomovie-hd.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
 https://sport.livedoomovies.com:4432/02_2sporthd3_720p/chunklist.m3u8
 
-#EXTINF:-1 group-title="|SPORTS| Asia Indonesia🚩" tvg-id="truesports4.th" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/293236c0-7374-11ec-b576-afbb0a1303ef_webp_original.png",True Sports 4
+#EXTINF:-1 group-title="|SPORTS| Asia Indonesia🚩" tvg-id="truesports4.th" tvg-logo="https://raw.githubusercontent.com/Acil2125/ciaelah/main/idn/truesports.png",True Sports 4
 #EXTVLCOPT:http-referrer=https://www.doomovie-hd.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
 https://sport.livedoomovies.com:4432/02_2sporthd4_720p/chunklist.m3u8
 
-#EXTINF:-1 group-title="|SPORTS| Asia Indonesia🚩" tvg-id="truesports5.th" tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/c275f890-f972-11e9-a1fc-5dda12c8d080_320.png",True Sports 5
+#EXTINF:-1 group-title="|SPORTS| Asia Indonesia🚩" tvg-id="truesports5.th" tvg-logo="https://raw.githubusercontent.com/Acil2125/ciaelah/main/idn/truesports.png",True Sports 5
 #EXTVLCOPT:http-referrer=https://www.doomovie-hd.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
 https://sport.livedoomovies.com:4432/02_sport5_480p/chunklist.m3u8
 
-#EXTINF:-0 tvg-id="TrueSport7.th" tvg-name="TrueSport7" tvg-logo="https://images.livebox.co/images/tv/png/sd-tsport7.png" group-title="|SPORTS| Asia Indonesia🚩",True Sports 7
+#EXTINF:-0 tvg-id="TrueSport7.th" tvg-name="TrueSport7" tvg-logo="https://raw.githubusercontent.com/Acil2125/ciaelah/main/idn/truesports.png" group-title="|SPORTS| Asia Indonesia🚩",True Sports 7
 #EXTVLCOPT:http-referrer=https://www.doomovie-hd.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
 https://sport.livedoomovies.com:4432/02_sport7_480p/chunklist.m3u8
