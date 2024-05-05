@@ -3393,7 +3393,7 @@ https://sport.livedoomovies.com:4432/02_sport5_480p/chunklist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
 https://sport.livedoomovies.com:4432/02_sport7_480p/chunklist.m3u8
 
-#EXTINF:-1 group-title="|SPORTS| Badminton&Tennis🏸🎾" tvg-logo="https://rentapi.blackboxsys.net/images/png/hd-tennis.png",true TENNIS
+EXTINF:-1 group-title="|SPORTS| Badminton&Tennis🏸🎾" tvg-logo="https://rentapi.blackboxsys.net/images/png/hd-tennis.png",true TENNIS
 #EXTVLCOPT:http-referrer=https://www.doomovie-hd.com 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://sport.livedoomovies.com:4432/02_TennisHD_720p/chunklist.m3u8
