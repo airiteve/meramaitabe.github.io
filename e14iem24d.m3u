@@ -878,62 +878,6 @@
 ##EXTINF:-1   tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@Relax",VTV 5
 #http://171.238.181.52:18080/194.m3u8
 
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/44/AFC_U-23_Asian_Cup_logo.svg/1200px-AFC_U-23_Asian_Cup_logo.svg.png" group-title="|EVENT| AFC U-23🏆",LIVE 1 🇮🇩
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjExZWU4OTctOTdiZS0zOTQ0LWE3Y2UtYTIxZWVmODBlNjEz
-#EXTVLCOPT:http-referrer=https://visionplus.id
-https://melon-live-cdn.mncnow.id/live/eds/soccerchannel-test/sa_dash_vmx/soccerchannel-test.mpd
-
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/44/AFC_U-23_Asian_Cup_logo.svg/1200px-AFC_U-23_Asian_Cup_logo.svg.png" group-title="|EVENT| AFC U-23🏆",LIVE 2 🇮🇩
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDQzYTRlODMtMGE2Mi0zNTNlLWFlMzctZjUxNDk4NDliYjM5
-https://cempedak-live-cdn.mncnow.id/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd
-
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/44/AFC_U-23_Asian_Cup_logo.svg/1200px-AFC_U-23_Asian_Cup_logo.svg.png" group-title="|EVENT| AFC U-23🏆",LIVE 4 🇸🇦
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4d89249bd4ca4ebc9e70443265f9507d:cf074ffd2646c9c2f8513b47fa57bc30
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-https://ssc-extra2-ak.akamaized.net/out/v1/8b70de2b70d447ba8a7450ba90926a2d/index.mpd
-
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/44/AFC_U-23_Asian_Cup_logo.svg/1200px-AFC_U-23_Asian_Cup_logo.svg.png" group-title="|EVENT| AFC U-23🏆",LIVE 5 🇸🇦
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=98cfd6fd4812497fb24dc75f7545f2ee:d3006ee69e77b25939728ebf30d3180a
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-https://ssc-extra3-ak.akamaized.net/out/v1/8f1c6c3f05ef4284a64b342891bd85ae/index.mpd
-
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/44/AFC_U-23_Asian_Cup_logo.svg/1200px-AFC_U-23_Asian_Cup_logo.svg.png" group-title="|EVENT| AFC U-23🏆",LIVE 8 🇬🇧
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.43
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddyhd.php
-https://webhdrus.onlinehdhls.ru/lb/premium103/index.m3u8|Origin=https://weblivehdplay.ru
-
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/44/AFC_U-23_Asian_Cup_logo.svg/1200px-AFC_U-23_Asian_Cup_logo.svg.png" group-title="|EVENT| AFC U-23🏆",LIVE 9 🇬🇧
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.43
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddyhd.php
-https://webhdrus.onlinehdhls.ru/lb/premium104/index.m3u8|Origin=https://weblivehdplay.ru
-
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/44/AFC_U-23_Asian_Cup_logo.svg/1200px-AFC_U-23_Asian_Cup_logo.svg.png" group-title="|EVENT| AFC U-23🏆",LIVE 7 🇻🇳
-http://171.238.181.52:18080/194.m3u8
-
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/44/AFC_U-23_Asian_Cup_logo.svg/1200px-AFC_U-23_Asian_Cup_logo.svg.png" group-title="|EVENT| AFC U-23🏆",LIVE 3 🇸🇦
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent="FireFox"
-#EXTVLCOPT--http-reconnect=true
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d84c325f36814f39bbe59080272b10c3:550727de4c96ef1ecff874905493580f
-https://ssc1-ak.akamaized.net/out/v1/c696e4819b55414388a1a487e8a45ca1/index.mpd
-
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/44/AFC_U-23_Asian_Cup_logo.svg/1200px-AFC_U-23_Asian_Cup_logo.svg.png" group-title="|EVENT| AFC U-23🏆",LIVE 6 🇸🇦
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ecbc9e6fe6b145efb6658fb5cf7427f8:03c17e28911f71221acbc0b11f900401
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-https://ssc-extra1-ak.akamaized.net/out/v1/647c58693f1d46af92bd7e69f17912cb/index.mpd
-
-
 
 
 
@@ -1837,23 +1781,23 @@ https://tring.s.llnwi.net/delta/102/out/u/tringSport5105.mpd
 
 =========================================== SPORTS ===========================================
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b8/MUTV_logo.png" group-title="|SPORTS| Fotbal⚽", MU TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Acil2125/ciaelah/main/idn/mutv.png" group-title="|SPORTS| Fotbal⚽", MU TV
 https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
 
 
-#EXTINF:-1 group-title="|SPORTS| Fotbal⚽" tvg-id="interMilantv.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Inter_TV_-_Logo_2021.png",Internazionale TV
+#EXTINF:-1 group-title="|SPORTS| Fotbal⚽" tvg-id="interMilantv.it" tvg-logo="https://raw.githubusercontent.com/Acil2125/ciaelah/main/idn/intertv.png",Internazionale TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=82f8e2a17dac44c0a18f660479349c59&key=1b144f73e6fefe91cd05f850e2b589d0
 https://dce-ac-live.cdn.indazn.com:443/dash/dazn-linear-033/stream.mpd?p=web
 
-#EXTINF:-1 tvg-id="RealMadridTV.es" tvg-logo="https://i.imgur.com/5pMo7dL.png" group-title="|SPORTS| Fotbal⚽",Real Madrid TV
+#EXTINF:-1 tvg-id="RealMadridTV.es" tvg-logo="https://raw.githubusercontent.com/Acil2125/ciaelah/main/idn/rmtv.png" group-title="|SPORTS| Fotbal⚽",Real Madrid TV
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1545
 
-#EXTINF:-1 tvg-chno="" tvg-id="LFCTV.uk" tvg-name="LFC TV" tvg-logo="https://i.imgur.com/hWdxcRX.png" group-title="|SPORTS| Fotbal⚽",LFC TV
+#EXTINF:-1 tvg-chno="" tvg-id="LFCTV.uk" tvg-name="LFC TV" tvg-logo="https://raw.githubusercontent.com/Acil2125/ciaelah/main/idn/lfctv.png" group-title="|SPORTS| Fotbal⚽",LFC TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://source.strictv.com/play/live.php?mac=00:1a:79:11:22:31&stream=45268&extension=ts&play_token=s9LESp5By3
 
-#EXTINF:-1 tvg-id="RealMadridTV.es" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=909305413206_image-header_pIt_1684155244000&quality=70&width=500" group-title="|SPORTS| Fotbal⚽",Milan TV
+#EXTINF:-1 tvg-id="RealMadridTV.es" tvg-logo="https://raw.githubusercontent.com/Acil2125/ciaelah/main/idn/milantv.png" group-title="|SPORTS| Fotbal⚽",Milan TV
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/2.13.2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
@@ -2022,28 +1966,28 @@ https://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-044/stream.mpd?p=web
 #EXTINF:-1 tvg-name="🥊" group-title="|SPORTS| Fight🥊" tvg-id="5e20b730f2f8d5003d739db7-606605549dbfca002d2ae877" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/fightnetwork.webp",MFight Network 🇺🇸
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=778
 
-#EXTINF:-1 tvg-name="🥊" tvg-id="" group-title="|SPORTS| Fight🥊" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a12045b8-c4b0-46f1-a480-97b5fceb9db9/FITE24-7_Channel_Logo_for_PLEX_1800x1200.png",Fite 24/7 🇺🇸
+#EXTINF:-1 tvg-name="🥊" tvg-id="" group-title="|SPORTS| Fight🥊" tvg-logo="https://raw.githubusercontent.com/Acil2125/ciaelah/main/idn/fite24.png",Fite 24/7 🇺🇸
 https://bit.ly/4aYnRZC?profile=inspirationlivetv.m3u8
 
-#EXTINF:-1 tvg-name="🥊" tvg-id="" group-title="|SPORTS| Fight🥊" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/SwerveCombat.webp",Swerve Combat
+#EXTINF:-1 tvg-name="🥊" tvg-id="" group-title="|SPORTS| Fight🥊" tvg-logo="https://raw.githubusercontent.com/Acil2125/ciaelah/main/idn/swervecombat.png",Swerve Combat
 https://bit.ly/47jr7N2?profile=inspirationlivetv.m3u8
 
-#EXTINF:-1 tvg-name="🥊" tvg-id="" group-title="|SPORTS| Fight🥊" tvg-logo="https://www.lyngsat.com/logo/tv/ww/world_wrestling_entertainment.png",WWE Network
+#EXTINF:-1 tvg-name="🥊" tvg-id="" group-title="|SPORTS| Fight🥊" tvg-logo="https://raw.githubusercontent.com/Acil2125/ciaelah/main/idn/wwenetwork.png",WWE Network
 https://d2p372oxiwmcn1.cloudfront.net/hls/1080p/playlist.m3u8
 
-#EXTINF:-1 tvg-name="🥊" tvg-id="" group-title="|SPORTS| Fight🥊" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/ImpactWrestling.webp",Impact! Wrestling 1
+#EXTINF:-1 tvg-name="🥊" tvg-id="" group-title="|SPORTS| Fight🥊" tvg-logo="https://raw.githubusercontent.com/Acil2125/ciaelah/main/idn/impactwresling.png",Impact! Wrestling 1
 https://d2p372oxiwmcn1.cloudfront.net/hls/1080p/playlist.m3u8
 
-#EXTINF:-1 tvg-name="🥊" tvg-id="" group-title="|SPORTS| Fight🥊" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/ImpactWrestling.webp",Impact! Wrestling 2
+#EXTINF:-1 tvg-name="🥊" tvg-id="" group-title="|SPORTS| Fight🥊" tvg-logo="https://raw.githubusercontent.com/Acil2125/ciaelah/main/idn/impactwresling.png",Impact! Wrestling 2
 https://d2tuwvs0ja335j.cloudfront.net/hls/1080p/playlist.m3u8
 
-#EXTINF:-1 tvg-name="🥊" tvg-id="" group-title="|SPORTS| Fight🥊" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Combate_logo.svg/1920px-Combate_logo.svg.png",Combate 1
+#EXTINF:-1 tvg-name="🥊" tvg-id="" group-title="|SPORTS| Fight🥊" tvg-logo="https://raw.githubusercontent.com/Acil2125/ciaelah/main/idn/combate.png",Combate 1
 http://209.222.97.92:16493/Combate
 
-#EXTINF:-1 tvg-name="🥊" tvg-id="" group-title="|SPORTS| Fight🥊" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Combate_logo.svg/1920px-Combate_logo.svg.png",Combate 2
+#EXTINF:-1 tvg-name="🥊" tvg-id="" group-title="|SPORTS| Fight🥊" tvg-logo="https://raw.githubusercontent.com/Acil2125/ciaelah/main/idn/combate.png",Combate 2
 http://sl1.xphost20.xyz:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/1&amp;f=.ch
 
-#EXTINF:-1 tvg-id="unifi Sports 1" tvg-name="unifi Sports 1" group-title="|SPORTS| Fight🥊" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/UnifiSports2023.png",unifi UFC
+#EXTINF:-1 tvg-id="unifi Sports 1" tvg-name="unifi Sports 1" group-title="|SPORTS| Fight🥊" tvg-logo="https://raw.githubusercontent.com/Acil2125/ciaelah/main/idn/unifisports.png",unifi UFC
 https://unifi-live02.secureswiftcontent.com/UnifiHD/live11.mpd
 #https://unifi-live07.secureswiftcontent.com/UnifiHD/live11.mpd
 
@@ -2079,10 +2023,10 @@ https://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-016/stream.mpd?p=web
 #https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-016/stream.mpd
 #https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-016/stream.mpd
 
-#EXTINF:-1 tvg-id="RacingAmerica.us" tvg-logo="https://i.imgur.com/Eufk8rl.png" group-title="|SPORTS| Balapan🏍️",Racing America 
+#EXTINF:-1 tvg-id="RacingAmerica.us" tvg-logo="https://raw.githubusercontent.com/Acil2125/ciaelah/main/idn/racingamerica.png" group-title="|SPORTS| Balapan🏍️",Racing America 
 https://lnc-racing-america.tubi.video/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Racingcom.au" tvg-logo="https://i.imgur.com/Q55HX1O.png" group-title="|SPORTS| Balapan🏍️",Racing.com 
+#EXTINF:-1 tvg-id="Racingcom.au" tvg-logo="https://raw.githubusercontent.com/Acil2125/ciaelah/main/idn/racingcom.png" group-title="|SPORTS| Balapan🏍️",Racing.com 
 https://racingvic-i.akamaized.net/hls/live/598695/racingvic/index1500.m3u8
 
 #EXTINF:-1 group-title="|SPORTS| Balapan🏍️" tvg-id="skysport.it" tvg-logo="https://raw.githubusercontent.com/Acil2125/ciaelah/main/idn/skymotogp.png",Sky Sport Motogp (IT)
@@ -3449,7 +3393,7 @@ https://sport.livedoomovies.com:4432/02_sport5_480p/chunklist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
 https://sport.livedoomovies.com:4432/02_sport7_480p/chunklist.m3u8
 
-#EXTINF:-1 group-title="|SPORTS| Badminton&Tennis🏸🎾" tvg-logo="https://rentapi.blackboxsys.net/images/png/hd-tennis.png",true TENNIS
+EXTINF:-1 group-title="|SPORTS| Badminton&Tennis🏸🎾" tvg-logo="https://rentapi.blackboxsys.net/images/png/hd-tennis.png",true TENNIS
 #EXTVLCOPT:http-referrer=https://www.doomovie-hd.com 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://sport.livedoomovies.com:4432/02_TennisHD_720p/chunklist.m3u8
@@ -3724,7 +3668,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/KidsChannel/sa_dash_vmx/KidsChannel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856b8d2390016b9c3ee6c21d7c/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20957652_ico.png?ts=1655328294" group-title="|TV| Cintai Anak💚",B KIDS
+EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20957652_ico.png?ts=1655328294" group-title="|TV| Cintai Anak💚",B KIDS
 http://livestream.biznetvideo.net:80/biznet_kids/smil:kids.smil/playlist.m3u8?bizkeyliveCustomParameter=myParameter&bizkeyliveendtime=0&bizkeylivehash=qAri1M2xu_MAlnHwVRtOs24lR8Y_HSDijN2CRNghifUllhYqQSDlkd0qE8CkZwxC&bizkeylivestarttime=0
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/zoomoo.png" group-title="|TV| Cintai Anak💚",ZOO MOO ASIA
