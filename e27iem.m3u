@@ -1609,7 +1609,7 @@ http://cors-proxy.cluster.fun/https://live-dash-cdn7-vp.cdn.viaplay.tv/vp/vpspor
 #KODIPROP:inputstream.adaptive.license_key=6fe6d9cf50835945881cb56a38839fce:213ad868126fd2cb352b189b07b25421
 http://cors-proxy.cluster.fun/https://live-dash-cdn7-vp.cdn.viaplay.tv/vp/vpsports2uk/vpsports2uk.isml/index.mpd
 
-#EXTINF:-1 tvg-id="TV4 Motor" tvg-logo="https://i.ibb.co/SxS86hq/tv4motor.png" group-title="|SPORTS| Balapan🏍️", SE - TV4 MOTOR
+#EXTINF:-1 tvg-id="TV4 Motor" tvg-logo="https://raw.githubusercontent.com/Acil2125/ciaelah/main/idn/tv4sports.png" group-title="|SPORTS| Balapan🏍️", SE - TV4 MOTOR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -1963,10 +1963,10 @@ https://dcj-ac-live.cdn.indazn.com/dash/dazn-linear-502/stream.mpd
 https://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-044/stream.mpd?p=web
 #https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-044/stream.mpd
 
-#EXTINF:-1 tvg-name="🥊" group-title="|SPORTS| Fight🥊" tvg-id="5e20b730f2f8d5003d739db7-606605549dbfca002d2ae877" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/fightnetwork.webp",MFight Network 🇺🇸
+#EXTINF:-1 tvg-name="🥊" group-title="|SPORTS| Fight🥊" tvg-id="5e20b730f2f8d5003d739db7-606605549dbfca002d2ae877" tvg-logo="https://raw.githubusercontent.com/Acil2125/ciaelah/main/idn/mfight.png",M Fight Network
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=778
 
-#EXTINF:-1 tvg-name="🥊" tvg-id="" group-title="|SPORTS| Fight🥊" tvg-logo="https://raw.githubusercontent.com/Acil2125/ciaelah/main/idn/fite24.png",Fite 24/7 🇺🇸
+#EXTINF:-1 tvg-name="🥊" tvg-id="" group-title="|SPORTS| Fight🥊" tvg-logo="https://raw.githubusercontent.com/Acil2125/ciaelah/main/idn/fite24.png",Fite 24/7
 https://bit.ly/4aYnRZC?profile=inspirationlivetv.m3u8
 
 #EXTINF:-1 tvg-name="🥊" tvg-id="" group-title="|SPORTS| Fight🥊" tvg-logo="https://raw.githubusercontent.com/Acil2125/ciaelah/main/idn/swervecombat.png",Swerve Combat
