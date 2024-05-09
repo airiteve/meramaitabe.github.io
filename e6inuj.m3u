@@ -923,10 +923,13 @@ https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/f0qvkrra8j/o
 #KODIPROP:inputstream.adaptive.license_key=ae26845bd33038a9c0774a0981007294:63ac662dde310cfb4cc6f9b43b34196d
 https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
 
-#EXTINF:-1 group-logo="" group-title="Matchday, 9 Mei✅" tvg-logo="https://raw.githubusercontent.com/Acil2125/ee/main/liveevent.png",20:00 Indonesia vs Guinea - U23 Olympics Playoff
+#EXTINF:-1 group-logo="" group-title="Matchday, 9 Mei✅" tvg-logo="https://raw.githubusercontent.com/Acil2125/ee/main/liveevent.png",20:00 Indonesia vs Guinea - U23 🇮🇩
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDQzYTRlODMtMGE2Mi0zNTNlLWFlMzctZjUxNDk4NDliYjM5
 https://cempedak-live-cdn.mncnow.id/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd
+
+#EXTINF:-1 group-logo="" group-title="Matchday, 9 Mei✅" tvg-logo="https://raw.githubusercontent.com/Acil2125/ee/main/liveevent.png",20:00 Indonesia vs Guinea - U23 🇬🇧
+https://38ca3c9c.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9GSUZBUGx1c19ITFM/playlist.m3u8
 
 
 
@@ -3835,6 +3838,19 @@ https://linear311-it-dash1-prd-akp2.cdn13.skycdp.com/016a/31917/FHD/skysport251/
 
 #EXTINF:-1 channel-id="samsung-GBBD1100008YW" tvg-id="GBBD1100008YW" tvg-chno="4008" tvg-logo="https://i.ibb.co/HK0Nf10/fifaplus.png" group-title="|SPORTS| Premium Bckup⚽" , FIFA+ 🌏
 https://38ca3c9c.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9GSUZBUGx1c19ITFM/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HK0Nf10/fifaplus.png" group-title="|SPORTS| Premium Bckup⚽", Fifa+ 1
+https://4b92bb6a.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1hdF9GSUZBUGx1c19ITFM/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HK0Nf10/fifaplus.png" group-title="|SPORTS| Premium Bckup⚽", Fifa+ 2
+https://i.mjh.nz/SamsungTVPlus/ATBA3300007PT.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HK0Nf10/fifaplus.png" group-title="|SPORTS| Premium Bckup⚽", Fifa+ 3
+https://i.mjh.nz/SamsungTVPlus/ITBD1000002HF.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HK0Nf10/fifaplus.png" group-title="|SPORTS| Premium Bckup⚽", Fifa+ 4
+https://i.mjh.nz/SamsungTVPlus/GBBD1100008YW.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HK0Nf10/fifaplus.png" group-title="|SPORTS| Premium Bckup⚽", Fifa+ 5
+https://i.mjh.nz/SamsungTVPlus/ESBC2700009B4.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HK0Nf10/fifaplus.png" group-title="|SPORTS| Premium Bckup⚽" , FIFA+ 6
+https://i.mjh.nz/SamsungTVPlus/KRBD1900001Y2.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Mgt4fPj/msetinfinityplus.png" group-title="|SPORTS| Premium Bckup⚽",Infinity+ 1 🇮🇹  
 #KODIPROP:inputstream.adaptive.license_type=clearkey
