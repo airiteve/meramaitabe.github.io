@@ -4016,31 +4016,20 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs21
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs22
 
 #EXTINF:-1 tvg-id="ASSP1.my" tvg-name="ASSP_A" tvg-logo="https://raw.githubusercontent.com/Acil2125/ciaelah/main/idn/ASUPERSPORTS1.png" group-title="|SPORTS| Asia Indonesia🚩",Astro Supersport 1 
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddylivehd.php 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
-https://webhdrus.onlinehdhls.ru/lb/premium123/index.m3u8|Origin=https://weblivehdplay.ru
-
-EXTINF:-1 tvg-id="ASSP1.my" tvg-name="ASSP_A" tvg-logo="https://raw.githubusercontent.com/Acil2125/ciaelah/main/idn/ASUPERSPORTS1.png" group-title="|SPORTS| Asia Indonesia🚩",Astro Supersport 1 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=22fbef1c1cd725e9397ec16455f08210:7aea43cd93c24aa9834ecb4984f7fd5a
-https://linearjitp02-playback.astro.com.my/dash-wv/dashiso/1601/default.mpd
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[{ "kty":"oct", "k":"QfI0+4hZCvOw0iQRGmG/cQ", "kid":"jx2jmTJSR+ymrN17r7lfog" }], "type":"temporary" }
+https://cors.iptvsystem.my.id/https://linear03-playback.sooka.my/CH3/masterCH3.mpd
 
 #EXTINF:-1 tvg-id="ASSP1.my" tvg-name="ASSP_A" tvg-logo="https://raw.githubusercontent.com/Acil2125/ciaelah/main/idn/ASUPERSPORTS2.png" group-title="|SPORTS| Asia Indonesia🚩",ASTRO Supersport 2 
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddylivehd.php 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
-https://webhdrus.onlinehdhls.ru/lb/premium124/index.m3u8|Origin=https://weblivehdplay.ru
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=bda7f74b842f4f0eb142395dadd91f07:fb12f661d640e4ebdf38e312302260eb
+https://cors.iptvsystem.my.id/sooka/CH4/masterCH4.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="Astro SuperSport 3" tvg-logo="https://raw.githubusercontent.com/Acil2125/ciaelah/main/idn/ASUPERSPORTS3.png" group-title="|SPORTS| Asia Indonesia🚩",Astro Supersport 3
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddylivehd.php 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
-https://webhdrus.onlinehdhls.ru/lb/premium125/index.m3u8|Origin=https://weblivehdplay.ru
+https://cors.iptvsystem.my.id/sooka/CH5/masterCH5.mpd
 
 EXTINF:-1 tvg-id="" tvg-name="Astro SuperSport 4" tvg-logo="https://raw.githubusercontent.com/Acil2125/ciaelah/main/idn/ASUPERSPORTS4.png" group-title="|SPORTS| Asia Indonesia🚩",Astro Supersport 4
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddylivehd.php 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
-https://webhdrus.onlinehdhls.ru/lb/premium126/index.m3u8|Origin=https://weblivehdplay.ru
+https://cors.iptvsystem.my.id/sooka/CH2/masterCH2.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="Astro SuperSport 4" tvg-logo="https://raw.githubusercontent.com/Acil2125/ciaelah/main/idn/ASUPERSPORTS4.png" group-title="|SPORTS| Asia Indonesia🚩",Astro Supersport 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
