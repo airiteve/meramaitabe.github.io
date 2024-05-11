@@ -4016,17 +4016,22 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs21
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs22
 
 #EXTINF:-1 tvg-id="ASSP1.my" tvg-name="ASSP_A" tvg-logo="https://raw.githubusercontent.com/Acil2125/ciaelah/main/idn/ASUPERSPORTS1.png" group-title="|SPORTS| Asia Indonesia🚩",Astro Supersport 1 
+https://cors.iptvsystem.my.id/https://linear03-playback.sooka.my/CH3/masterCH3.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[{ "kty":"oct", "k":"QfI0+4hZCvOw0iQRGmG/cQ", "kid":"jx2jmTJSR+ymrN17r7lfog" }], "type":"temporary" }
-https://cors.iptvsystem.my.id/https://linear03-playback.sooka.my/CH3/masterCH3.mpd
 
 #EXTINF:-1 tvg-id="ASSP1.my" tvg-name="ASSP_A" tvg-logo="https://raw.githubusercontent.com/Acil2125/ciaelah/main/idn/ASUPERSPORTS2.png" group-title="|SPORTS| Asia Indonesia🚩",ASTRO Supersport 2 
+https://cors.iptvsystem.my.id/sooka/CH4/masterCH4.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=bda7f74b842f4f0eb142395dadd91f07:fb12f661d640e4ebdf38e312302260eb
-https://cors.iptvsystem.my.id/sooka/CH4/masterCH4.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="Astro SuperSport 3" tvg-logo="https://raw.githubusercontent.com/Acil2125/ciaelah/main/idn/ASUPERSPORTS3.png" group-title="|SPORTS| Asia Indonesia🚩",Astro Supersport 3
 https://cors.iptvsystem.my.id/sooka/CH5/masterCH5.mpd
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik1HWm1ZamxpT0dRdE5tTmxaaTAwTXpGaExXSTBaak10TkRJMllUUXpZVEZtT0dVMCIsIndtb3BpZCI6MzIsImV4cCI6MTY5MzIyODkxNiwiaWF0IjoxNjkyNjI0OTE2fQ.IKG1JXGjCKdFjMO-KMWimiKgwkDJahxRMCPoOpBXdr4"}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"+xL2YdZA5OvfOOMSMCJg6w", "kid":"vaf3S4QvTw6xQjldrdkfBw" } ], "type":"temporary" }
 
 EXTINF:-1 tvg-id="" tvg-name="Astro SuperSport 4" tvg-logo="https://raw.githubusercontent.com/Acil2125/ciaelah/main/idn/ASUPERSPORTS4.png" group-title="|SPORTS| Asia Indonesia🚩",Astro Supersport 4
 https://cors.iptvsystem.my.id/sooka/CH2/masterCH2.mpd
