@@ -1518,60 +1518,47 @@ https://api-proxad.dc2.oqee.net/playlist/v1/live/977/1/live.mpd
 https://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-049/stream.mpd?p=web
 #https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-049/stream.mpd
 
-#EXTINF:-1 group-title="|SPORTS| Premium 1⚽🚩" tvg-logo="https://tmbroadcast.com/wp-content/uploads/dazn-eleven-sports-logotypes.jpg",ELEVEN SPORTS 2 HD (EPL)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTINF:-1 group-title="|SPORTS| Premium 1⚽🚩"  tvg-logo="https://raw.githubusercontent.com/Acil2125/ciaelah/main/idn/elevensports.png",Eleven Sports BE 1
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-#https://tv.qreatifku.my.id/nosignal.m3u8
-#https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-055/stream.mpd
-#EXTINF:-1 group-title="|SPORTS| Premium 1⚽🚩" tvg-logo="https://tmbroadcast.com/wp-content/uploads/dazn-eleven-sports-logotypes.jpg",ELEVEN SPORTS 3 HD (EPL)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-#https://tv.qreatifku.my.id/nosignal.m3u8
-#https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-056/stream.mpd
-#EXTINF:-1 group-title="|SPORTS| Premium 1⚽🚩" tvg-logo="https://tmbroadcast.com/wp-content/uploads/dazn-eleven-sports-logotypes.jpg",ELEVEN SPORTS 1 HD (EPL)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-#https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-054/stream.mpd
-#EXTINF:-1 group-title="|SPORTS| Premium 1⚽🚩" tvg-logo="https://tmbroadcast.com/wp-content/uploads/dazn-eleven-sports-logotypes.jpg",ELEVEN SPORTS 4 HD (EPL)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-#https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-057/stream.mpd
-#EXTINF:-1 group-title="|SPORTS| Premium 1⚽🚩" tvg-logo="https://tmbroadcast.com/wp-content/uploads/dazn-eleven-sports-logotypes.jpg",ELEVEN SPORTS 5 HD (EPL)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-#https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-058/stream.mpd
+https://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-048/stream.mpd?p=web
 
-#EXTINF:-1 group-title="|SPORTS| Premium 1⚽🚩"  tvg-logo="https://raw.githubusercontent.com/Acil2125/ciaelah/main/idn/elevensports.png",Eleven Sports 1
+#EXTINF:-1 group-title="|SPORTS| Premium 1⚽🚩"  tvg-logo="https://raw.githubusercontent.com/Acil2125/ciaelah/main/idn/elevensports.png",Eleven Sports NL 1
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-047/stream.mpd?p=web
+
+#EXTINF:-1 group-title="|SPORTS| Premium 1⚽🚩"  tvg-logo="https://raw.githubusercontent.com/Acil2125/ciaelah/main/idn/elevensports.png",Eleven Sports PT 1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 https://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-054/stream.mpd?p=web
 #https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-054/stream.mpd
 
-#EXTINF:-1 group-title="|SPORTS| Premium 1⚽🚩" tvg-logo="https://raw.githubusercontent.com/Acil2125/ciaelah/main/idn/elevensports.png",Eleven Sports 2
+#EXTINF:-1 group-title="|SPORTS| Premium 1⚽🚩" tvg-logo="https://raw.githubusercontent.com/Acil2125/ciaelah/main/idn/elevensports.png",Eleven Sports PT 2
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 https://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-055/stream.mpd?p=web
 #https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-055/stream.mpd
 
-#EXTINF:-1 group-title="|SPORTS| Premium 1⚽🚩" tvg-logo="https://raw.githubusercontent.com/Acil2125/ciaelah/main/idn/elevensports.png",Eleven Sports 3
+#EXTINF:-1 group-title="|SPORTS| Premium 1⚽🚩" tvg-logo="https://raw.githubusercontent.com/Acil2125/ciaelah/main/idn/elevensports.png",Eleven Sports PT 3
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 https://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-056/stream.mpd?p=web
 #https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-056/stream.mpd
 
-#EXTINF:-1 group-title="|SPORTS| Premium 1⚽🚩" tvg-logo="https://raw.githubusercontent.com/Acil2125/ciaelah/main/idn/elevensports.png",Eleven Sports 4
+#EXTINF:-1 group-title="|SPORTS| Premium 1⚽🚩" tvg-logo="https://raw.githubusercontent.com/Acil2125/ciaelah/main/idn/elevensports.png",Eleven Sports PT 4
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 https://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-057/stream.mpd?p=web
 #https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-057/stream.mpd
 
-#EXTINF:-1 group-title="|SPORTS| Premium 1⚽🚩" tvg-logo="https://raw.githubusercontent.com/Acil2125/ciaelah/main/idn/elevensports.png",Eleven Sports 5
+#EXTINF:-1 group-title="|SPORTS| Premium 1⚽🚩" tvg-logo="https://raw.githubusercontent.com/Acil2125/ciaelah/main/idn/elevensports.png",Eleven Sports PT 5
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 https://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-058/stream.mpd?p=web
 #https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-058/stream.mpd
 
-#EXTINF:-1 group-title="|SPORTS| Premium 1⚽🚩" tvg-logo="https://raw.githubusercontent.com/Acil2125/ciaelah/main/idn/elevensports.png",Eleven Sports 6
+#EXTINF:-1 group-title="|SPORTS| Premium 1⚽🚩" tvg-logo="https://raw.githubusercontent.com/Acil2125/ciaelah/main/idn/elevensports.png",Eleven Sports PT 6
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 https://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-059/stream.mpd?p=web
