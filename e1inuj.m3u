@@ -963,15 +963,17 @@ https://linear006-ie-dash1-prd-ak.cdn.skycdp.com/Content/DASH_003_720_120/Live/c
 #KODIPROP:inputstream.adaptive.license_key=0036e5d0e88dfb087f1791da6150ced9:0bc653d830837dceb13bd17169f0f8e2
 https://linear302-it-dash1-prd-ll.cdn13.skycdp.com/016a/31209/FHD/skysportseriea/master.mpd
 
-#EXTINF:-1 group-logo="" group-title="Matchday, 2 Juni✅" tvg-logo="https://raw.githubusercontent.com/Acil2125/ee/main/liveevent.png",16:00 Indonesia vs Tanzania - Ujicoba
-#EXTVLCOPT:http-referrer=https://www.dens.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-http://op-group1-swiftservehd-1.dens.tv/h/h207/index.m3u8
-https://raw.githubusercontent.com/kusnadipepenk/campeign/master/indos.m3u8
-http://edge.linknetott.swiftserve.com/channelgroup3/cg331production/ch8/02.m3u8
+#EXTINF:-1 group-logo="" group-title="Matchday, 2 Juni✅" tvg-logo="https://raw.githubusercontent.com/Acil2125/ee/main/liveevent.png",16:00 Indonesia vs Tanzania Cn1- Ujicoba
+https://s.id/indosiar_play_shareext-xs
 
-#EXTINF:-1 group-logo="" group-title="Matchday, 2 Juni✅" tvg-logo="https://raw.githubusercontent.com/Acil2125/ee/main/liveevent.png",16:00 Indonesia vs Tanzania CH02 - Ujicoba
-https://raw.githubusercontent.com/Arrasyid22/IptvM3Ucustom/main/ligabri100.m3u8
+#EXTINF:-1 group-logo="" group-title="Matchday, 2 Juni✅" tvg-logo="https://raw.githubusercontent.com/Acil2125/ee/main/liveevent.png",16:00 Indonesia vs Tanzania Cn2 - Ujicoba
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddylivehd.php 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
+https://webhdrus.onlinehdhls.ru/lb/premium1/index.m3u8|Origin=https://weblivehdplay.ru
+
+#EXTINF:-1 group-logo="" group-title="Matchday, 2 Juni✅" tvg-logo="https://raw.githubusercontent.com/Acil2125/ee/main/liveevent.png",16:00 Indonesia vs Tanzania Cn3 - Ujicoba
+http://cheaptv.online:8080/one-day-test-89fc/54CbToqS2c/16213
+
 
 
 
