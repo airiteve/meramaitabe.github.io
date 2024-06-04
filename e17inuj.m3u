@@ -884,22 +884,6 @@
 
 
 
-#EXTINF:-1 group-logo="" group-title="Matchday, 3 Juni✅" tvg-logo="https://raw.githubusercontent.com/Acil2125/ee/main/liveevent.png",23:00 Skotlandia vs Gibraltar - Ujicoba
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-https://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-017/stream.mpd?p=web
-
-#EXTINF:-1 group-logo="" group-title="Matchday, 3 Juni✅" tvg-logo="https://raw.githubusercontent.com/Acil2125/ee/main/liveevent.png",1:30 Venezia vs Cremonese - Serie B
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=00362452ed102000ccea64c311921dc2:02f27bd6caab7633d3083b94d3958b1c
-https://linear301-it-dash1-prd.selector.skycdn.it/016a/31023/FHD/skysportuno/master.mpd
-
-
-
-
-
-
-
 #EXTINF:-1 group-logo="" group-title="Matchday, 4 Juni✅" tvg-logo="https://raw.githubusercontent.com/Acil2125/ee/main/liveevent.png",23:00 Indonesia vs Ukraina - Toulon U-20
 https://s.id/indosiar_play_shareext-xs
 
@@ -938,6 +922,47 @@ https://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-018/stream.mpd?p=web
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=0005d61a0ac86aca28176591b21ae2d9:f87ad1430a7a38fd0ac248fc9a8389b1
 https://linear033-ie-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_720_120/Live/channel(premiersports2)/manifest_720.mpd
+
+
+
+
+
+
+
+#EXTINF:-1 group-logo="" group-title="Matchday, 6 Juni✅" tvg-logo="https://raw.githubusercontent.com/Acil2125/ee/main/liveevent.png",16:00 Indonesia vs Iraq - Kualifikasi Piala Dunia
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDQzYTRlODMtMGE2Mi0zNTNlLWFlMzctZjUxNDk4NDliYjM5
+https://cempedak-live-cdn.mncnow.id/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd
+
+#EXTINF:-1 group-logo="" group-title="Matchday, 6 Juni✅" tvg-logo="https://raw.githubusercontent.com/Acil2125/ee/main/liveevent.png",19:00 Vietnam vs Filipina - Kualifikasi Piala Dunia
+http://171.238.181.52:18080/194.m3u8
+
+#EXTINF:-1 group-logo="" group-title="Matchday, 6 Juni✅" tvg-logo="https://raw.githubusercontent.com/Acil2125/ee/main/liveevent.png",0:00 Denmark vs Swedia - Ujicoba
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0005d61a0ac86aca28176591b21ae2d9:f87ad1430a7a38fd0ac248fc9a8389b1
+https://linear033-ie-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_720_120/Live/channel(premiersports2)/manifest_720.mpd
+
+#EXTINF:-1 group-logo="" group-title="Matchday, 6 Juni✅" tvg-logo="https://raw.githubusercontent.com/Acil2125/ee/main/liveevent.png",2:00 France vs Luksemburg - Ujicoba
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0005d61a0ac86aca28176591b21ae2d9:f87ad1430a7a38fd0ac248fc9a8389b1
+https://linear033-ie-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_720_120/Live/channel(premiersports2)/manifest_720.mpd
+
+#EXTINF:-1 group-logo="" group-title="Matchday, 6 Juni✅" tvg-logo="https://raw.githubusercontent.com/Acil2125/ee/main/liveevent.png",2:30 Spanyol vs Andorra - Ujicoba
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=00362452ed102000ccea64c311921dc2:02f27bd6caab7633d3083b94d3958b1c
+https://linear301-it-dash1-prd.selector.skycdn.it/016a/31023/FHD/skysportuno/master.mpd
+
+#EXTINF:-1 group-logo="" group-title="Matchday, 6 Juni✅" tvg-logo="https://raw.githubusercontent.com/Acil2125/ee/main/liveevent.png",1:30 Belgia vs Montenegro - Ujicoba
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://cors-proxy.elfsight.com/https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$SPORTTV3_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(3000000)
+
+#EXTINF:-1 group-logo="" group-title="Matchday, 6 Juni✅" tvg-logo="https://raw.githubusercontent.com/Acil2125/ee/main/liveevent.png",23:00 Indonesia vs Panama - U20 Toulon
+https://s.id/indosiar_play_shareext-xs
+
 
 
 
@@ -3617,9 +3642,10 @@ https://1a-mnctv.rctiplus.id/mnctv-sdi.mpd
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://cempedak-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 
-EXTINF:-1 tvg-id="RCTI.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/rcti.png" group-title="|TV| Indonesia🟥⬜",RCTI
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-https://1a-rcti.rctiplus.id/rcti-sdi.mpd
+#EXTINF:-1 tvg-id="RCTI.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/rcti.png" group-title="|TV| Indonesia🟥⬜",RCTI+
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
 
 #EXTINF:-1 tvg-id="RCTI.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/rcti.png" group-title="|TV| Indonesia🟥⬜",RCTI
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -4024,21 +4050,23 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs22
 
 #EXTINF:-1 tvg-id="ASSP1.my" tvg-name="ASSP_A" tvg-logo="https://raw.githubusercontent.com/Acil2125/ciaelah/main/idn/ASUPERSPORTS1.png" group-title="|SPORTS| Asia Indonesia🚩",Astro Supersport 1 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[{ "kty":"oct", "k":"QfI0+4hZCvOw0iQRGmG/cQ", "kid":"jx2jmTJSR+ymrN17r7lfog" }], "type":"temporary" }
-https://cors.iptvsystem.my.id/https://linear03-playback.sooka.my/CH3/masterCH3.mpd
+#KODIPROP:inputstream.adaptive.license_key={ "keys": [ { "kty": "oct", "k": "HO5FQCla5tbFGcUEGoDxwA", "kid": "jQKveknkSzGXZNgR0BjF6A" } ], "type": "temporary" }
+https://cors.iptvsystem.my.id/sooka/CH3/masterCH3.mpd
 
 #EXTINF:-1 tvg-id="ASSP1.my" tvg-name="ASSP_A" tvg-logo="https://raw.githubusercontent.com/Acil2125/ciaelah/main/idn/ASUPERSPORTS2.png" group-title="|SPORTS| Asia Indonesia🚩",ASTRO Supersport 2 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=bda7f74b842f4f0eb142395dadd91f07:fb12f661d640e4ebdf38e312302260eb
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[{ "kty":"oct", "k":"QfI0+4hZCvOw0iQRGmG/cQ", "kid":"jx2jmTJSR+ymrN17r7lfog" }], "type":"temporary" }
 https://cors.iptvsystem.my.id/sooka/CH4/masterCH4.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="Astro SuperSport 3" tvg-logo="https://raw.githubusercontent.com/Acil2125/ciaelah/main/idn/ASUPERSPORTS3.png" group-title="|SPORTS| Asia Indonesia🚩",Astro Supersport 3
 https://cors.iptvsystem.my.id/sooka/CH5/masterCH5.mpd
 
-EXTINF:-1 tvg-id="" tvg-name="Astro SuperSport 4" tvg-logo="https://raw.githubusercontent.com/Acil2125/ciaelah/main/idn/ASUPERSPORTS4.png" group-title="|SPORTS| Asia Indonesia🚩",Astro Supersport 4
+#EXTINF:-1 tvg-id="" tvg-name="Astro SuperSport 4" tvg-logo="https://raw.githubusercontent.com/Acil2125/ciaelah/main/idn/ASUPERSPORTS4.png" group-title="|SPORTS| Asia Indonesia🚩",Astro Supersport 4
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=bda7f74b842f4f0eb142395dadd91f07:fb12f661d640e4ebdf38e312302260eb
 https://cors.iptvsystem.my.id/sooka/CH2/masterCH2.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="Astro SuperSport 4" tvg-logo="https://raw.githubusercontent.com/Acil2125/ciaelah/main/idn/ASUPERSPORTS4.png" group-title="|SPORTS| Asia Indonesia🚩",Astro Supersport 4
+EXTINF:-1 tvg-id="" tvg-name="Astro SuperSport 4" tvg-logo="https://raw.githubusercontent.com/Acil2125/ciaelah/main/idn/ASUPERSPORTS4.png" group-title="|SPORTS| Asia Indonesia🚩",Astro Supersport 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
