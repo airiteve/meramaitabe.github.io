@@ -884,8 +884,11 @@
 
 
 
-#EXTINF:-1 group-logo="" group-title="Matchday, 4 Juni✅" tvg-logo="https://raw.githubusercontent.com/Acil2125/ee/main/liveevent.png",23:00 Indonesia vs Ukraina - Toulon U-20
+#EXTINF:-1 group-logo="" group-title="Matchday, 4 Juni✅" tvg-logo="https://raw.githubusercontent.com/Acil2125/ee/main/liveevent.png",23:00 Indonesia vs Ukraina Cn1 - Toulon U-20
 https://s.id/indosiar_play_shareext-xs
+
+#EXTINF:-1 group-logo="" group-title="Matchday, 4 Juni✅" tvg-logo="https://raw.githubusercontent.com/Acil2125/ee/main/liveevent.png",23:00 Indonesia vs Ukraina Cn2 - Toulon U-20
+https://channel-b5340f166c1838b7.live.sportall.media/bboKn6XCO5QI.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IjIwMjMwOTI4Xzk0YzZjNzQ0ODhlNTA3ODk1YjAxIn0.eyJpcCI6ZmFsc2UsImNvIjpmYWxzZSwiY3R5IjpmYWxzZSwicmVnIjpmYWxzZSwic3NuIjp0cnVlLCJleHAiOjE3MTc2ODE3MTcsImhlYWRlcnMiOltdLCJxcyI6W10sImludHNpZyI6ImdLNVFfZFVTSzdrZTdPWkRKRVoxVUlXbGkxcmpQcC1xU3NaTzNzaXg0dmciLCJwYXRocyI6WyIvb3V0L3YxLzY2MWUwZTU5OGE2ZjQzYzFhYjFhOGUyYTg0NGIyYTE4LyJdLCJleGMiOlsiL3RtLyJdLCJuYmYiOjE2NDUwMDAwMDAsImlhdCI6MTcxNzUwODkxN30.q0tVwTdr03Fqfpmz96myHgeMLW0SlVlx5cnGWOb6_lE/out/v1/661e0e598a6f43c1ab1a8e2a844b2a18/index.m3u8
 
 #EXTINF:-1 group-logo="" group-title="Matchday, 4 Juni✅" tvg-logo="https://raw.githubusercontent.com/Acil2125/ee/main/liveevent.png",1:45 Inggris vs Bosnia - Ujicoba
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -982,7 +985,7 @@ http://iptvtree.net:8080/F14995/a84c0963/162138
 
 #EXTINF:0 tvg-logo="https://i.ibb.co/P1KZ7vx/bri.jpg" group-title="|EVENT| BRI Liga 1🏆",LIVE 5 Indosiar (BRI)
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddylivehd.php 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1 
 https://webhdrus.onlinehdhls.ru/lb/premium1/index.m3u8|Origin=https://weblivehdplay.ru
 
 #EXTINF:0 tvg-logo="https://i.ibb.co/P1KZ7vx/bri.jpg" group-title="|EVENT| BRI Liga 1🏆",LIVE 1 (BRI)
@@ -1171,18 +1174,18 @@ https://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-037/stream.mpd?p=web
 
 #EXTINF:0 tvg-logo="https://bangsaonline.com/images/uploads/berita/700/5d0e52c8052a2a6c7168781ca9bcd89d.jpg" group-title="|EVENT| Liga Eropa🏆",EPL LIVE 7
 #EXTVLCOPT:http-referrer=https://www.youdooball.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1 
 https://sport.livedoomovies.com:4432/02_PremierHD1_720p/chunklist.m3u8
 
 
 #EXTINF:0 tvg-logo="https://bangsaonline.com/images/uploads/berita/700/5d0e52c8052a2a6c7168781ca9bcd89d.jpg" group-title="|EVENT| Liga Eropa🏆",EPL LIVE 8
 #EXTVLCOPT:http-referrer=https://www.youdooball.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1 
 https://sport.livedoomovies.com:4432/02_PremierHD2_720p/chunklist.m3u8
 
 #EXTINF:0 tvg-logo="https://bangsaonline.com/images/uploads/berita/700/5d0e52c8052a2a6c7168781ca9bcd89d.jpg" group-title="|EVENT| Liga Eropa🏆",EPL LIVE 9
 #EXTVLCOPT:http-referrer=https://www.youdooball.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1 
 https://sport.livedoomovies.com:4432/02_PremierHD3_720p/chunklist.m3u8
 
 #EXTINF:0 tvg-logo="https://bangsaonline.com/images/uploads/berita/700/5d0e52c8052a2a6c7168781ca9bcd89d.jpg" group-title="|EVENT| Liga Eropa🏆",EPL LIVE 3
@@ -1373,49 +1376,49 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/nba/manifest.mpd
 =========================================== BeIN Sport ===========================================
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Acil2125/ciaelah/main/idn/bein3.png" group-title="|SPORTS| Premium 1⚽🚩",BeIN Sports AIS 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #KODIPROP:inputstream.adaptive.stream_headers=X-Forwarded-For=2405:9800:7:4:3::47
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=3fd52d1e9ba4b180aec12c9295b62c0f:bb274e33da0c709e62c55d0cba911889
 https://49-231-34-107-rewriter.ais-vidnt.com/ais/play/origin/live/eds/S0001/DASH/S0001.mpd
  
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Acil2125/ciaelah/main/idn/bein2.png" group-title="|SPORTS| Premium 1⚽🚩",BeIN Sports AIS 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #KODIPROP:inputstream.adaptive.stream_headers=X-Forwarded-For=2405:9800:7:4:3::47
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=30c11587a1686b72f115f34b0bf1c383:1e3a6af2408cdd78347b722728560c3b
 https://49-231-34-107-rewriter.ais-vidnt.com/ais/play/origin/live/eds/S0002/DASH/S0002.mpd
  
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Acil2125/ciaelah/main/idn/bein3.png" group-title="|SPORTS| Premium 1⚽🚩",BeIN Sports AIS 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #KODIPROP:inputstream.adaptive.stream_headers=X-Forwarded-For=2405:9800:7:4:3::47
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=aa724943787320593f5563048c90032d:a039276254f53769b040199a4eca8c2c
 https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/origin/live/eds/S0003/DASH/S0003.mpd
  
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Acil2125/ciaelah/main/idn/bein4.png" group-title="|SPORTS| Premium Ext⚽🚩",BeIN Sports AIS 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #KODIPROP:inputstream.adaptive.stream_headers=X-Forwarded-For=2405:9800:7:4:3::47
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=cb419fa5f5498e2c6cbc39363248ddd7:b5853b51f2060025a822e62973154556
 https://49-231-34-107-rewriter.ais-vidnt.com/ais/play/origin/live/eds/S0004/DASH/S0004.mpd
  
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Acil2125/ciaelah/main/idn/bein5.png" group-title="|SPORTS| Premium Ext⚽🚩",BeIN Sports AIS 5 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #KODIPROP:inputstream.adaptive.stream_headers=X-Forwarded-For=2405:9800:7:4:3::47
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=3a165f923cd49e616f173fc6c341cc56:4cb96186d69f1a63c40218812a6f6910
 https://49-231-34-107-rewriter.ais-vidnt.com/ais/play/origin/live/eds/S0005/DASH/S0005.mpd
  
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Acil2125/ciaelah/main/idn/bein6.png" group-title="|SPORTS| Premium Ext⚽🚩",BeIN Sports AIS 6 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #KODIPROP:inputstream.adaptive.stream_headers=X-Forwarded-For=2405:9800:7:4:3::47
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=ceac4607562049abb9d1b0309d9cd6f3:d396d277a364fab00d0193d25b700847
 https://49-231-34-107-rewriter.ais-vidnt.com/ais/play/origin/live/eds/S0006/DASH/S0006.mpd
  
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Acil2125/ciaelah/main/idn/bein7.png" group-title="|SPORTS| Premium Ext⚽🚩",BeIN Sports AIS 7
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #KODIPROP:inputstream.adaptive.stream_headers=X-Forwarded-For=2405:9800:7:4:3::47
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=94a28a75b3891e92a97efbe76f941095:7b39cd0e318ee481b98c36a125c540fb
@@ -1453,47 +1456,47 @@ https://pop5clustera00de07172379a62d6189.hypp.tv/PLTV/88888888/224/3221227937/32
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Acil2125/ciaelah/main/idn/bein1.png" group-title="|SPORTS| Arabic🚩",BeIN Sports 1 HD
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddylivehd.php 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1 
 https://webhdrus.onlinehdhls.ru/lb/premium91/index.m3u8|Origin=https://weblivehdplay.ru
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Acil2125/ciaelah/main/idn/bein2.png" group-title="|SPORTS| Arabic🚩",BeIN Sports 2 HD
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddylivehd.php 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1 
 https://webhdrus.onlinehdhls.ru/lb/premium92/index.m3u8|Origin=https://weblivehdplay.ru
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Acil2125/ciaelah/main/idn/bein3.png" group-title="|SPORTS| Arabic🚩",BeIN Sports 3 HD
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddylivehd.php 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1 
 https://webhdrus.onlinehdhls.ru/lb/premium93/index.m3u8|Origin=https://weblivehdplay.ru
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Acil2125/ciaelah/main/idn/bein4.png" group-title="|SPORTS| Arabic🚩",BeIN Sports 4 HD
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddylivehd.php 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1 
 https://webhdrus.onlinehdhls.ru/lb/premium94/index.m3u8|Origin=https://weblivehdplay.ru
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Acil2125/ciaelah/main/idn/bein5.png" group-title="|SPORTS| Arabic🚩",BeIN Sports 5 HD
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddylivehd.php 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1 
 https://webhdrus.onlinehdhls.ru/lb/premium95/index.m3u8|Origin=https://weblivehdplay.ru
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Acil2125/ciaelah/main/idn/bein6.png" group-title="|SPORTS| Arabic🚩",BeIN Sports 6 HD
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddylivehd.php 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1 
 https://webhdrus.onlinehdhls.ru/lb/premium96/index.m3u8|Origin=https://weblivehdplay.ru
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Acil2125/ciaelah/main/idn/bein7.png" group-title="|SPORTS| Arabic🚩",BeIN Sports 7 HD
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddylivehd.php 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1 
 https://webhdrus.onlinehdhls.ru/lb/premium97/index.m3u8|Origin=https://weblivehdplay.ru
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Acil2125/ciaelah/main/idn/bein8.png" group-title="|SPORTS| Arabic🚩",BeIN Sports 8 HD
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddylivehd.php 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1 
 https://webhdrus.onlinehdhls.ru/lb/premium98/index.m3u8|Origin=https://weblivehdplay.ru
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Acil2125/ciaelah/main/idn/bein9.png" group-title="|SPORTS| Arabic🚩",BeIN Sports 9 HD
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddylivehd.php 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1 
 https://webhdrus.onlinehdhls.ru/lb/premium99/index.m3u8|Origin=https://weblivehdplay.ru
 
 
@@ -2028,7 +2031,7 @@ https://unifi-live02.secureswiftcontent.com/UnifiHD/live11.mpd
 https://unifi-live07.secureswiftcontent.com/UnifiHD/live11.mpd
 
 #EXTINF:-1 tvg-id="unifi Sports 1" tvg-name="unifi Sports 1" group-title="|SPORTS| Fight🥊" tvg-logo="https://raw.githubusercontent.com/Acil2125/ciaelah/main/idn/unifisports.png",unifi UFC
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 https://unifi-live01.secureswiftcontent.com/UnifiHD/live11.mpd
 
 #EXTINF:-1   tvg-logo="https://raw.githubusercontent.com/Acil2125/ciaelah/main/idn/sonyten.png" group-title="|SPORTS| Fight🥊",Sony TEN 1 
@@ -2163,23 +2166,23 @@ https://webhdrus.onlinehdhls.ru/lb/premium467/index.m3u8|Origin=https://webliveh
 
 #EXTINF:-1 group-title="|SPORTS| Premium 2⚽🚩" tvg-id="digisport1romania.ro" tvg-logo="https://raw.githubusercontent.com/Acil2125/ciaelah/main/idn/digi.png",Digi Sport 1  
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddylivehd.php 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1 
 https://webhdrus.onlinehdhls.ru/lb/premium400/index.m3u8|Origin=https://weblivehdplay.ru
 
 #EXTINF:-1 group-title="|SPORTS| Premium 2⚽🚩" tvg-id="digisport2romania.ru" tvg-logo="https://raw.githubusercontent.com/Acil2125/ciaelah/main/idn/digi.png",Digi Sport 2 
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddylivehd.php 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1 
 https://webhdrus.onlinehdhls.ru/lb/premium401/index.m3u8
 
 #EXTINF:-1 group-title="|SPORTS| Premium 2⚽🚩" tvg-id="digisport3romania.ro" tvg-logo="https://raw.githubusercontent.com/Acil2125/ciaelah/main/idn/digi.png",Digi Sport 3  
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddylivehd.php 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1 
 https://webhdrus.onlinehdhls.ru/lb/premium402/index.m3u8|Origin=https://weblivehdplay.ru
 #https://webudit.hlsjs.ru/lb/premium402/index.m3u8|Origin=https://weblivehdplay.ru
 
 #EXTINF:-1 group-title="|SPORTS| Premium 2⚽🚩" tvg-id="digisport4romania.ro" tvg-logo="https://raw.githubusercontent.com/Acil2125/ciaelah/main/idn/digi.png",Digi Sport 4  
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddylivehd.php 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1 
 https://webhdrus.onlinehdhls.ru/lb/premium403/index.m3u8|Origin=https://weblivehdplay.ru
 #https://webudit.hlsjs.ru/lb/premium403/index.m3u8|Origin=https://weblivehdplay.ru
 
@@ -2277,12 +2280,12 @@ https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc122ycnuy)/m
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/youtube/images/2/22/NBC.jpg/revision/latest?cb=20230910112737", tvg-id="ksport1hd" group-title="|SPORTS| Premium 2⚽🚩", NBC USA
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddylivehd.php 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1 
 https://webhdrus.onlinehdhls.ru/lb/premium53/index.m3u8|Origin=https://weblivehdplay.ru
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Acil2125/ciaelah/main/idn/cbssports.png", tvg-id="ksport1hd" group-title="|SPORTS| Premium 2⚽🚩", CBS USA
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddylivehd.php 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1 
 https://webhdrus.onlinehdhls.ru/lb/premium52/index.m3u8|Origin=https://weblivehdplay.ru
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Acil2125/ciaelah/main/idn/cbssports.png", tvg-id="ksport1hd" group-title="|SPORTS| Premium 1⚽🚩", CBS Sports Network
@@ -2383,19 +2386,19 @@ https://webhdrus.onlinehdhls.ru/lb/premium290/index.m3u8|Origin=https://webliveh
 
 #EXTINF:-1 group-title="|SPORTS| Premium 2⚽🚩" tvg-id="rmcsport1.fr" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3b/Logo_RMC_Sport_1_2018.svg/revision/latest/scale-to-width-down/640",RMC Sport 1 
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddylivehd.php 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1 
 https://webhdrus.onlinehdhls.ru/lb/premium119/index.m3u8|Origin=https://weblivehdplay.ru
 #https://webudit.hlsjs.ru/lb/premium119/index.m3u8|Origin=https://weblivehdplay.ru
 
 #EXTINF:-1 group-title="|SPORTS| Premium 2⚽🚩" tvg-id="rmcsport2.fr" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3a/Logo_RMC_Sport_2_2018.svg/revision/latest/scale-to-width-down/640",RMC Sport 2 
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddylivehd.php 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1 
 https://webhdrus.onlinehdhls.ru/lb/premium120/index.m3u8|Origin=https://weblivehdplay.ru
 #https://webudit.hlsjs.ru/lb/premium120/index.m3u8|Origin=https://weblivehdplay.ru
 
 #EXTINF:-1 group-title="|SPORTS| Premium 2⚽🚩" tvg-id="rmcsport2.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Logo_RMC_Sport_3_2018.svg/2560px-Logo_RMC_Sport_3_2018.svg.png",RMC Sport 3 
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddylivehd.php 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1 
 https://webhdrus.onlinehdhls.ru/lb/premium120/index.m3u8|Origin=https://weblivehdplay.ru
 #https://webudit.hlsjs.ru/lb/premium121/index.m3u8|Origin=https://weblivehdplay.ru
 
@@ -3227,7 +3230,7 @@ https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(9ef01e28-6fac
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cubum.iptvgo.workers.dev
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856b6088c3016b87d64b970b53/manifest.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/hbo.png" group-title="|TV| Movies & Drama🍿",HBO Asia
@@ -3241,7 +3244,7 @@ https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(92c7b96a-33fc
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cubum.iptvgo.workers.dev
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d054fbf67379f/manifest.mpd
 
 ##EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/hbohits.png" group-title="|TV| Movies & Drama🍿",HBO Hits
@@ -3260,7 +3263,7 @@ https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(cec31cdd-d2ff
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cubum.iptvgo.workers.dev
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d055927fe37a4/manifest.mpd
 
 #EXTINF:-1 tvg-id="ID" tvg-name="HBO Signature" ch-number="106" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/hbosig.png" group-title="|TV| Movies & Drama🍿",HBO Signature
@@ -3269,7 +3272,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d055927f
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cubum.iptvgo.workers.dev
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d0552e0ca37a2/manifest.mpd
 
 EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/hbosig.png" group-title="|TV| Movies & Drama🍿",HBO Signature Asia
@@ -3376,7 +3379,7 @@ https://cors-proxy.elfsight.com/https://cdn08jtedge.indihometv.com/dassdvr/134/e
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cubum.iptvgo.workers.dev
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 https://cdnjkt4.transvision.co.id:1000/live/master/5/4028c68572841ba301729c921bc43c00/manifest.mpd
 
 #EXTINF:-1 group-title="|TV| Entertainment💁👌" tvg-logo="https://raw.githubusercontent.com/Acil2125/ciaelah/main/idn/cookingtv.png",Cooking TV
@@ -3385,7 +3388,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/5/4028c68572841ba301729c921bc
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cubum.iptvgo.workers.dev
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c68582449a2e0182597009c021ef/manifest.mpd
 
 #EXTINF:-1 group-title="|TV| Entertainment💁👌" tvg-logo="https://raw.githubusercontent.com/Acil2125/ciaelah/main/idn/joketv.png",Joke TV
@@ -3394,7 +3397,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c68582449a2e0182597009c
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cubum.iptvgo.workers.dev
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 https://cdnjkt4.transvision.co.id:1000/live/master/100/4028c685840ff049018455fe09894361/manifest.mpd
 
 
@@ -3457,27 +3460,27 @@ https://edge1.laotv.la/live/TSport2/index.m3u8
 
 #EXTINF:-1 group-title="|SPORTS| Asia Indonesia🚩" tvg-id="truepremierfootball1.th" tvg-logo="https://raw.githubusercontent.com/Acil2125/ciaelah/main/idn/truepremier.png",True Premier 1
 #EXTVLCOPT:http-referrer=https://www.youdooball.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1 
 https://sport.livedoomovies.com:4432/02_PremierHD1_720p/chunklist.m3u8
 
 #EXTINF:-1 group-title="|SPORTS| Asia Indonesia🚩" tvg-id="truepremierfootball2.th" tvg-logo="https://raw.githubusercontent.com/Acil2125/ciaelah/main/idn/truepremier.png",True Premier 2
 #EXTVLCOPT:http-referrer=https://www.youdooball.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1 
 https://sport.livedoomovies.com:4432/02_PremierHD2_720p/chunklist.m3u8
 
 #EXTINF:-1 group-title="|SPORTS| Asia Indonesia🚩" tvg-id="truepremierfootball3.th" tvg-logo="https://raw.githubusercontent.com/Acil2125/ciaelah/main/idn/truepremier.png",True Premier 3
 #EXTVLCOPT:http-referrer=https://www.youdooball.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1 
 https://sport.livedoomovies.com:4432/02_PremierHD3_720p/chunklist.m3u8
 
 #EXTINF:-1 group-title="|SPORTS| Asia Indonesia🚩" tvg-id="truepremierfootball4.th" tvg-logo="https://raw.githubusercontent.com/Acil2125/ciaelah/main/idn/truepremier.png",True Premier 4
 #EXTVLCOPT:http-referrer=https://www.youdooball.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1 
 https://sport.livedoomovies.com:4432/02_PremierHD4_720p/chunklist.m3u8
 
 #EXTINF:-1 group-title="|SPORTS| Asia Indonesia🚩" tvg-id="truepremierfootball5.th" tvg-logo="https://raw.githubusercontent.com/Acil2125/ciaelah/main/idn/truepremier.png",True Premier 5
 #EXTVLCOPT:http-referrer=https://www.youdooball.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1 
 https://sport.livedoomovies.com:4432/02_PremierHD5_720p/chunklist.m3u8
 
 #EXTINF:-1 group-title="|SPORTS| Asia Indonesia🚩" tvg-id="truesports1.th" tvg-logo="https://raw.githubusercontent.com/Acil2125/ciaelah/main/idn/truesports.png",True Sports 1
@@ -3818,7 +3821,7 @@ https://cors-proxy.elfsight.com/https://cdn08jtedge.indihometv.com/dassdvr/134/m
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cubum.iptvgo.workers.dev
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856b8d2390016b9c3ee6c21d7c/manifest.mpd
 
 EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20957652_ico.png?ts=1655328294" group-title="|TV| Cintai Anak💚",B KIDS
@@ -3833,7 +3836,7 @@ https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cubum.iptvgo.workers.dev
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 https://cdnjkt4.transvision.co.id:1000/live/master/2/4028c6856c3db2cc016cdc32eb0c439c/manifest.mpd
 
 
@@ -4049,9 +4052,9 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs21
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs22
 
 #EXTINF:-1 tvg-id="ASSP1.my" tvg-name="ASSP_A" tvg-logo="https://raw.githubusercontent.com/Acil2125/ciaelah/main/idn/ASUPERSPORTS1.png" group-title="|SPORTS| Asia Indonesia🚩",Astro Supersport 1 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys": [ { "kty": "oct", "k": "HO5FQCla5tbFGcUEGoDxwA", "kid": "jQKveknkSzGXZNgR0BjF6A" } ], "type": "temporary" }
-https://cors.iptvsystem.my.id/sooka/CH3/masterCH3.mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+https://webhdrus.onlinehdhls.ru/lb/premium123/index.m3u8|Origin=https://weblivehdplay.ru
 
 #EXTINF:-1 tvg-id="ASSP1.my" tvg-name="ASSP_A" tvg-logo="https://raw.githubusercontent.com/Acil2125/ciaelah/main/idn/ASUPERSPORTS2.png" group-title="|SPORTS| Asia Indonesia🚩",ASTRO Supersport 2 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -4059,7 +4062,9 @@ https://cors.iptvsystem.my.id/sooka/CH3/masterCH3.mpd
 https://cors.iptvsystem.my.id/sooka/CH4/masterCH4.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="Astro SuperSport 3" tvg-logo="https://raw.githubusercontent.com/Acil2125/ciaelah/main/idn/ASUPERSPORTS3.png" group-title="|SPORTS| Asia Indonesia🚩",Astro Supersport 3
-https://cors.iptvsystem.my.id/sooka/CH5/masterCH5.mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+https://webhdrus.onlinehdhls.ru/lb/premium125/index.m3u8|Origin=https://weblivehdplay.ru
 
 #EXTINF:-1 tvg-id="" tvg-name="Astro SuperSport 4" tvg-logo="https://raw.githubusercontent.com/Acil2125/ciaelah/main/idn/ASUPERSPORTS4.png" group-title="|SPORTS| Asia Indonesia🚩",Astro Supersport 4
 #KODIPROP:inputstream.adaptive.license_type=clearkey
