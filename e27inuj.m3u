@@ -893,10 +893,11 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
 #EXTINF:-1 group-logo="" group-title="Matchday, 6 Juni✅" tvg-logo="https://raw.githubusercontent.com/Acil2125/ee/main/liveevent.png",16:00 Indonesia vs Iraq Cn1 - Kualifikasi Piala Dunia
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDQzYTRlODMtMGE2Mi0zNTNlLWFlMzctZjUxNDk4NDliYjM5
-https://cempedak-live-cdn.mncnow.id/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd
+https://cempedak-live-cdn.mncnow.id/live/eds/Soccer-2/sa_dash_vmx/Soccer-2.mpd
+#https://cempedak-live-cdn.mncnow.id/live/eds/MNCSports3-HD/sa_dash_vmx/MNCSports3-HD.mpd
 
-#EXTINF:-1 group-logo="" group-title="Matchday, 6 Juni✅" tvg-logo="https://raw.githubusercontent.com/Acil2125/ee/main/liveevent.png",16:00 Indonesia vs Iraq Cn2 - Kualifikasi Piala Dunia
-https://raw.githubusercontent.com/Arrasyid22/vision-/main/timnas1.m3u8
+#EXTINF:-1 group-logo="" group-title="Matchday, 6 Juni✅" tvg-logo="https://raw.githubusercontent.com/Acil2125/ee/main/liveevent.png",16:00 Indonesia vs Iraq Cn3 - Kualifikasi Piala Dunia
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1717690257/ei/MYthZpSFBLa94t4PmdKMsAY/ip/203.175.8.56/id/tMRD5rbY4pw.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ==/hfr/1/maudio/1/spc/UWF9f_2OVp5KmjC7YM8sPriQZam0ESz4Gl0jSHYpv6e7C9_pL03vahxAhbgHCXg/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/LIVE/sparams/expire,ei,ip,id,source,requiressl,xpc,hfr,maudio,spc,vprv,go,rqh,itag,playlist_type/sig/AJfQdSswRQIgQbLfAKVWptnzQ0hNTKLuSoAhniiQ6AYkm3dFUZH4tqQCIQCZYmkAKnnMVw2sA_9D4b8myK2Eqw6l9M9uYB61NiWF8w==/file/index.m3u8
 
 #EXTINF:-1 group-logo="" group-title="Matchday, 6 Juni✅" tvg-logo="https://raw.githubusercontent.com/Acil2125/ee/main/liveevent.png",19:00 Vietnam vs Filipina - Kualifikasi Piala Dunia
 http://171.238.181.52:18080/194.m3u8
