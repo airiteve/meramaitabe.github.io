@@ -878,10 +878,10 @@
 ##EXTINF:-1   tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@Relax",VTV 5
 #http://171.238.181.52:18080/194.m3u8
 
-EXTINF:-1 tvg-id="Sukan RTM" group-title="World Cup 26™ Qualifiers" tvg-id="" tvg-logo="https://i.ibb.co.com/hgSyb8F/wc2026qualifiers.png", World Cup 26™ Qualifiers 🇲🇾
+EXTINF:-1 tvg-id="Sukan RTM" group-title="|EVENT| World Cup 26™ Qualifiers" tvg-id="" tvg-logo="https://i.ibb.co.com/hgSyb8F/wc2026qualifiers.png", LIVE 🇲🇾
 https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
 
-EXTINF:-1 tvg-id="Okey.my" group-title="World Cup 26™ Qualifiers" tvg-id="" tvg-logo="https://i.ibb.co.com/hgSyb8F/wc2026qualifiers.png", World Cup 26™ Qualifiers 🇲🇾
+EXTINF:-1 tvg-id="Okey.my" group-title="|EVENT| World Cup 26™ Qualifiers" tvg-id="" tvg-logo="https://i.ibb.co.com/hgSyb8F/wc2026qualifiers.png", LIVE 🇲🇾
 https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
 
 
@@ -890,45 +890,42 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
 
 
 
-#EXTINF:-1 group-logo="" group-title="Matchday, 9 Juni✅" tvg-logo="https://raw.githubusercontent.com/Acil2125/ee/main/liveevent.png",0:30 Denmark vs Norwegia - International Friendly
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDQzYTRlODMtMGE2Mi0zNTNlLWFlMzctZjUxNDk4NDliYjM5
-https://cempedak-live-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
+#EXTINF:-1 group-logo="" group-title="Matchday, 11 Juni✅" tvg-logo="https://raw.githubusercontent.com/Acil2125/ee/main/liveevent.png",17:15 Japan vs Syria - World Cup Qualifiers
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+https://webhdrus.onlinehdhls.ru/lb/premium126/index.m3u8|Origin=https://weblivehdplay.ru
 
-#EXTINF:-1 group-logo="" group-title="Matchday, 9 Juni✅" tvg-logo="https://raw.githubusercontent.com/Acil2125/ee/main/liveevent.png",1:00 Belgia vs Luksemburg - International Friendly
+#EXTINF:-1 group-logo="" group-title="Matchday, 11 Juni✅" tvg-logo="https://raw.githubusercontent.com/Acil2125/ee/main/liveevent.png",18:00 Korea Selatan vs China - World Cup Qualifiers
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d12e4c9dc52f4cbab7ac9b2278317e47:a7987e5b6ec42db68a25486e108ca9f2
-https://ch11-hls-live.akamaized.net/out/u/433127.mpd
+#KODIPROP:inputstream.adaptive.license_key=cdf0001f693942da990fe81afa3eb0cd:6b8d4bc58615439954851eeda771f417
+https://tglmp02.akamaized.net/out/v1/6e5a888d4bf847a2be521c55f7bfd08c/manifest.mpd
 
-#EXTINF:-1 group-logo="" group-title="Matchday, 9 Juni✅" tvg-logo="https://raw.githubusercontent.com/Acil2125/ee/main/liveevent.png",2:30 Spanyol vs Irlandia - International Friendly
+#EXTINF:-1 group-logo="" group-title="Matchday, 11 Juni✅" tvg-logo="https://raw.githubusercontent.com/Acil2125/ee/main/liveevent.png",19:30 Thailand vs Singapura - World Cup Qualifiers
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"fa4fe8ff1dd1591ba5055e3bd1e02d69":"2241738ed51690a89c5ee96be342700f","48959c4c91d05282af15f52069ebe0fd":"a11cffb97cd43a11e25c3ec1121b6b62","77172a47d3de53d4b2f9e8f4d48dad65":"fb005b7764afd9878819e717a5cc476e"}
-https://tvup-ccs-live.akamaized.net/espn/espn.mpd
+#KODIPROP:inputstream.adaptive.license_key=cdb834a4f2fd413a8e50d1a7170701d2:3d6ae85b34e8aac7488c780cea215306
+https://tglmp04.akamaized.net/out/v1/6b351c6bf46a43d998e3f86b69cbce4f/manifest.mpd
 
-#EXTINF:-1 group-logo="" group-title="Matchday, 9 Juni✅" tvg-logo="https://raw.githubusercontent.com/Acil2125/ee/main/liveevent.png",7:30 Brazil vs Meksiko - International Friendly
+#EXTINF:-1 group-logo="" group-title="Matchday, 11 Juni✅" tvg-logo="https://raw.githubusercontent.com/Acil2125/ee/main/liveevent.png",19:30 Indonesia vs Filipina - World Cup Qualifiers
+https://jihulab.com/iptv2571913/inal-iptv/timnas/-/raw/main/timnas1.m3u8
+
+#EXTINF:-1 group-logo="" group-title="Matchday, 11 Juni✅" tvg-logo="https://raw.githubusercontent.com/Acil2125/ee/main/liveevent.png",20:00 Malaysia vs China Taipei - World Cup Qualifiers
+https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
+
+#EXTINF:-1 group-logo="" group-title="Matchday, 11 Juni✅" tvg-logo="https://raw.githubusercontent.com/Acil2125/ee/main/liveevent.png",23:00 Congo vs Marocco - World Cup Qualifiers
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
 #KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"5Bw6b3UysuOoKNlYASTInQ", "kid":"wYtqpzm+TAt3RgX8+11raA" } ], "type":"temporary" }
-https://webtvstream.bhtelecom.ba/hls6/as_premium1.mpd
+#KODIPROP:inputstream.adaptive.license_key=d84c325f36814f39bbe59080272b10c3:550727de4c96ef1ecff874905493580f
+https://ssc1-ak.akamaized.net/out/v1/c696e4819b55414388a1a487e8a45ca1/index.mpd
 
-#EXTINF:-1 group-logo="" group-title="Matchday, 9 Juni✅" tvg-logo="https://raw.githubusercontent.com/Acil2125/ee/main/liveevent.png",19:00 Cote D Ivore U20 vs Meksiko U23 - Toulon Tournament
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referer=https://webtv.sk/tv/
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 group-logo="" group-title="Matchday, 11 Juni✅" tvg-logo="https://raw.githubusercontent.com/Acil2125/ee/main/liveevent.png",23:00 Ukraina vs Maldova - International Friendly
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
-https://cors-proxy.elfsight.com/https://dash2.antik.sk/stream/hisi_as2/playlist_cbcs.mpd
-
-#EXTINF:-1 group-logo="" group-title="Matchday, 9 Juni✅" tvg-logo="https://raw.githubusercontent.com/Acil2125/ee/main/liveevent.png",22:30 France U20 vs Arab U23 - Toulon Tournament
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referer=https://webtv.sk/tv/
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
-https://cors-proxy.elfsight.com/https://dash2.antik.sk/stream/hisi_as2/playlist_cbcs.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjExZWU4OTctOTdiZS0zOTQ0LWE3Y2UtYTIxZWVmODBlNjEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+https://melon-live-cdn.mncnow.id/live/eds/soccerchannel-test/sa_dash_vmx/soccerchannel-test.mpd
 
 
 
@@ -936,85 +933,26 @@ https://cors-proxy.elfsight.com/https://dash2.antik.sk/stream/hisi_as2/playlist_
 
 
 
-#EXTINF:-1 group-logo="" group-title="Matchday, 10 Juni✅" tvg-logo="https://raw.githubusercontent.com/Acil2125/ee/main/liveevent.png",1:45 Slovakia vs Wales - International Friendly
+#EXTINF:-1 group-logo="" group-title="Matchday, 12 Juni✅" tvg-logo="https://raw.githubusercontent.com/Acil2125/ee/main/liveevent.png",1:00 Iraq vs Vietnam - World Cup Qualifiers
+http://171.238.181.52:18080/194.m3u8
+
+#EXTINF:-1 group-logo="" group-title="Matchday, 12 Juni✅" tvg-logo="https://raw.githubusercontent.com/Acil2125/ee/main/liveevent.png",1:00 Arab vs Jordan - World Cup Qualifiers
+#EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
+https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass1bup/master.m3u8
+
+
+#EXTINF:-1 group-logo="" group-title="Matchday, 12 Juni✅" tvg-logo="https://raw.githubusercontent.com/Acil2125/ee/main/liveevent.png",1:45 Portugal vs Ireland Republic - International Friendly
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=bda7f74b842f4f0eb142395dadd91f07:fb12f661d640e4ebdf38e312302260eb
-https://cors.iptvsystem.my.id/sooka/CH2/masterCH2.mpd
+#KODIPROP:inputstream.adaptive.license_key=0036e5d0e88dfb087f1791da6150ced9:0bc653d830837dceb13bd17169f0f8e2
+https://linear302-it-dash1-prd-ll.cdn13.skycdp.com/016a/31209/FHD/skysportseriea/master.mpd
 
-#EXTINF:-1 group-logo="" group-title="Matchday, 10 Juni✅" tvg-logo="https://raw.githubusercontent.com/Acil2125/ee/main/liveevent.png",1:45 Italia vs Bosnia - International Friendly
+#EXTINF:-1 group-logo="" group-title="Matchday, 12 Juni✅" tvg-logo="https://raw.githubusercontent.com/Acil2125/ee/main/liveevent.png",19:30 Japan U19 vs Panama U23 - Toulon Tournament
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://cors-proxy.elfsight.com/https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$SPORTTV1_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(3000000)
 
-#EXTINF:-1 group-logo="" group-title="Matchday, 10 Juni✅" tvg-logo="https://raw.githubusercontent.com/Acil2125/ee/main/liveevent.png",2:15 France vs Canada - International Friendly
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0036e5d0e88dfb087f1791da6150ced9:0bc653d830837dceb13bd17169f0f8e2
-https://linear302-it-dash1-prd-ll.cdn13.skycdp.com/016a/31209/FHD/skysportseriea/master.mpd
-
-
-#EXTINF:-1 group-logo="" group-title="Matchday, 10 Juni✅" tvg-logo="https://raw.githubusercontent.com/Acil2125/ee/main/liveevent.png",19:00 Ukraina U23 vs Jepang U19 - Toulon Tournament
+#EXTINF:-1 group-logo="" group-title="Matchday, 12 Juni✅" tvg-logo="https://raw.githubusercontent.com/Acil2125/ee/main/liveevent.png",23:15 Italy U21 vs Indonesia U20 - Toulon Tournament
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referer=https://webtv.sk/tv/
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:11223344556677889900112233445566
-https://cors-proxy.elfsight.com/https://dash2.antik.sk/stream/nvidia_arena_sport1/playlist_cenc.mpd
-
-#EXTINF:-1 group-logo="" group-title="Matchday, 10 Juni✅" tvg-logo="https://raw.githubusercontent.com/Acil2125/ee/main/liveevent.png",23:15 Italia U21 vs Panama U23 - Toulon Tournament
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referer=https://webtv.sk/tv/
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:11223344556677889900112233445566
-https://cors-proxy.elfsight.com/https://dash2.antik.sk/stream/nvidia_arena_sport1/playlist_cenc.mpd
-
-#EXTINF:-1 group-logo="" group-title="Matchday, 10 Juni✅" tvg-logo="https://raw.githubusercontent.com/Acil2125/ee/main/liveevent.png",23:00 Egypt vs Guinea Bissau - World Cup Qualifiers
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-#EXTVLCOPT:http-referer=https://widevine.licenses4.me/\u0026User-agent\u003dREDLINECLIENT
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
-https://dcf-ak-livedazn.akamaized.net/dashdrm/dazn-linear-022/stream.mpd
-
-
-
-
-
-
-
-#EXTINF:-1 group-logo="" group-title="Matchday, 8 Juni✅" tvg-logo="https://raw.githubusercontent.com/Acil2125/ee/main/liveevent.png",1:45 England vs Iceland - International Friendly
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0036e5d0e88dfb087f1791da6150ced9:0bc653d830837dceb13bd17169f0f8e2
-https://linear302-it-dash1-prd-ll.cdn13.skycdp.com/016a/31209/FHD/skysportseriea/master.mpd
-
-#EXTINF:-1 group-logo="" group-title="Matchday, 8 Juni✅" tvg-logo="https://raw.githubusercontent.com/Acil2125/ee/main/liveevent.png",1:45 Germany vs Greece - International Friendly
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=00368000eaecbeeafd84c05b3b8243af:8f84185910e18ae0ca8a45004625a000
-https://linear311-it-dash1-prd-akp2.cdn13.skycdp.com/016a/31917/FHD/skysport251/master.mpd
-
-#EXTINF:-1 group-logo="" group-title="Matchday, 8 Juni✅" tvg-logo="https://raw.githubusercontent.com/Acil2125/ee/main/liveevent.png",23:45 Portugal vs Croatia - International Friendly
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0036e5d0e88dfb087f1791da6150ced9:0bc653d830837dceb13bd17169f0f8e2
-https://linear302-it-dash1-prd-ll.cdn13.skycdp.com/016a/31209/FHD/skysportseriea/master.mpd
-
-#EXTINF:-1 group-logo="" group-title="Matchday, 8 Juni✅" tvg-logo="https://raw.githubusercontent.com/Acil2125/ee/main/liveevent.png",23:00 Sweden vs Serbia - International Friendly
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-https://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-018/stream.mpd?p=web
-
-#EXTINF:-1 group-logo="" group-title="Matchday, 8 Juni✅" tvg-logo="https://raw.githubusercontent.com/Acil2125/ee/main/liveevent.png",19:00 Japan U21 vs Indonesia U20 Cn1 - Toulon
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs19
-
-#EXTINF:-1 group-logo="" group-title="Matchday, 8 Juni✅" tvg-logo="https://raw.githubusercontent.com/Acil2125/ee/main/liveevent.png",19:00 Japan U21 vs Indonesia U20 Cn2 - Toulon
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referer=https://webtv.sk/tv/
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
-https://cors-proxy.elfsight.com/https://dash2.antik.sk/stream/hisi_as2/playlist_cbcs.mpd
-
+https://cors-proxy.elfsight.com/https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$SPORTTV1_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(3000000)
 
 
 
@@ -1045,56 +983,103 @@ https://testfunctionlive.mncnow.id/live/eds/MNCSports3-HD/sa_dash_vmx/MNCSports3
 
 
 
-#EXTINF:-1 group-title="|EVENT| World Cup 26™ Qualifiers" tvg-id="" tvg-logo="https://i.ibb.co.com/hgSyb8F/wc2026qualifiers.png",LIVE 1 🇸🇬
+
+
+
+#EXTINF:-1 group-title="|EVENT| World Cup 26™ Qualifiers" tvg-id="" tvg-logo="https://i.ibb.co.com/hgSyb8F/wc2026qualifiers.png", LIVE 1 🇸🇬
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cdb834a4f2fd413a8e50d1a7170701d2:3d6ae85b34e8aac7488c780cea215306
 https://tglmp04.akamaized.net/out/v1/6b351c6bf46a43d998e3f86b69cbce4f/manifest.mpd
 
-#EXTINF:-1 group-title="|EVENT| World Cup 26™ Qualifiers" tvg-id="" tvg-logo="https://i.ibb.co.com/hgSyb8F/wc2026qualifiers.png",LIVE 2 🇸🇬
+#EXTINF:-1 group-title="|EVENT| World Cup 26™ Qualifiers" tvg-id="" tvg-logo="https://i.ibb.co.com/hgSyb8F/wc2026qualifiers.png", LIVE 2 🇸🇬
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cdf0001f693942da990fe81afa3eb0cd:6b8d4bc58615439954851eeda771f417
 https://tglmp02.akamaized.net/out/v1/6e5a888d4bf847a2be521c55f7bfd08c/manifest.mpd
 
-#EXTINF:-1 group-title="|EVENT| World Cup 26™ Qualifiers" tvg-id="" tvg-logo="https://i.ibb.co.com/hgSyb8F/wc2026qualifiers.png",LIVE 3 🇹🇭
+#EXTINF:-1 tvg-id="Thairath TV HD.th" group-title="|EVENT| World Cup 26™ Qualifiers" tvg-id="" tvg-logo="https://i.ibb.co.com/hgSyb8F/wc2026qualifiers.png", LIVE 3 🇹🇭
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4b2bff3e598043cfaf949305e3d153fa:545df84ff4c54af6b5385516e0f65956
 https://ubn-streamer1.cdn.3bbtv.com:8443/3bb/live/32/32.mpd
 
-#EXTINF:-1 group-title="|EVENT| World Cup 26™ Qualifiers" tvg-id="" tvg-logo="https://i.ibb.co.com/hgSyb8F/wc2026qualifiers.png",LIVE 4 🇮🇩
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
-https://testfunctionlive.mncnow.id/live/eds/MNCSports3-HD/sa_dash_vmx/MNCSports3-HD.mpd
+#EXTINF:-1 tvg-id="" group-title="|EVENT| World Cup 26™ Qualifiers" tvg-id="" tvg-logo="https://i.ibb.co.com/hgSyb8F/wc2026qualifiers.png", LIVE 4 🇴🇲
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/index.m3u8
 
-#EXTINF:-1 group-title="|EVENT| World Cup 26™ Qualifiers" tvg-id="" tvg-logo="https://i.ibb.co.com/hgSyb8F/wc2026qualifiers.png",LIVE 5 🇮🇩
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
-https://testfunctionlive.mncnow.id/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd
-
-#EXTINF:-1 group-title="|EVENT| World Cup 26™ Qualifiers" tvg-id="" tvg-logo="https://i.ibb.co.com/hgSyb8F/wc2026qualifiers.png",LIVE 6 🇮🇩
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-soccerchannel-hd/sa_dash/rcti-soccerchannel-hd.mpd
-
-#EXTINF:-1 group-title="|EVENT| World Cup 26™ Qualifiers" tvg-id="" tvg-logo="https://i.ibb.co.com/hgSyb8F/wc2026qualifiers.png",LIVE 7 🇲🇾
+#EXTINF:-1 tvg-id="Sukan RTM" group-title="|EVENT| World Cup 26™ Qualifiers" tvg-id="" tvg-logo="https://i.ibb.co.com/hgSyb8F/wc2026qualifiers.png", LIVE 5 🇲🇾
 https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
 
-#EXTINF:-1 group-title="|EVENT| World Cup 26™ Qualifiers" tvg-id="" tvg-logo="https://i.ibb.co.com/hgSyb8F/wc2026qualifiers.png",LIVE 8 🇲🇾
+#EXTINF:-1 tvg-id="Okey.my" group-title="|EVENT| World Cup 26™ Qualifiers" tvg-id="" tvg-logo="https://i.ibb.co.com/hgSyb8F/wc2026qualifiers.png", LIVE 6 🇲🇾
 https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd 
 
-#EXTINF:-1 group-title="|EVENT| World Cup 26™ Qualifiers" tvg-id="" tvg-logo="https://i.ibb.co.com/hgSyb8F/wc2026qualifiers.png",LIVE 9 🇶🇦
+#EXTINF:-1 group-title="|EVENT| World Cup 26™ Qualifiers" tvg-id="" tvg-logo="https://i.ibb.co.com/hgSyb8F/wc2026qualifiers.png", LIVE 7 🇸🇦
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d84c325f36814f39bbe59080272b10c3:550727de4c96ef1ecff874905493580f
+https://ssc1-ak.akamaized.net/out/v1/c696e4819b55414388a1a487e8a45ca1/index.mpd
+
+
+#EXTINF:-1 tvg-id="" group-title="|EVENT| World Cup 26™ Qualifiers" tvg-id="" tvg-logo="https://i.ibb.co.com/hgSyb8F/wc2026qualifiers.png", LIVE 8 🇦🇪
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://tr-live-route.adm.tcon.hlit.hvds.tv/Content/Channel/AbuDhabiSportsChannel1/DASH/master.mpd
+
+#EXTINF:-1 tvg-id="" group-title="|EVENT| World Cup 26™ Qualifiers" tvg-id="" tvg-logo="https://i.ibb.co.com/hgSyb8F/wc2026qualifiers.png", LIVE 9 🇦🇪
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://tr-live-route.adm.tcon.hlit.hvds.tv/Content/Channel/AbuDhabiSportsChannel1/HLS/variant.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="|EVENT| World Cup 26™ Qualifiers" tvg-id="" tvg-logo="https://i.ibb.co.com/hgSyb8F/wc2026qualifiers.png", LIVE 10 🇦🇪
+https://dmitnthfr.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="|EVENT| World Cup 26™ Qualifiers" tvg-id="" tvg-logo="https://i.ibb.co.com/hgSyb8F/wc2026qualifiers.png", LIVE 11 🇦🇪
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="|EVENT| World Cup 26™ Qualifiers" tvg-id="" tvg-logo="https://i.ibb.co.com/hgSyb8F/wc2026qualifiers.png", LIVE 12 🇰🇼
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/index.m3u8
+
+#EXTINF:-1 group-title="|EVENT| World Cup 26™ Qualifiers" tvg-id="" tvg-logo="https://i.ibb.co.com/hgSyb8F/wc2026qualifiers.png", LIVE 13 🇧🇭
+#EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
+https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/index.m3u8
+
+
+#EXTINF:-1 group-title="|EVENT| World Cup 26™ Qualifiers" tvg-id="" tvg-logo="https://i.ibb.co.com/hgSyb8F/wc2026qualifiers.png", LIVE 14 🇶🇦
 #EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
 https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass1bup/master.m3u8
 
-#EXTINF:-1 group-title="|EVENT| World Cup 26™ Qualifiers" tvg-id="" tvg-logo="https://i.ibb.co.com/hgSyb8F/wc2026qualifiers.png",LIVE 10 🇶🇦
+#EXTINF:-1 group-title="|EVENT| World Cup 26™ Qualifiers" tvg-id="" tvg-logo="https://i.ibb.co.com/hgSyb8F/wc2026qualifiers.png", LIVE 15 🇶🇦
 #EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
 https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass2hgfdfghjikmnhygf/master.m3u8
 
-#EXTINF:-1 group-title="|EVENT| World Cup 26™ Qualifiers" tvg-id="" tvg-logo="https://i.ibb.co.com/hgSyb8F/wc2026qualifiers.png",LIVE 11 🇶🇦
+#EXTINF:-1 group-title="|EVENT| World Cup 26™ Qualifiers" tvg-id="" tvg-logo="https://i.ibb.co.com/hgSyb8F/wc2026qualifiers.png", LIVE 16 🇶🇦
 #EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
 https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass3pzrjl/master.m3u8
+
+#EXTINF:-1 group-title="|EVENT| World Cup 26™ Qualifiers" tvg-id="" tvg-logo="https://i.ibb.co.com/hgSyb8F/wc2026qualifiers.png", LIVE 17 🇶🇦
+#EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
+https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass4xiuytgfficcn/master.m3u8
+
+#EXTINF:-1 group-title="|EVENT| World Cup 26™ Qualifiers" tvg-id="" tvg-logo="https://i.ibb.co.com/hgSyb8F/wc2026qualifiers.png", LIVE 18 🇶🇦
+#EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
+https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass5xtwe/master.m3u8
+
+#EXTINF:-1 group-title="|EVENT| World Cup 26™ Qualifiers" tvg-id="" tvg-logo="https://i.ibb.co.com/hgSyb8F/wc2026qualifiers.png", LIVE 19 🇶🇦
+#EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
+https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass6xydam/master.m3u8
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/NEGARA/main/timnasday.jpg" group-title="|EVENT| Timnas Day", TIMNAS 1
+https://jihulab.com/iptv2571913/inal-iptv/timnas/-/raw/main/timnas1.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/NEGARA/main/timnasday.jpg" group-title="|EVENT| Timnas Day", TIMNAS 2
+https://jihulab.com/iptv2571913/inal-iptv/timnas/-/raw/main/timnas2.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/NEGARA/main/timnasday.jpg" group-title="|EVENT| Timnas Day", TIMNAS 3
+https://jihulab.com/iptv2571913/inal-iptv/timnas/-/raw/main/timnas3.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/NEGARA/main/timnasday.jpg" group-title="|EVENT| Timnas Day", TIMNAS 4
+https://jihulab.com/iptv2571913/inal-iptv/timnas/-/raw/main/timnas4.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/NEGARA/main/timnasday.jpg" group-title="|EVENT| Timnas Day", TIMNAS 5
+https://jihulab.com/iptv2571913/inal-iptv/timnas/-/raw/main/timnas5.m3u8
 
 
 
@@ -3865,6 +3850,11 @@ http://op-group1-swiftservehd-1.dens.tv/h/h207/index.m3u8
 https://raw.githubusercontent.com/kusnadipepenk/campeign/master/indos.m3u8
 http://edge.linknetott.swiftserve.com/channelgroup3/cg331production/ch8/02.m3u8
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/indosiar.png" group-title="|TV| Indonesia🟥⬜",INDOSIAR HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://cuass-060172da4dc0.herokuapp.com/pid/index.m3u8?id=205&type=hls
+
 EXTINF:-1 tvg-id="MNCTV.id" tvg-country="ID" tvg-language="English;Indonesian" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/mnctv.png" group-title="|TV| Indonesia🟥⬜",MNCTV
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 https://1a-mnctv.rctiplus.id/mnctv-sdi.mpd
@@ -3892,6 +3882,11 @@ https://cempedak-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 http://op-group1-swiftservehd-1.dens.tv/h/h217/index.m3u8
 https://raw.githubusercontent.com/kusnadipepenk/campeign/master/sctv.m3u8
 http://edge.linknetott.swiftserve.com/channelgroup3/cg357production/ch395/02.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/sctv.png" group-title="|TV| Indonesia🟥⬜",SCTV HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://cuass-060172da4dc0.herokuapp.com/pid/index.m3u8?id=204&type=hls
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/nettv.png" group-title="|TV| Indonesia🟥⬜",NET TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
@@ -4254,6 +4249,51 @@ https://i.mjh.nz/SamsungTVPlus/GBBD1100008YW.m3u8
 https://i.mjh.nz/SamsungTVPlus/ESBC2700009B4.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Acil2125/ciaelah/main/idn/fifa.png" group-title="|SPORTS| Premium Ext⚽🚩" , FIFA+ 6
 https://i.mjh.nz/SamsungTVPlus/KRBD1900001Y2.m3u8
+
+#EXTINF:-1 channel-id="samsung-GBBD1100008YW" tvg-id="GBBD1100008YW" tvg-chno="4008" tvg-logo="https://i.ibb.co/HK0Nf10/fifaplus.png" group-title="|SPORTS| Premium Ext⚽🚩" , FIFA+ 🇦🇹
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+https://i.mjh.nz/SamsungTVPlus/ATBA3300007PT.m3u8
+
+#EXTINF:-1 channel-id="samsung-GBBD1100008YW" tvg-id="GBBD1100008YW" tvg-chno="4008" tvg-logo="https://i.ibb.co/HK0Nf10/fifaplus.png" group-title="|SPORTS| Premium Ext⚽🚩" , FIFA+ 🇨🇦
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+https://i.mjh.nz/SamsungTVPlus/CABD1200008JG.m3u8
+
+#EXTINF:-1 channel-id="samsung-GBBD1100008YW" tvg-id="GBBD1100008YW" tvg-chno="4008" tvg-logo="https://i.ibb.co/HK0Nf10/fifaplus.png" group-title="|SPORTS| Premium Ext⚽🚩" , FIFA+ 🇨🇭
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+https://i.mjh.nz/SamsungTVPlus/CHBA3300010UC.m3u8
+
+#EXTINF:-1 channel-id="samsung-GBBD1100008YW" tvg-id="GBBD1100008YW" tvg-chno="4008" tvg-logo="https://i.ibb.co/HK0Nf10/fifaplus.png" group-title="|SPORTS| Premium Ext⚽🚩" , FIFA+ 🇩🇪
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+https://i.mjh.nz/SamsungTVPlus/DEBA3300019EB.m3u8
+
+#EXTINF:-1 channel-id="samsung-GBBD1100008YW" tvg-id="GBBD1100008YW" tvg-chno="4008" tvg-logo="https://i.ibb.co/HK0Nf10/fifaplus.png" group-title="|SPORTS| Premium Ext⚽🚩" , FIFA+ 🇪🇸
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+https://i.mjh.nz/SamsungTVPlus/ESBC2700009B4.m3u8
+
+#EXTINF:-1 channel-id="samsung-GBBD1100008YW" tvg-id="GBBD1100008YW" tvg-chno="4008" tvg-logo="https://i.ibb.co/HK0Nf10/fifaplus.png" group-title="|SPORTS| Premium Ext⚽🚩" , FIFA+ 🇫🇷
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+https://i.mjh.nz/SamsungTVPlus/FRBA3300037Y7.m3u8
+
+#EXTINF:-1 channel-id="samsung-GBBD1100008YW" tvg-id="GBBD1100008YW" tvg-chno="4008" tvg-logo="https://i.ibb.co/HK0Nf10/fifaplus.png" group-title="|SPORTS| Premium Ext⚽🚩" , FIFA+ 🇬🇧
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+https://i.mjh.nz/SamsungTVPlus/GBBD1100008YW.m3u8
+
+#EXTINF:-1 channel-id="samsung-GBBD1100008YW" tvg-id="GBBD1100008YW" tvg-chno="4008" tvg-logo="https://i.ibb.co/HK0Nf10/fifaplus.png" group-title="|SPORTS| Premium Ext⚽🚩" , FIFA+ 🇮🇳
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+https://i.mjh.nz/SamsungTVPlus/INBA5100009V3.m3u8
+
+#EXTINF:-1 channel-id="samsung-GBBD1100008YW" tvg-id="GBBD1100008YW" tvg-chno="4008" tvg-logo="https://i.ibb.co/HK0Nf10/fifaplus.png" group-title="|SPORTS| Premium Ext⚽🚩" , FIFA+ 🇮🇹
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+https://i.mjh.nz/SamsungTVPlus/ITBD1000002HF.m3u8
+
+#EXTINF:-1 channel-id="samsung-GBBD1100008YW" tvg-id="GBBD1100008YW" tvg-chno="4008" tvg-logo="https://i.ibb.co/HK0Nf10/fifaplus.png" group-title="|SPORTS| Premium Ext⚽🚩" , FIFA+ 🇰🇷
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+https://i.mjh.nz/SamsungTVPlus/KRBD1900001Y2.m3u8
+
+#EXTINF:-1 channel-id="samsung-GBBD1100008YW" tvg-id="GBBD1100008YW" tvg-chno="4008" tvg-logo="https://i.ibb.co/HK0Nf10/fifaplus.png" group-title="|SPORTS| Premium Ext⚽🚩" , FIFA+ 🇺🇸
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+https://i.mjh.nz/SamsungTVPlus/USBD12000255B.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Acil2125/ciaelah/main/idn/infinity.png" group-title="|SPORTS| Premium Ext⚽🚩",Infinity+ 1 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
