@@ -906,7 +906,7 @@ https://tglmp02.akamaized.net/out/v1/6e5a888d4bf847a2be521c55f7bfd08c/manifest.m
 https://tglmp04.akamaized.net/out/v1/6b351c6bf46a43d998e3f86b69cbce4f/manifest.mpd
 
 #EXTINF:-1 group-logo="" group-title="Matchday, 11 Juni✅" tvg-logo="https://raw.githubusercontent.com/Acil2125/ee/main/liveevent.png",19:30 Indonesia vs Filipina - World Cup Qualifiers
-https://jihulab.com/iptv2571913/inal-iptv/timnas/-/raw/main/timnas1.m3u8
+http://opplextv.cyou:8080/live/7262771/7272772/350972.ts
 
 #EXTINF:-1 group-logo="" group-title="Matchday, 11 Juni✅" tvg-logo="https://raw.githubusercontent.com/Acil2125/ee/main/liveevent.png",20:00 Malaysia vs China Taipei - World Cup Qualifiers
 https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
@@ -1070,16 +1070,44 @@ https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass6xydam/master.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/NEGARA/main/timnasday.jpg" group-title="|EVENT| Timnas Day", TIMNAS 1
-https://jihulab.com/iptv2571913/inal-iptv/timnas/-/raw/main/timnas1.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/NEGARA/main/timnasday.jpg" group-title="|EVENT| Timnas Day", TIMNAS 2
-https://jihulab.com/iptv2571913/inal-iptv/timnas/-/raw/main/timnas2.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/NEGARA/main/timnasday.jpg" group-title="|EVENT| Timnas Day", TIMNAS 3
-https://jihulab.com/iptv2571913/inal-iptv/timnas/-/raw/main/timnas3.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/NEGARA/main/timnasday.jpg" group-title="|EVENT| Timnas Day", TIMNAS 4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/NEGARA/main/timnasday.jpg" group-title="|EVENT| Timnas Day 🇮🇩",Indosiar FHD
+https://s.id/indosiar_play_shareext-xs
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/NEGARA/main/timnasday.jpg" group-title="|EVENT| Timnas Day 🇮🇩",Indosiar HD
 https://jihulab.com/iptv2571913/inal-iptv/timnas/-/raw/main/timnas4.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/NEGARA/main/timnasday.jpg" group-title="|EVENT| Timnas Day", TIMNAS 5
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/NEGARA/main/timnasday.jpg" group-title="|EVENT| Timnas Day 🇮🇩",Indosiar SD
+http://opplextv.cyou:8080/live/7262771/7272772/350972.ts
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/NEGARA/main/timnasday.jpg" group-title="|EVENT| Timnas Day 🇮🇩",RCTI+
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/NEGARA/main/timnasday.jpg" group-title="|EVENT| Timnas Day 🇮🇩",RCTI FHD
+https://s.id/rcti_play_shareext-ts
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/NEGARA/main/timnasday.jpg" group-title="|EVENT| Timnas Day 🇮🇩",SCTV FHD
+https://s.id/sctvHD_shareext-xs
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/NEGARA/main/timnasday.jpg" group-title="|EVENT| Timnas Day 🇮🇩",SCTV HD
 https://jihulab.com/iptv2571913/inal-iptv/timnas/-/raw/main/timnas5.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Acil2125/ciaelah/main/idn/fifa.png" group-title="|EVENT| Timnas Day 🇮🇩", Fifa+ 1
+https://4b92bb6a.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1hdF9GSUZBUGx1c19ITFM/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Acil2125/ciaelah/main/idn/fifa.png" group-title="|EVENT| Timnas Day 🇮🇩", Fifa+ 2
+https://i.mjh.nz/SamsungTVPlus/ATBA3300007PT.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Acil2125/ciaelah/main/idn/fifa.png" group-title="|EVENT| Timnas Day 🇮🇩", Fifa+ 3
+https://i.mjh.nz/SamsungTVPlus/ITBD1000002HF.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Acil2125/ciaelah/main/idn/fifa.png" group-title="|EVENT| Timnas Day 🇮🇩", Fifa+ 4
+https://i.mjh.nz/SamsungTVPlus/GBBD1100008YW.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Acil2125/ciaelah/main/idn/fifa.png" group-title="|EVENT| Timnas Day 🇮🇩", Fifa+ 5
+https://i.mjh.nz/SamsungTVPlus/ESBC2700009B4.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Acil2125/ciaelah/main/idn/fifa.png" group-title="|EVENT| Timnas Day 🇮🇩" , FIFA+ 6
+https://i.mjh.nz/SamsungTVPlus/KRBD1900001Y2.m3u8
+
+
+
 
 
 
@@ -3865,7 +3893,7 @@ https://1a-mnctv.rctiplus.id/mnctv-sdi.mpd
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://cempedak-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 
-#EXTINF:-1 tvg-id="RCTI.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/rcti.png" group-title="|TV| Indonesia🟥⬜",RCTI+
+#EXTINF:-1 tvg-id="RCTI.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/rcti.png" group-title="|TV| Indonesia🟥⬜",
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
