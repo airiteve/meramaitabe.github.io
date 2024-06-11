@@ -1,5 +1,21 @@
 404: Not Found
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/2024_Indonesia_Football_National_Team_Badge.png/414px-2024_Indonesia_Football_National_Team_Badge.png",LIVE
+#EXTGRP: GARUDA
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://combilolo.my.id/fifa/drm.php?id=433058e0-3cfc-44a7-a376-2a2a2f667117&token=qj3t11tjydf2dsf1sqdsswdsy323q3t2wd2q33t1d1y3qd11rsa22a1t2had32das2ae3122jl1s1tas34y12a132e1l3d222a4s
+#EXTVLCOPT:http-referrer=apiv2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://ilmu.combilolo.my.id/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiNDcyMDEzOTYiLCJyZWZyZXNoX3Rva2VuIjoiXC8ydFBNaWxncFJ5UjRsN2ZBNmVlSHpZTDB5REhqNHp3cXZtRHloM2ljeUorU1AyTk83MmhwSVh2bGdtdkwwZ280cFJsdzlcL3c2VzFQWGU0KzBnaGFHbXpYM1JOd0xKcjlrWGNtM3NlRkdLVGJDTXhqYURveFBPcURDQnhjZkUyRmsxWmlqVUROYkVQTmU1bGtwVW9RQk05eXk4RGM1SHRZeHJZZkUycGF4NDhJaWtjMEJZa3JKUTMzMDZidzBXTlZYK0taR09ydlwvdVpEcFZzTW5IT3Z6UFk5WGkyaE5RM1NnSG1nTkZ0a1ZFZUJNcGxZM1dTTmIwcjVcL3JqNlhuTXF1Qnpua2RJaXpxOE5mVGhVZjNYTTlPRysxSDRKYmQ4ZVpYSFo4MW16Z3RMMzR2OHN6UVVrUFpob05VdFJMbzh0MUlYSmE3bzQ4eFozakVEbERGbmRsQmdQN1JaNEN3THpNcWcydkU5SG1nVklPWW1HVE1cL3hDbDNzYVU1YmRkZlVEQzNJMm1ROVZGS1gzTEdOdkxoZkFweXRCaDJuMDlJaW1ndVBJeWdXanlDQUVscURuUTlUa20xRkE1WEorb2ZiN09DUzVvbnRKYmZVY3FFQXVHcGQrMXZqeWlkSFV6dGRiNE1vaXJ5cUthdjNtSFlUY2loK1NvTkV0T01vY3c1SDV1QlZQT3JsRENRXC9qMkloNmFTcDdnPT0ifQ==
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/2024_Indonesia_Football_National_Team_Badge.png/414px-2024_Indonesia_Football_National_Team_Badge.png",LIVE 2
+#EXTGRP: GARUDA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://lebo.huminbird.cn/live/ballbar_37110.m3u8
+
+
 
 
 
