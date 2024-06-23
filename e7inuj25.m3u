@@ -892,16 +892,26 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
 
 
 
-#EXTINF:-1 group-logo="" group-title="Matchday, 21 Juni✅" tvg-logo="https://raw.githubusercontent.com/Acil2125/ee/main/liveevent.png",2:00 Spanyol vs Italia - Euro
-https://mhdtvweb.com/sonyliv/stream.php?id=sony-ten-2-hd&=.m3u8|Referer=https://mhdtvweb.com/sonyliv/
+#EXTINF:-1 group-logo="" group-title="Matchday, 24 Juni✅" tvg-logo="https://raw.githubusercontent.com/Acil2125/ee/main/liveevent.png",2:00 Swiss vs German - Euro
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
+https://melon-live-cdn.mncnow.id/live/eds/MNCSports3-HD/sa_dash_vmx/MNCSports3-HD.mpd
 
-#EXTINF:-1 group-logo="" group-title="Matchday, 21 Juni✅" tvg-logo="https://raw.githubusercontent.com/Acil2125/ee/main/liveevent.png",20:00 Slovakia vs Ukraina - Euro
-https://mhdtvweb.com/sonyliv/stream.php?id=sony-ten-2-hd&=.m3u8|Referer=https://mhdtvweb.com/sonyliv/
+#EXTINF:-1 group-logo="" group-title="Matchday, 24 Juni✅" tvg-logo="https://raw.githubusercontent.com/Acil2125/ee/main/liveevent.png",2:00 Skotlandia vs Hungaria - Euro
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
+https://melon-live-cdn.mncnow.id/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd
 
-#EXTINF:-1 group-logo="" group-title="Matchday, 21 Juni✅" tvg-logo="https://raw.githubusercontent.com/Acil2125/ee/main/liveevent.png",23:00 Polandia vs Austria - Euro
-https://mhdtvweb.com/sonyliv/stream.php?id=sony-ten-2-hd&=.m3u8|Referer=https://mhdtvweb.com/sonyliv/
+#EXTINF:-1 group-logo="" group-title="Matchday, 24 Juni✅" tvg-logo="https://raw.githubusercontent.com/Acil2125/ee/main/liveevent.png",5:00 Amerika vs Bolvia - Copa
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+#EXTVLCOPT:http-referer=https://widevine.licenses4.me/\u0026User-agent\u003dREDLINECLIENT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
+https://dcf-ak-livedazn.akamaized.net/dashdrm/dazn-linear-022/stream.mpd
 
-#EXTINF:-1 group-logo="" group-title="Matchday, 21 Juni✅" tvg-logo="https://raw.githubusercontent.com/Acil2125/ee/main/liveevent.png",7:00 Argentina vs Canada - Copa America
+#EXTINF:-1 group-logo="" group-title="Matchday, 24 Juni✅" tvg-logo="https://raw.githubusercontent.com/Acil2125/ee/main/liveevent.png",8:00 Uruguay vs Panama - Copa
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 #EXTVLCOPT:http-referer=https://widevine.licenses4.me/\u0026User-agent\u003dREDLINECLIENT
@@ -914,16 +924,81 @@ https://dcf-ak-livedazn.akamaized.net/dashdrm/dazn-linear-022/stream.mpd
 
 
 
-#EXTINF:-1 group-logo="" group-title="Matchday, 22 Juni✅" tvg-logo="https://raw.githubusercontent.com/Acil2125/ee/main/liveevent.png",2:00 Belanda vs France - Euro
-https://mhdtvweb.com/sonyliv/stream.php?id=sony-ten-2-hd&=.m3u8|Referer=https://mhdtvweb.com/sonyliv/
+#EXTINF:-1 group-logo="" group-title="Matchday, 25 Juni✅" tvg-logo="https://raw.githubusercontent.com/Acil2125/ee/main/liveevent.png",2:00 Kroasia vs Italia - Euro
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
+https://melon-live-cdn.mncnow.id/live/eds/MNCSports3-HD/sa_dash_vmx/MNCSports3-HD.mpd
 
-#EXTINF:-1 group-logo="" group-title="Matchday, 22 Juni✅" tvg-logo="https://raw.githubusercontent.com/Acil2125/ee/main/liveevent.png",20:00 Georgia vs Republik Ceko - Euro
-https://mhdtvweb.com/sonyliv/stream.php?id=sony-ten-2-hd&=.m3u8|Referer=https://mhdtvweb.com/sonyliv/
+#EXTINF:-1 group-logo="" group-title="Matchday, 25 Juni✅" tvg-logo="https://raw.githubusercontent.com/Acil2125/ee/main/liveevent.png",2:00 Albania vs Spanyol - Euro
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
+https://melon-live-cdn.mncnow.id/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd
 
-#EXTINF:-1 group-logo="" group-title="Matchday, 22 Juni✅" tvg-logo="https://raw.githubusercontent.com/Acil2125/ee/main/liveevent.png",23:00 Portugal vs Turki - Euro
-https://mhdtvweb.com/sonyliv/stream.php?id=sony-ten-2-hd&=.m3u8|Referer=https://mhdtvweb.com/sonyliv/
+#EXTINF:-1 group-logo="" group-title="Matchday, 25 Juni✅" tvg-logo="https://raw.githubusercontent.com/Acil2125/ee/main/liveevent.png",23:00 Belanda vs Austria - Euro
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
+https://melon-live-cdn.mncnow.id/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd
 
-#EXTINF:-1 group-logo="" group-title="Matchday, 22 Juni✅" tvg-logo="https://raw.githubusercontent.com/Acil2125/ee/main/liveevent.png",7:00 Peru vs Chili - Copa America
+#EXTINF:-1 group-logo="" group-title="Matchday, 25 Juni✅" tvg-logo="https://raw.githubusercontent.com/Acil2125/ee/main/liveevent.png",23:00 Prancis vs Poland - Euro
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
+https://melon-live-cdn.mncnow.id/live/eds/MNCSports3-HD/sa_dash_vmx/MNCSports3-HD.mpd
+
+#EXTINF:-1 group-logo="" group-title="Matchday, 25 Juni✅" tvg-logo="https://raw.githubusercontent.com/Acil2125/ee/main/liveevent.png",5:00 Colombia vs Paraguay - Copa
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+#EXTVLCOPT:http-referer=https://widevine.licenses4.me/\u0026User-agent\u003dREDLINECLIENT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
+https://dcf-ak-livedazn.akamaized.net/dashdrm/dazn-linear-022/stream.mpd
+
+#EXTINF:-1 group-logo="" group-title="Matchday, 25 Juni✅" tvg-logo="https://raw.githubusercontent.com/Acil2125/ee/main/liveevent.png",8:00 Brazil vs Costa Rika - Copa
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+#EXTVLCOPT:http-referer=https://widevine.licenses4.me/\u0026User-agent\u003dREDLINECLIENT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
+https://dcf-ak-livedazn.akamaized.net/dashdrm/dazn-linear-022/stream.mpd
+
+
+
+
+
+
+#EXTINF:-1 group-logo="" group-title="Matchday, 26 Juni✅" tvg-logo="https://raw.githubusercontent.com/Acil2125/ee/main/liveevent.png",2:00 Inggris vs Slovenia - Euro
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
+https://melon-live-cdn.mncnow.id/live/eds/MNCSports3-HD/sa_dash_vmx/MNCSports3-HD.mpd
+
+#EXTINF:-1 group-logo="" group-title="Matchday, 26 Juni✅" tvg-logo="https://raw.githubusercontent.com/Acil2125/ee/main/liveevent.png",2:00 Denmark vs Serbia - Euro
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
+https://melon-live-cdn.mncnow.id/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd
+
+#EXTINF:-1 group-logo="" group-title="Matchday, 26 Juni✅" tvg-logo="https://raw.githubusercontent.com/Acil2125/ee/main/liveevent.png",23:00 Slovakia vs Rumania - Euro
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
+https://melon-live-cdn.mncnow.id/live/eds/MNCSports3-HD/sa_dash_vmx/MNCSports3-HD.mpd
+
+#EXTINF:-1 group-logo="" group-title="Matchday, 26 Juni✅" tvg-logo="https://raw.githubusercontent.com/Acil2125/ee/main/liveevent.png",23:00 Ukraina vs Belgia - Euro
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
+https://melon-live-cdn.mncnow.id/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd
+
+#EXTINF:-1 group-logo="" group-title="Matchday, 26 Juni✅" tvg-logo="https://raw.githubusercontent.com/Acil2125/ee/main/liveevent.png",5:00 Peru vs Canada - Copa
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+#EXTVLCOPT:http-referer=https://widevine.licenses4.me/\u0026User-agent\u003dREDLINECLIENT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
+https://dcf-ak-livedazn.akamaized.net/dashdrm/dazn-linear-022/stream.mpd
+
+#EXTINF:-1 group-logo="" group-title="Matchday, 26 Juni✅" tvg-logo="https://raw.githubusercontent.com/Acil2125/ee/main/liveevent.png",8:00 Cili vs Argentina - Copa
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 #EXTVLCOPT:http-referer=https://widevine.licenses4.me/\u0026User-agent\u003dREDLINECLIENT
@@ -936,22 +1011,33 @@ https://dcf-ak-livedazn.akamaized.net/dashdrm/dazn-linear-022/stream.mpd
 
 
 
-#EXTINF:-1 group-logo="" group-title="Matchday, 23 Juni✅" tvg-logo="https://raw.githubusercontent.com/Acil2125/ee/main/liveevent.png",2:00 Belgia vs Rumania - Euro
-https://mhdtvweb.com/sonyliv/stream.php?id=sony-ten-2-hd&=.m3u8|Referer=https://mhdtvweb.com/sonyliv/
 
-#EXTINF:-1 group-logo="" group-title="Matchday, 23 Juni✅" tvg-logo="https://raw.githubusercontent.com/Acil2125/ee/main/liveevent.png",5:00 Ekuador vs Venezuela - Copa America
+#EXTINF:-1 group-logo="" group-title="Matchday, 27 Juni✅" tvg-logo="https://raw.githubusercontent.com/Acil2125/ee/main/liveevent.png",2:00 Turki vs Ceko - Euro
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
+https://melon-live-cdn.mncnow.id/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd
+
+#EXTINF:-1 group-logo="" group-title="Matchday, 27 Juni✅" tvg-logo="https://raw.githubusercontent.com/Acil2125/ee/main/liveevent.png",2:00 Portugal vs Georgia - Euro
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
+https://melon-live-cdn.mncnow.id/live/eds/MNCSports3-HD/sa_dash_vmx/MNCSports3-HD.mpd
+
+#EXTINF:-1 group-logo="" group-title="Matchday, 27 Juni✅" tvg-logo="https://raw.githubusercontent.com/Acil2125/ee/main/liveevent.png",5:00 Ekuador vs Jamaika - Copa
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 #EXTVLCOPT:http-referer=https://widevine.licenses4.me/\u0026User-agent\u003dREDLINECLIENT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
 https://dcf-ak-livedazn.akamaized.net/dashdrm/dazn-linear-022/stream.mpd
 
-#EXTINF:-1 group-logo="" group-title="Matchday, 23 Juni✅" tvg-logo="https://raw.githubusercontent.com/Acil2125/ee/main/liveevent.png",8:00 Meksiko vs Jamaika - Copa America
+#EXTINF:-1 group-logo="" group-title="Matchday, 27 Juni✅" tvg-logo="https://raw.githubusercontent.com/Acil2125/ee/main/liveevent.png",8:00 Venezuela vs Meksiko - Copa
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 #EXTVLCOPT:http-referer=https://widevine.licenses4.me/\u0026User-agent\u003dREDLINECLIENT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
 https://dcf-ak-livedazn.akamaized.net/dashdrm/dazn-linear-022/stream.mpd
+
 
 
 
