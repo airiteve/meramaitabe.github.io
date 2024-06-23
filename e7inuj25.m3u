@@ -1,4 +1,4 @@
-404: Not Found
+404
 
 
 
@@ -892,21 +892,6 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
 
 
 
-#EXTINF:-1 group-logo="" group-title="Matchday, 21 Juni✅" tvg-logo="https://raw.githubusercontent.com/Acil2125/ee/main/liveevent.png",2:00 Spanyol vs Italia - Euro
-https://mhdtvweb.com/sonyliv/stream.php?id=sony-ten-2-hd&=.m3u8|Referer=https://mhdtvweb.com/sonyliv/
-
-#EXTINF:-1 group-logo="" group-title="Matchday, 21 Juni✅" tvg-logo="https://raw.githubusercontent.com/Acil2125/ee/main/liveevent.png",20:00 Slovakia vs Ukraina - Euro
-https://mhdtvweb.com/sonyliv/stream.php?id=sony-ten-2-hd&=.m3u8|Referer=https://mhdtvweb.com/sonyliv/
-
-#EXTINF:-1 group-logo="" group-title="Matchday, 21 Juni✅" tvg-logo="https://raw.githubusercontent.com/Acil2125/ee/main/liveevent.png",23:00 Polandia vs Austria - Euro
-https://mhdtvweb.com/sonyliv/stream.php?id=sony-ten-2-hd&=.m3u8|Referer=https://mhdtvweb.com/sonyliv/
-
-#EXTINF:-1 group-logo="" group-title="Matchday, 21 Juni✅" tvg-logo="https://raw.githubusercontent.com/Acil2125/ee/main/liveevent.png",7:00 Argentina vs Canada - Copa America
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-#EXTVLCOPT:http-referer=https://widevine.licenses4.me/\u0026User-agent\u003dREDLINECLIENT
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
-https://dcf-ak-livedazn.akamaized.net/dashdrm/dazn-linear-022/stream.mpd
 
 
 
