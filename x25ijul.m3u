@@ -1214,8 +1214,8 @@ https://fe.tring.al/delta/101/out/u/sportnjeottencryption.mpd
 
 #EXTINF:-1 group-logo="" group-title="|EVENT| Liga Eropa🏆" tvg-logo="https://as2.ftcdn.net/v2/jpg/05/48/54/55/1000_F_548545561_b8Wsp8NkKKWN2Cu3ZEFxWgs7nDr5AWgC.jpg",OL LIVE 4
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0036e5d0e88dfb087f1791da6150ced9:0bc653d830837dceb13bd17169f0f8e2
-https://linear302-it-dash1-prd-ll.cdn13.skycdp.com/016a/31209/FHD/skysportseriea/master.mpd
+#KODIPROP:inputstream.adaptive.license_key=00369a2c69176d5a2deff777247b6637:e122d4bad34c1e430ee349f5aac0060b
+https://linear302-it-dash1-prd.selector.skycdn.it/016a/31209/FHD/skysportseriea/master.mpd
 
 #EXTINF:-1 group-logo="" group-title="|EVENT| Liga Eropa🏆" tvg-logo="https://as2.ftcdn.net/v2/jpg/05/48/54/55/1000_F_548545561_b8Wsp8NkKKWN2Cu3ZEFxWgs7nDr5AWgC.jpg",OL LIVE 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
@@ -1306,7 +1306,7 @@ https://linear001-ie-dash1-prd-ak.cdn.skycdp.com/Content/DASH_003_720_120/Live/c
 
 #EXTINF:0 group-logo="" group-title="|EVENT| Liga Eropa🏆" tvg-logo="https://logowik.com/content/uploads/blog/t_uefa-champions-league-and-logo-history-of-uefa-champions-league9350.logowik.com.webp",CL LIVE 7
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=00362452ed102000ccea64c311921dc2:02f27bd6caab7633d3083b94d3958b1c
+#KODIPROP:inputstream.adaptive.license_key=0036dc70e4d659fe5ae57b52793a1ff3:55517f806b6be917c2bf0e9cf9acc44f
 https://linear301-it-dash1-prd.selector.skycdn.it/016a/31023/FHD/skysportuno/master.mpd
 
 #EXTINF:0 group-logo="" group-title="|EVENT| Liga Eropa🏆" tvg-logo="https://logowik.com/content/uploads/blog/t_uefa-champions-league-and-logo-history-of-uefa-champions-league9350.logowik.com.webp",CL LIVE 3 
@@ -2287,7 +2287,7 @@ https://racingvic-i.akamaized.net/hls/live/598695/racingvic/index1500.m3u8
 
 #EXTINF:-1 group-title="|SPORTS| Balapan🏍️" tvg-id="skysport.it" tvg-logo="https://raw.githubusercontent.com/Acil2125/ciaelah/main/idn/skymotogp.png",Sky Sport Motogp (IT)
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=0036ea2e908d4cc20ef08595da9ff991:08e1ae9fa0ee4d9ec2b194c4908613ae
+#KODIPROP:inputstream.adaptive.license_key=00362e9181eaa0c5f91761ade3515eb8:52cf3c27885d58ad76aaf36d4217a984
 https://linear306-it-dash1-prd.selector.skycdn.it/016a/31483/FHD/skysportmotogp/master.mpd
 
 
@@ -2878,8 +2878,8 @@ https://wp2-anp-g05060506-hzn-nl.t1.prd.dyncdn.dmdsdp.com/live/disk1/NL_000095_0
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0036c4e453ae2a044f4c861ed73b560a:ea5626c0aa092c382ca58151b5f4b208
-https://linear301-it-dash1-prd.selector.skycdn.it/016a/31764/FHD/skysportnba/master_stereo.mpd
+#KODIPROP:inputstream.adaptive.license_key=00364eac2ffee337640e39682439b540:0960172d9000c470ade0658bd36c1d53
+https://linear308-it-dash1-prd.selector.skycdn.it/016a/31764/FHD/skysportnba/master.mpd
 
 #EXTINF:-1 group-title="|SPORTS| NBA🏀" tvg-logo="https://raw.githubusercontent.com/Acil2125/ciaelah/main/idn/daznnba.png",DAZN NBA TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
@@ -4147,8 +4147,8 @@ https://linear015-gb-dash1-prd-ak.cdn.skycdp.com/Content/DASH_003_720_120/Live/c
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=00360f4f90045f029a53a022738c2422:fa39fd500dc4e291801a710499634330
-http://linear304-it-dash1-prd-akg0.cdn13.skycdp.com/32559/FHD/skysporttennis/master.mpd
+#KODIPROP:inputstream.adaptive.license_key=0036fb7c564c4eb99e310f5fa82ab2f2:647f07b6858a669456e73ca103b4c2c0
+https://linear310-it-dash1-prd.selector.skycdn.it/016a/32559/FHD/skysporttennis/master.mpd
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Acil2125/ciaelah/main/idn/skymainevent.png", tvg-id="ksport1hd" group-title="|SPORTS| Premium 1⚽🚩", Sky Sport Main Event
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -4161,15 +4161,15 @@ https://linear011-gb-dash1-prd-ak.cdn.skycdp.com/Content/DASH_003_720_120/Live/c
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=00366649eb2eb82ee172e1bd310e4136:27e85c17d97722288ffa5970389d8baf
-https://linear304-it-dash1-prd-akg0.cdn13.skycdp.com/31478/FHD/skysportf1/master.mpd
+#KODIPROP:inputstream.adaptive.license_key=0036a96b6bbbf1828488f90e6b2ca1f4:d24e6ae926e88f8303b6926271ff8155
+https://linear307-it-dash1-prd.selector.skycdn.it/016a/31478/FHD/skysportf1/master.mpd
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Acil2125/ciaelah/main/idn/skyf1.png", tvg-id="ksport1hd" group-title="|SPORTS| Balapan🏍️", Sky Sport F1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=00366649eb2eb82ee172e1bd310e4136:27e85c17d97722288ffa5970389d8baf
-https://linear304-it-dash1-prd-akg0.cdn13.skycdp.com/31478/FHD/skysportf1/master.mpd
+#KODIPROP:inputstream.adaptive.license_key=0036a96b6bbbf1828488f90e6b2ca1f4:d24e6ae926e88f8303b6926271ff8155
+https://linear307-it-dash1-prd.selector.skycdn.it/016a/31478/FHD/skysportf1/master.mpd
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Acil2125/ciaelah/main/idn/skyfootball.png", tvg-id="ksport1hd" group-title="|SPORTS| Premium 1⚽🚩", Sky Sport Football
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -4183,36 +4183,36 @@ https://linear019-gb-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_720_120/L
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0036a02f08506f8428164d78e3ebb6de:8708612971e3cfa8e03698996b1a3b7f
-http://linear304-it-dash1-prd-akg0.cdn13.skycdp.com/32768/FHD/skysportgolf/master.mpd
+#KODIPROP:inputstream.adaptive.license_key=00360b7729f74bf56a0a4eb0eda15ec5:f8a5f4723c71ac84c2f1ff6f55939a63
+https://linear309-it-dash1-prd.selector.skycdn.it/016a/32768/FHD/skysportgolf/master.mpd
 
 #EXTINF:-1 group-title="|SPORTS| Premium 1⚽🚩" tvg-id="skysport.it" tvg-logo="https://raw.githubusercontent.com/Acil2125/ciaelah/main/idn/skytennis.png",Sky Sport Tennis
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=00360f4f90045f029a53a022738c2422:fa39fd500dc4e291801a710499634330
-http://linear304-it-dash1-prd-akg0.cdn13.skycdp.com/32559/FHD/skysporttennis/master.mpd
+#KODIPROP:inputstream.adaptive.license_key=0036fb7c564c4eb99e310f5fa82ab2f2:647f07b6858a669456e73ca103b4c2c0
+https://linear310-it-dash1-prd.selector.skycdn.it/016a/32559/FHD/skysporttennis/master.mpd
 
 #EXTINF:-1 group-title="|SPORTS| Badminton&Tennis🏸🎾" tvg-id="skysport.it" tvg-logo="https://raw.githubusercontent.com/Acil2125/ciaelah/main/idn/skytennis.png",Sky Sport Tennis
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=00360f4f90045f029a53a022738c2422:fa39fd500dc4e291801a710499634330
-http://linear304-it-dash1-prd-akg0.cdn13.skycdp.com/32559/FHD/skysporttennis/master.mpd
+#KODIPROP:inputstream.adaptive.license_key=0036fb7c564c4eb99e310f5fa82ab2f2:647f07b6858a669456e73ca103b4c2c0
+https://linear310-it-dash1-prd.selector.skycdn.it/016a/32559/FHD/skysporttennis/master.mpd
 
 #EXTINF:-1 tvg-id="Sky Sport Arena.it" tvg-logo="https://raw.githubusercontent.com/Acil2125/ciaelah/main/idn/skyarena.png" group-title="|SPORTS| Premium 1⚽🚩",Sky Sport Arena (IT)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=00364ee1c777f44a74e4df12f3095503:77dee68a39366663755beb8fa62dcc1e
-http://linear304-it-dash1-prd-akg0.cdn13.skycdp.com/31024/FHD/skysportarena/master.mpd
+#KODIPROP:inputstream.adaptive.license_key=00368f2bf10736c9c2c02ab0fa694d00:92eec9d841ac0c1ff16b90a0db82c792
+https://linear304-it-dash1-prd.selector.skycdn.it/016a/31024/FHD/skysportarena/master.mpd
 
 #EXTINF:-1 tvg-id="Sky Sport Max.it" tvg-logo="https://raw.githubusercontent.com/Acil2125/ciaelah/main/idn/skysports.png" group-title="|SPORTS| Premium 1⚽🚩", Sky SPORT MAX
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0036ae9248d939e4e1cd2198d2593a42:efc6699e1756403916b0280ea63f4c28
-https://linear304-it-dash1-prd-akg0.cdn13.skycdp.com/31248/FHD/skysportmax/master.mpd
+#KODIPROP:inputstream.adaptive.license_key=0036f13bca1c5603b9f3bb28ec28fa80:f01403bcb5a02c61153d297fb0c4395f
+https://linear305-it-dash1-prd.selector.skycdn.it/016a/31248/FHD/skysportmax/master.mpd
 
 
 
@@ -4220,37 +4220,37 @@ https://linear304-it-dash1-prd-akg0.cdn13.skycdp.com/31248/FHD/skysportmax/maste
 
 #EXTINF:-1 group-title="|SPORTS| Premium 1⚽🚩" tvg-id="skysport.it" tvg-logo="https://raw.githubusercontent.com/Acil2125/ciaelah/main/idn/skymotogp.png",Sky Sport Motogp (IT)
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=0036ea2e908d4cc20ef08595da9ff991:08e1ae9fa0ee4d9ec2b194c4908613ae
+#KODIPROP:inputstream.adaptive.license_key=00362e9181eaa0c5f91761ade3515eb8:52cf3c27885d58ad76aaf36d4217a984
 https://linear306-it-dash1-prd.selector.skycdn.it/016a/31483/FHD/skysportmotogp/master.mpd
 
 #EXTINF:-1 group-title="|SPORTS| Premium 1⚽🚩" tvg-id="skysport.it" tvg-logo="https://raw.githubusercontent.com/Acil2125/ciaelah/main/idn/skyuno.png",Sky Sport Uno (IT)
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=00362452ed102000ccea64c311921dc2:02f27bd6caab7633d3083b94d3958b1c
+#KODIPROP:inputstream.adaptive.license_key=0036dc70e4d659fe5ae57b52793a1ff3:55517f806b6be917c2bf0e9cf9acc44f
 https://linear301-it-dash1-prd.selector.skycdn.it/016a/31023/FHD/skysportuno/master.mpd
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Acil2125/ciaelah/main/idn/skycalcio.png", tvg-id="ksport1hd" group-title="|SPORTS| Premium 1⚽🚩", Sky Sport Calcio (IT)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0036e5d0e88dfb087f1791da6150ced9:0bc653d830837dceb13bd17169f0f8e2
-https://linear302-it-dash1-prd-ll.cdn13.skycdp.com/016a/31209/FHD/skysportseriea/master.mpd
+#KODIPROP:inputstream.adaptive.license_key=00369a2c69176d5a2deff777247b6637:e122d4bad34c1e430ee349f5aac0060b
+https://linear302-it-dash1-prd.selector.skycdn.it/016a/31209/FHD/skysportseriea/master.mpd
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Acil2125/ciaelah/main/idn/skysports.png", tvg-id="ksport1hd" group-title="|SPORTS| Premium Ext⚽🚩", Sky Sport 24 (IT)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=003618ccd7be22b6367207ed8d64d505:36e97f29ec5ea6126077cc040cc2ceeb
-https://linear301-it-dash1-prd.selector.skycdn.it/016a/31035/FHD/skysport24/master_stereo.mpd
+#KODIPROP:inputstream.adaptive.license_key=003663ddf1acb25ea88a7cf973afc0d5:35ea91b4151d6975007998c328daee6c
+https://linear303-it-dash1-prd.selector.skycdn.it/016a/31035/FHD/skysport24/master.mpd
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Acil2125/ciaelah/main/idn/skynba.png", tvg-id="ksport1hd" group-title="|SPORTS| Premium 1⚽🚩", Sky Sport NBA (IT)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0036c4e453ae2a044f4c861ed73b560a:ea5626c0aa092c382ca58151b5f4b208
-https://linear301-it-dash1-prd.selector.skycdn.it/016a/31764/FHD/skysportnba/master_stereo.mpd
+#KODIPROP:inputstream.adaptive.license_key=00364eac2ffee337640e39682439b540:0960172d9000c470ade0658bd36c1d53
+https://linear308-it-dash1-prd.selector.skycdn.it/016a/31764/FHD/skysportnba/master.mpd
 
 #EXTINF:-1 group-title="|SPORTS| Premium Ext⚽🚩" tvg-id="skysport.it" tvg-logo="https://raw.githubusercontent.com/Acil2125/ciaelah/main/idn/skysports.png",Sky Sport 251 (IT)
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=00368000eaecbeeafd84c05b3b8243af:8f84185910e18ae0ca8a45004625a000
-https://linear311-it-dash1-prd-akp2.cdn13.skycdp.com/016a/31917/FHD/skysport251/master.mpd
+#KODIPROP:inputstream.adaptive.license_key=0036422cf4293ae7cf1e7f7062cc29e8:37a223fcc17c087043bc837432fd25d8
+https://linear311-it-dash1-prd.selector.skycdn.it/016a/31917/FHD/skysport251/master.mpd
 
 #EXTINF:-1 channel-id="samsung-GBBD1100008YW" tvg-id="GBBD1100008YW" tvg-chno="4008" tvg-logo="https://raw.githubusercontent.com/Acil2125/ciaelah/main/idn/fifa.png" group-title="|SPORTS| Premium Ext⚽🚩" , FIFA+ 🌏
 https://38ca3c9c.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9GSUZBUGx1c19ITFM/playlist.m3u8
