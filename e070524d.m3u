@@ -73,21 +73,6 @@ https://webhdrus.onlinehdhls.ru/lb/premium447/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 https://webhdrus.onlinehdhls.ru/lb/premium448/index.m3u8
 
-#EXTINF:-1 tvg-name="beIN SPORTS 1 France" tvg-logo="" group-title="DaddyHD",beIN SPORTS 1 France
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddylivehd.php
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-https://webhdrus.onlinehdhls.ru/lb/premium116/index.m3u8
-
-#EXTINF:-1 tvg-name="beIN SPORTS 2 France" tvg-logo="" group-title="DaddyHD",beIN SPORTS 2 France
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddylivehd.php
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-https://webhdrus.onlinehdhls.ru/lb/premium117/index.m3u8
-
-#EXTINF:-1 tvg-name="beIN SPORTS 3 France" tvg-logo="" group-title="DaddyHD",beIN SPORTS 3 France
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddylivehd.php
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-https://webhdrus.onlinehdhls.ru/lb/premium118/index.m3u8
-
 #EXTINF:-1 tvg-name="beIN Sports MENA English 1" tvg-logo="" group-title="DaddyHD",beIN Sports MENA English 1
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddylivehd.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
@@ -107,21 +92,6 @@ https://webhdrus.onlinehdhls.ru/lb/premium93/index.m3u8
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddylivehd.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 https://webhdrus.onlinehdhls.ru/lb/premium94/index.m3u8
-
-#EXTINF:-1 tvg-name="beIN Sports MENA 5" tvg-logo="" group-title="DaddyHD",beIN Sports MENA 5
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddylivehd.php
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-https://webhdrus.onlinehdhls.ru/lb/premium95/index.m3u8
-
-#EXTINF:-1 tvg-name="beIN Sports MENA 6" tvg-logo="" group-title="DaddyHD",beIN Sports MENA 6
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddylivehd.php
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-https://webhdrus.onlinehdhls.ru/lb/premium96/index.m3u8
-
-#EXTINF:-1 tvg-name="beIN Sports MENA 7" tvg-logo="" group-title="DaddyHD",beIN Sports MENA 7
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddylivehd.php
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-https://webhdrus.onlinehdhls.ru/lb/premium97/index.m3u8
 
 #EXTINF:-1 tvg-name="beIN SPORTS 1 Turkey" tvg-logo="" group-title="DaddyHD",beIN SPORTS 1 Turkey
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddylivehd.php
@@ -152,3 +122,20 @@ https://webhdrus.onlinehdhls.ru/lb/premium119/index.m3u8
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddylivehd.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 https://webhdrus.onlinehdhls.ru/lb/premium120/index.m3u8
+
+#EXTINF:-1 tvg-name="Sky Sports Football UK" tvg-logo="" group-title="DaddyHD",Sky Sports Football UK
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddylivehd.php
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://webhdrus.onlinehdhls.ru/lb/premium35/index.m3u8
+
+#EXTINF:-1 tvg-name="Sky Sports Football UK" tvg-logo="" group-title="DaddyHD",Indosiar
+http://103.155.250.139:25461/live/v3/Ub5dHa4TJp/228.ts
+
+#EXTINF:-1 tvg-name="Sky Sports Football UK" tvg-logo="" group-title="DaddyHD",RCTI
+https://s.id/rcti_play_shareext-ts
+
+#EXTINF:-1 tvg-name="Sky Sports Football UK" tvg-logo="" group-title="DaddyHD",Moji
+https://s.id/mojiHD_shareext-xs
+
+#EXTINF:-1 tvg-name="Sky Sports Football UK" tvg-logo="" group-title="DaddyHD",SCTV
+https://s.id/sctvHD_shareext-xs
