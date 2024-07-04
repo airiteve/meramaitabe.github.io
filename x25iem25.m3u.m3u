@@ -214,3 +214,18 @@ https://webhdrus.onlinehdhls.ru/lb/premium464/index.m3u8
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddylivehd.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15
 https://webhdrus.onlinehdhls.ru/lb/premium572/index.m3u8
+
+#EXTINF:-1 tvg-name="Arena Sport 1 Premium" tvg-logo="" group-title="|ProgTV| For iOS & Pc",Arena Sport 1 Premium
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddylivehd.php
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15
+https://webhdrus.onlinehdhls.ru/lb/premium134/index.m3u8
+
+#EXTINF:-1 tvg-name="Arena Sport 2 Premium" tvg-logo="" group-title="|ProgTV| For iOS & Pc",Arena Sport 2 Premium
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddylivehd.php
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15
+https://webhdrus.onlinehdhls.ru/lb/premium135/index.m3u8
+
+#EXTINF:-1 tvg-name="Arena Sport 3 Premium" tvg-logo="" group-title="|ProgTV| For iOS & Pc",Arena Sport 3 Premium
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddylivehd.php
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15
+https://webhdrus.onlinehdhls.ru/lb/premium139/index.m3u8
