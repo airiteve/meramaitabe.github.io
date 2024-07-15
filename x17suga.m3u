@@ -4604,3 +4604,8 @@ https://webhdrus.onlinehdhls.ru/lb/premium575/index.m3u8
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddylivehd.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15
 https://webhdrus.onlinehdhls.ru/lb/premium577/index.m3u8
+
+#EXTINF:-1 tvg-name="mutv" tvg-logo="https://raw.githubusercontent.com/Acil2125/ciaelah/main/idn/laptop.png" group-title="|ProgTV| For iOS & Pc 💻",MUTV
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddylivehd.php
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15
+https://webhdrus.onlinehdhls.ru/lb/premium367/index.m3u8
