@@ -4523,11 +4523,14 @@ https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058
 #EXTINF:-1 tvg-name="mutv" tvg-logo="https://raw.githubusercontent.com/Acil2125/ciaelah/main/idn/laptop.png" group-title="Live Timnas U-19",Live 1
 https://live-kh-1123898219.thapcam.link/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MjE0OTk5MDcsInVyaSI6Ii9waG9IRCIsImlhdCI6MTcyMTQ3ODMwN30.1Lv5cvN0gksJ1oj-k2rown7g9SM5q7og6LwGSyRwRPI-/phoHD/playlist.m3u8
 
-#EXTINF:-1 tvg-name="mutv" tvg-logo="https://raw.githubusercontent.com/Acil2125/ciaelah/main/idn/laptop.png" group-title="Live Timnas",Live 2 Indosiar
-http://myteve.online:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/162138.ts
+#EXTINF:-1 tvg-name="mutv" tvg-logo="https://raw.githubusercontent.com/Acil2125/ciaelah/main/idn/laptop.png" group-title="Live Timnas U-19",Live 2 Indosiar
+https://raw.githubusercontent.com/B-inalm3u-Custom/Nasional/B-inal22/timnas1.m3u8
 
-#EXTINF:-1 tvg-name="mutv" tvg-logo="https://raw.githubusercontent.com/Acil2125/ciaelah/main/idn/laptop.png" group-title="Live Timnas",Live 3 sctv
-http://myteve.online:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/162138.ts
+#EXTINF:-1 tvg-name="mutv" tvg-logo="https://raw.githubusercontent.com/Acil2125/ciaelah/main/idn/laptop.png" group-title="Live Timnas U-19",Live 3 sctv
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b5874021e33f49d4dac5cd55344b0d74:7b49f3eecf4e9336ffdb9a549d2ee781
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SM-A307GN Build/RP1A.200720.012; wv) iPhone (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36
+https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17578_stream.mpd?hdntl=exp=1721752099~acl=%2f*~id=74987669~data=hdntl~hmac=a95e9921b8d04ee0943dcfadba686eb444925d7457db246bdc25d290f45ac904
 
-#EXTINF:-1 tvg-name="mutv" tvg-logo="https://raw.githubusercontent.com/Acil2125/ciaelah/main/idn/laptop.png" group-title="Live Timnas",Live 4
+#EXTINF:-1 tvg-name="mutv" tvg-logo="https://raw.githubusercontent.com/Acil2125/ciaelah/main/idn/laptop.png" group-title="Live Timnas U-19",Live 4
 http://1clive.malisresidences.com:1935/hm_hdtv/_definst_/smil:HMHDTV.smil/chunklist_w1093715607_b1800000_sleng.m3u8
