@@ -886,7 +886,12 @@
 
 EXTINF:-1 group-logo="" group-title="Matchday, 24 Juli✅" tvg-logo="https://raw.githubusercontent.com/Acil2125/ee/main/liveevent.png",15:30 Bali United vs Madura United - Piala Presiden
 
-EXTINF:-1 group-logo="" group-title="Matchday, 24 Juli✅" tvg-logo="https://raw.githubusercontent.com/Acil2125/ee/main/liveevent.png",19;30 Persija vs Arema - Piala Presiden
+#EXTINF:-1 group-logo="" group-title="Matchday, 24 Juli✅" tvg-logo="https://raw.githubusercontent.com/Acil2125/ee/main/liveevent.png",19;30 Persija vs Arema - Piala Presiden
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=13e513ca807008120246b46838272c26:e392b41821e6e3a3d0426d1efb43df9f
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
+https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17585_stream.mpd?hdnts=exp=1721838068~acl=/drm/dash/*~id=164396008~hmac=ffcb799332ac7eb026aaa1384cec9cee1c3d87914371e9cddefb564e1083215c
 
 #EXTINF:-1 group-logo="" group-title="Matchday, 24 Juli✅" tvg-logo="https://raw.githubusercontent.com/Acil2125/ee/main/liveevent.png",17:15 Dortmund vs Cerezo Osaka - Friendly
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
@@ -952,7 +957,7 @@ https://tglmp04.akamaized.net/out/v1/6b351c6bf46a43d998e3f86b69cbce4f/manifest.m
 #KODIPROP:inputstream.adaptive.license_key=cdf0001f693942da990fe81afa3eb0cd:6b8d4bc58615439954851eeda771f417
 https://tglmp02.akamaized.net/out/v1/6e5a888d4bf847a2be521c55f7bfd08c/manifest.mpd
 
-#EXTINF:-1 tvg-id="Thairath TV HD.th" group-title="|EVENT| World Cup 26™ Qualifiers" tvg-id="" tvg-logo="https://i.ibb.co.com/hgSyb8F/wc2026qualifiers.png", LIVE 3 ??🇭
+#EXTINF:-1 tvg-id="Thairath TV HD.th" group-title="|EVENT| World Cup 26™ Qualifiers" tvg-id="" tvg-logo="https://i.ibb.co.com/hgSyb8F/wc2026qualifiers.png", LIVE 3 🇹🇭
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4b2bff3e598043cfaf949305e3d153fa:545df84ff4c54af6b5385516e0f65956
 https://ubn-streamer1.cdn.3bbtv.com:8443/3bb/live/32/32.mpd
