@@ -4572,3 +4572,8 @@ https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"5Bw6b3UysuOoKNlYASTInQ", "kid":"wYtqpzm+TAt3RgX8+11raA" } ], "type":"temporary" }
 https://webtvstream.bhtelecom.ba/hls6/arena1.mpd
+
+#EXTINF:-1 group-logo="" group-title="LIVE EVENT ✅" tvg-logo="https://raw.githubusercontent.com/Acil2125/ee/main/liveevent.png",(27/07 - 19.30) Indonesia vs Malaysia - AFF U19
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b5874021e33f49d4dac5cd55344b0d74:7b49f3eecf4e9336ffdb9a549d2ee781
+https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17601_stream.mpd?hdnts=exp=1721908527~acl=/drm/dash/*~id=74987669~hmac=bdda106d3fb7738c187f3886b6eeb2e5efbeae1f861d2cf4d8c8357c34e0030d
