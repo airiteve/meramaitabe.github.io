@@ -4534,22 +4534,34 @@ https://webhdrus.onlinehdhls.ru/lb/premium577/index.m3u8
 
 #EXTINF:-1 tvg-name="mutv" tvg-logo="https://raw.githubusercontent.com/Acil2125/ciaelah/main/idn/laptop.png" group-title="|ProgTV| For iOS & Pc 💻",MUTV
 https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
+
+
+
+
+
+
+
 
 #EXTVLCOPT:http-referrer=https://i.fdcdn.xyz/v11/
-#EXTINF:-1 tvg-name="mutv" tvg-logo="https://raw.githubusercontent.com/Acil2125/ciaelah/main/idn/laptop.png" group-title="Live Timnas U-19",Live 1
-https://live-kh-1123898219.thapcam.link/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MjE0OTk5MDcsInVyaSI6Ii9waG9IRCIsImlhdCI6MTcyMTQ3ODMwN30.1Lv5cvN0gksJ1oj-k2rown7g9SM5q7og6LwGSyRwRPI-/phoHD/playlist.m3u8
+#EXTINF:-1 tvg-name="mutv" tvg-logo="https://raw.githubusercontent.com/Acil2125/ciaelah/main/idn/laptop.png" group-title="|EVENT| Timnas U-19 🇮🇩",Live 1
+http://clive.malisresidences.com:1935/rhm_hdtv/_definst_/smil:RHMHDTV.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-name="mutv" tvg-logo="https://raw.githubusercontent.com/Acil2125/ciaelah/main/idn/laptop.png" group-title="Live Timnas U-19",Live 2 Indosiar
-https://raw.githubusercontent.com/B-inalm3u-Custom/Nasional/B-inal22/timnas1.m3u8
-
-#EXTINF:-1 tvg-name="mutv" tvg-logo="https://raw.githubusercontent.com/Acil2125/ciaelah/main/idn/laptop.png" group-title="Live Timnas U-19",Live 3 sctv
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b5874021e33f49d4dac5cd55344b0d74:7b49f3eecf4e9336ffdb9a549d2ee781
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SM-A307GN Build/RP1A.200720.012; wv) iPhone (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36
-https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17578_stream.mpd?hdntl=exp=1721752099~acl=%2f*~id=74987669~data=hdntl~hmac=a95e9921b8d04ee0943dcfadba686eb444925d7457db246bdc25d290f45ac904
-
-#EXTINF:-1 tvg-name="mutv" tvg-logo="https://raw.githubusercontent.com/Acil2125/ciaelah/main/idn/laptop.png" group-title="Live Timnas U-19",Live 4
-http://1clive.malisresidences.com:1935/hm_hdtv/_definst_/smil:HMHDTV.smil/chunklist_w1093715607_b1800000_sleng.m3u8
+#EXTINF:-1 tvg-name="mutv" tvg-logo="https://raw.githubusercontent.com/Acil2125/ciaelah/main/idn/laptop.png" group-title="|EVENT| Timnas U-19 🇮🇩",Live 2
+http://mkctvnew.my.id/u16.m3u8
+
+#EXTINF:-1 tvg-name="mutv" tvg-logo="https://raw.githubusercontent.com/Acil2125/ciaelah/main/idn/laptop.png" group-title="|EVENT| Timnas U-19 🇮🇩",Live 3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=dc7f3c3627037e37470e7adda483fe4e:5fe23c7e5771e9b0584b1318cc3280bd
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
+https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17609_stream.mpd?hdnts=exp=1722253798~acl=/drm/dash/*~id=53190346~hmac=ba57fc1e6a04fccde0ba3fdf82b54e4a410a2c637bd0c53bdaf9a22008c783e9
+
+#EXTINF:-1 tvg-name="mutv" tvg-logo="https://raw.githubusercontent.com/Acil2125/ciaelah/main/idn/laptop.png" group-title="|EVENT| Timnas U-19 🇮🇩",Live 4
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=dc7f3c3627037e37470e7adda483fe4e:5fe23c7e5771e9b0584b1318cc3280bd
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
+https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17609_stream.mpd?hdnts=exp=1722095830~acl=/drm/dash/*~id=74987669~hmac=958797ac56e05e89d49437b70f78b072afa3986d450622c04c374e4805706f7d
 
 
 
@@ -4565,22 +4577,8 @@ http://1clive.malisresidences.com:1935/hm_hdtv/_definst_/smil:HMHDTV.smil/chunkl
 
 
 
-#EXTINF:-1 group-logo="" group-title="LIVE EVENT ✅" tvg-logo="https://raw.githubusercontent.com/Acil2125/ee/main/liveevent.png",(28/07 - 7.00) Arsenal vs Man United - Club Friendly
-https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
+#EXTINF:-1 group-logo="" group-title="LIVE EVENT ✅" tvg-logo="https://raw.githubusercontent.com/Acil2125/ee/main/liveevent.png",(29/07 - 15.00) Malaysia vs Australia - AFF U19
+http://mkctvnew.my.id/u16.m3u8
 
-#EXTINF:-1 group-logo="" group-title="LIVE EVENT ✅" tvg-logo="https://raw.githubusercontent.com/Acil2125/ee/main/liveevent.png",(28/07 - 16.30) Tokyo Verdy vs Brighton - Club Friendly
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDQzYTRlODMtMGE2Mi0zNTNlLWFlMzctZjUxNDk4NDliYjM5
-https://cempedak-live-cdn.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd
-#https://nyanv-live-cdn.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd
-
-#EXTINF:-1 group-logo="" group-title="LIVE EVENT ✅" tvg-logo="https://raw.githubusercontent.com/Acil2125/ee/main/liveevent.png",(28/07 - 9.00) UFC 304 - Leon Edwards vs Belal Muhammad
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-https://unifi-live01.secureswiftcontent.com/UnifiHD/live11.mpd
-
-#EXTINF:-1 group-logo="" group-title="LIVE EVENT ✅" tvg-logo="https://raw.githubusercontent.com/Acil2125/ee/main/liveevent.png",(28/07 - 20.00) F1 - Belgian GP
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0036a96b6bbbf1828488f90e6b2ca1f4:d24e6ae926e88f8303b6926271ff8155
-https://linear307-it-dash1-prd-akp1.cdn13.skycdp.com/016a/31478/FHD/skysportf1/master.mpd
+#EXTINF:-1 group-logo="" group-title="LIVE EVENT ✅" tvg-logo="https://raw.githubusercontent.com/Acil2125/ee/main/liveevent.png",(29/07 - 19.30) Indonesia vs Thailand - Final AFF U19
+http://mkctvnew.my.id/u16.m3u8
