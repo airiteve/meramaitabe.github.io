@@ -4580,5 +4580,15 @@ https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17609_stream.mpd?h
 #EXTINF:-1 group-logo="" group-title="LIVE EVENT ✅" tvg-logo="https://raw.githubusercontent.com/Acil2125/ee/main/liveevent.png",(29/07 - 15.00) Malaysia vs Australia - AFF U19
 http://mkctvnew.my.id/u16.m3u8
 
+#EXTINF:-1 group-logo="" group-title="LIVE EVENT ✅" tvg-logo="https://raw.githubusercontent.com/Acil2125/ee/main/liveevent.png",Refresh secara berkala untuk terus update
+http://mkctvnew.my.id/u16.m3u8
+
 #EXTINF:-1 group-logo="" group-title="LIVE EVENT ✅" tvg-logo="https://raw.githubusercontent.com/Acil2125/ee/main/liveevent.png",(29/07 - 19.30) Indonesia vs Thailand - Final AFF U19
 http://mkctvnew.my.id/u16.m3u8
+
+#EXTINF:-1 group-logo="" group-title="LIVE EVENT ✅" tvg-logo="https://raw.githubusercontent.com/Acil2125/ee/main/liveevent.png",(29/07 - 19.30) Indonesia vs Thailand - Final AFF U19
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=dc7f3c3627037e37470e7adda483fe4e:5fe23c7e5771e9b0584b1318cc3280bd
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17609_stream.mpd?hdnts=exp=1722267038~acl=/drm/dash/*~id=155691731~hmac=276ffce5ae5c3e79c5fb9081c4ef63e6d7e45889aa4df776c62ff03c06e1445d
