@@ -4575,7 +4575,7 @@ https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17609_stream.mpd?h
 #EXTINF:-1 group-logo="" group-title="LIVE EVENT ✅" tvg-logo="https://raw.githubusercontent.com/Acil2125/ee/main/liveevent.png",(0) selalu refresh untuk terus update
 http://mkctvsnew.my.id/u16.m3u8
 
-#EXTINF:-1 group-logo="" group-title="Informasi" tvg-logo="https://raw.githubusercontent.com/Acil2125/ee/main/liveevvent.png",Last update 31/07 - 18.40
+#EXTINF:-1 group-logo="" group-title="Informasi" tvg-logo="https://raw.githubusercontent.com/Acil2125/ee/main/liveevvent.png",Last update 01/08 - 17.40
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
 https://dcf-ak-livedazn.akamaized.net/dashdrm/dazn-linear-022/stream.mpd
 
@@ -4588,23 +4588,24 @@ https://dcf-ak-livedazn.akamaized.net/dashdrm/dazn-linear-022/stream.mpd
 
 
 
-#EXTINF:-1 group-logo="" group-title="LIVE EVENT ✅" tvg-logo="https://raw.githubusercontent.com/Acil2125/ee/main/liveevent.png",(31/07 - 17.00) Urawa Reds vs Newcastle United - Club Friendly 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjExZWU4OTctOTdiZS0zOTQ0LWE3Y2UtYTIxZWVmODBlNjEz
-#EXTVLCOPT:http-referrer=https://visionplus.id
-https://melon-live-cdn.mncnow.id/live/eds/soccerchannel-test/sa_dash_vmx/soccerchannel-test.mpd
+#EXTINF:-1 group-logo="" group-title="LIVE EVENT ✅" tvg-logo="https://raw.githubusercontent.com/Acil2125/ee/main/liveevent.png",(02/08 - 20.00) Maroko vs USA - Olympic Football
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddylivehd.php 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1 
+https://webhdrus.onlinehdhls.ru/lb/premium91/index.m3u8|Origin=https://weblivehdplay.ru
 
-#EXTINF:-1 group-logo="" group-title="LIVE EVENT ✅" tvg-logo="https://raw.githubusercontent.com/Acil2125/ee/main/liveevent.png",(01/08 - 6.30) Chelsea vs America - Club Friendly 
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddylivehd.php
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15
-https://webhdrus.onlinehdhls.ru/lb/premium375/index.m3u8
+#EXTINF:-1 group-logo="" group-title="LIVE EVENT ✅" tvg-logo="https://raw.githubusercontent.com/Acil2125/ee/main/liveevent.png",(02/08 - 22.00) Japan vs Spain - Olympic Football
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddylivehd.php 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1 
+https://webhdrus.onlinehdhls.ru/lb/premium92/index.m3u8|Origin=https://weblivehdplay.ru
 
-#EXTINF:-1 group-logo="" group-title="LIVE EVENT ✅" tvg-logo="https://raw.githubusercontent.com/Acil2125/ee/main/liveevent.png",(01/08 - 6.30) Liverpool vs Arsenal - Club Friendly 
+#EXTINF:-1 group-logo="" group-title="LIVE EVENT ✅" tvg-logo="https://raw.githubusercontent.com/Acil2125/ee/main/liveevent.png",(03/08 - 0.00) Mesir vs Paraguay - Olympic Football
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddylivehd.php 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1 
+https://webhdrus.onlinehdhls.ru/lb/premium91/index.m3u8|Origin=https://weblivehdplay.ru
 
-#EXTINF:-1 group-logo="" group-title="LIVE EVENT ✅" tvg-logo="https://raw.githubusercontent.com/Acil2125/ee/main/liveevent.png",(01/08 - 7.30) Milan vs Real Madrid - Club Friendly 
+#EXTINF:-1 group-logo="" group-title="LIVE EVENT ✅" tvg-logo="https://raw.githubusercontent.com/Acil2125/ee/main/liveevent.png",(03/08 - 2.00) Argentina vs france - Olympic Football
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+#EXTVLCOPT:http-referer=https://widevine.licenses4.me/\u0026User-agent\u003dREDLINECLIENT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
-https://dcf-ak-livedazn.akamaized.net/dashdrm/dazn-linear-022/stream.mpd
-#https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-022/stream.mpd
-
-#EXTINF:-1 group-logo="" group-title="LIVE EVENT ✅" tvg-logo="https://raw.githubusercontent.com/Acil2125/ee/main/liveevent.png",(01/08 - 9.00) Man United vs Real Betis - Club Friendly 
-https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
+https://dcf-ak-livedazn.akamaized.net/dashdrm/dazn-linear-032/stream.mpd
