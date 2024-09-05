@@ -4590,11 +4590,14 @@ https://webhdrus.onlinehdhls.ru/lb/premium92/index.m3u8|Origin=https://weblivehd
 https://webhdrus.onlinehdhls.ru/lb/premium91/index.m3u8|Origin=https://weblivehdplay.ru
 
 #EXTINF:-1 group-logo="" group-title="LIVE EVENT ✅" tvg-logo="https://raw.githubusercontent.com/Acil2125/ee/main/liveevent.png",(06/09 - 1.00) (CH1) Indonesia vs Arab Saudi - Kualifikasi Piala Dunia
+https://rcti-cutv.rctiplus.id/rcti-sdi-avc1_800000=7-mp4a_96000=1.m3u8
+
+#EXTINF:-1 group-logo="" group-title="LIVE EVENT ✅" tvg-logo="https://raw.githubusercontent.com/Acil2125/ee/main/liveevent.png",(06/09 - 1.00) (CH2) Indonesia vs Arab Saudi - Kualifikasi Piala Dunia
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddylivehd.php 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1 
 https://webhdrus.onlinehdhls.ru/lb/premium93/index.m3u8|Origin=https://weblivehdplay.ru
 
-#EXTINF:-1 group-logo="" group-title="LIVE EVENT ✅" tvg-logo="https://raw.githubusercontent.com/Acil2125/ee/main/liveevent.png",(06/09 - 1.00) (CH2) Indonesia vs Arab Saudi - Kualifikasi Piala Dunia
+#EXTINF:-1 group-logo="" group-title="LIVE EVENT ✅" tvg-logo="https://raw.githubusercontent.com/Acil2125/ee/main/liveevent.png",(06/09 - 1.00) (CH3) Indonesia vs Arab Saudi - Kualifikasi Piala Dunia
 http://ktv.im:8080/kk56712/kk12345/49524
 
 #EXTINF:-1 group-logo="" group-title="LIVE EVENT ✅" tvg-logo="https://raw.githubusercontent.com/Acil2125/ee/main/liveevent.png",(06/09 - 7.00) Argentina vs Chile - Kualifikasi Piala Dunia
