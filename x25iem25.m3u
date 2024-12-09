@@ -1098,14 +1098,13 @@ https://d1abp075u76pbq.cloudfront.net/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSpor
 #EXTINF:-1 group-title="|SPORTS| Asia Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Mediacorp_flat_logo_%282015%29.svg/1200px-Mediacorp_flat_logo_%282015%29.svg.png", Mediacorp 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=cdf0001f693942da990fe81afa3eb0cd:6b8d4bc58615439954851eeda771f417
-https://tglmp02.akamaized.net/out/v1/6e5a888d4bf847a2be521c55f7bfd08c/manifest.mpd
-
-#EXTINF:-1 group-title="|SPORTS| Asia Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Mediacorp_flat_logo_%282015%29.svg/1200px-Mediacorp_flat_logo_%282015%29.svg.png", Mediacorp 6
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cdb834a4f2fd413a8e50d1a7170701d2:3d6ae85b34e8aac7488c780cea215306
 https://tglmp04.akamaized.net/out/v1/6b351c6bf46a43d998e3f86b69cbce4f/manifest.mpd
+
+#EXTINF:-1 group-title="|SPORTS| Asia Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Mediacorp_flat_logo_%282015%29.svg/1200px-Mediacorp_flat_logo_%282015%29.svg.png", Mediacorp 6
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cdf0001f693942da990fe81afa3eb0cd:6b8d4bc58615439954851eeda771f417
+https://tglmp02.akamaized.net/out/v1/6e5a888d4bf847a2be521c55f7bfd08c/manifest.mpd
 
 EXTINF:-1 tvg-name="SPORTSTARS 3" tvg-logo="https://raw.githubusercontent.com/Acil2125/ciaelah/main/idn/sportstars3.png" group-title="|SPORTS| Asia Indonesia",SPORTSTARS 3 (V+)
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -3679,13 +3678,16 @@ https://d1abp075u76pbq.cloudfront.net/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSpor
 #EXTINF:-1 group-logo="" group-title="LIVE EVENT ✅" tvg-logo="https://raw.githubusercontent.com/Acil2125/ee/main/aff.png",(09/12 - 19.30) Myanmar vs Indonesia CH1 - ASEAN Championship
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cdf0001f693942da990fe81afa3eb0cd:6b8d4bc58615439954851eeda771f417
-https://tglmp04.akamaized.net/out/v1/6b351c6bf46a43d998e3f86b69cbce4f/manifest.mpd
+https://tglmp02.akamaized.net/out/v1/6e5a888d4bf847a2be521c55f7bfd08c/manifest.mpd
+
+
 
 #EXTINF:-1 group-logo="" group-title="LIVE EVENT ✅" tvg-logo="https://raw.githubusercontent.com/Acil2125/ee/main/aff.png",(09/12 - 20.00) Laos vs Vietnam - ASEAN Championship
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cdb834a4f2fd413a8e50d1a7170701d2:3d6ae85b34e8aac7488c780cea215306
-https://tglmp02.akamaized.net/out/v1/6e5a888d4bf847a2be521c55f7bfd08c/manifest.mpd
+https://tglmp04.akamaized.net/out/v1/6b351c6bf46a43d998e3f86b69cbce4f/manifest.mpd
+
 
 #EXTINF:-1 group-logo="" group-title="LIVE EVENT ✅" tvg-logo="https://raw.githubusercontent.com/Acil2125/ee/main/epl.png",(10/12 - 3.00) West Ham United vs Wolverhampton Wanderers - English Premier League
 #KODIPROP:inputstreamaddon=inputstream.adaptive
